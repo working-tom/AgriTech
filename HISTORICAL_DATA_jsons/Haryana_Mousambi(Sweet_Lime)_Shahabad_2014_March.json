@@ -1,0 +1,29 @@
+{
+  "2014-03-10": {
+    "min": 1600.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-03-21": {
+    "min": 1600.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-03-26": {
+    "min": 1600.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  }
+}

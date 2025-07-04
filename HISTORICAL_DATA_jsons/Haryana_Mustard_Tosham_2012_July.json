@@ -1,0 +1,29 @@
+{
+  "2012-07-02": {
+    "min": 3200.0,
+    "max": 3230.0,
+    "modal": 3210.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mustard"
+  },
+  "2012-07-09": {
+    "min": 3350.0,
+    "max": 3400.0,
+    "modal": 3350.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mustard"
+  },
+  "2012-07-10": {
+    "min": 3300.0,
+    "max": 3570.0,
+    "modal": 3450.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mustard"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-02-07": {
+    "min": 1800.0,
+    "max": 1850.0,
+    "modal": 1825.0,
+    "arrival": 24.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-02-09": {
+    "min": 1825.0,
+    "max": 1825.0,
+    "modal": 1825.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-02-11": {
+    "min": 1800.0,
+    "max": 1850.0,
+    "modal": 1825.0,
+    "arrival": 14.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2015-02-14": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "modal": 1800.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  }
+}

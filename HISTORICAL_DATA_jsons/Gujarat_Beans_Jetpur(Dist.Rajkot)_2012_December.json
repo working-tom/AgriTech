@@ -1,0 +1,38 @@
+{
+  "2012-12-01": {
+    "min": 1900.0,
+    "max": 2550.0,
+    "modal": 2400.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beans (Whole)"
+  },
+  "2012-12-06": {
+    "min": 2250.0,
+    "max": 2755.0,
+    "modal": 2500.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beans (Whole)"
+  },
+  "2012-12-08": {
+    "min": 2250.0,
+    "max": 2955.0,
+    "modal": 2850.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beans (Whole)"
+  },
+  "2012-12-18": {
+    "min": 2005.0,
+    "max": 2505.0,
+    "modal": 2205.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beans (Whole)"
+  }
+}

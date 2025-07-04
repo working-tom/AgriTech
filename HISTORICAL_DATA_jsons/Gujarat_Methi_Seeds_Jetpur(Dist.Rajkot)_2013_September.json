@@ -1,0 +1,38 @@
+{
+  "2013-09-07": {
+    "min": 1505.0,
+    "max": 2255.0,
+    "modal": 2105.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  },
+  "2013-09-10": {
+    "min": 1850.0,
+    "max": 2225.0,
+    "modal": 2055.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  },
+  "2013-09-12": {
+    "min": 1905.0,
+    "max": 2255.0,
+    "modal": 2150.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  },
+  "2013-09-13": {
+    "min": 2205.0,
+    "max": 2455.0,
+    "modal": 2375.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2013-02-06": {
+    "min": 2830.0,
+    "max": 3030.0,
+    "modal": 2975.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Soyabeen"
+  },
+  "2013-02-11": {
+    "min": 2880.0,
+    "max": 3055.0,
+    "modal": 3030.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2013-02-13": {
+    "min": 2915.0,
+    "max": 3100.0,
+    "modal": 3055.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2013-02-22": {
+    "min": 3080.0,
+    "max": 3080.0,
+    "modal": 3080.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

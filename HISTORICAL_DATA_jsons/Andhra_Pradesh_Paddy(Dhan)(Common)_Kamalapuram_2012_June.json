@@ -1,0 +1,38 @@
+{
+  "2012-06-01": {
+    "min": 976.0,
+    "max": 1176.0,
+    "modal": 1076.0,
+    "arrival": 34.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2012-06-06": {
+    "min": 1500.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 12.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2012-06-15": {
+    "min": 997.0,
+    "max": 1097.0,
+    "modal": 1047.0,
+    "arrival": 17.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nellore Sanna"
+  },
+  "2012-06-25": {
+    "min": 1082.0,
+    "max": 1182.0,
+    "modal": 1132.0,
+    "arrival": 15.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nellore Sanna"
+  }
+}

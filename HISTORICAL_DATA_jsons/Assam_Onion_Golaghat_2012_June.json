@@ -1,0 +1,29 @@
+{
+  "2012-06-07": {
+    "min": 1400.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Big"
+  },
+  "2012-06-08": {
+    "min": 1400.0,
+    "max": 1600.0,
+    "modal": 1450.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2012-06-21": {
+    "min": 900.0,
+    "max": 1300.0,
+    "modal": 1250.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  }
+}

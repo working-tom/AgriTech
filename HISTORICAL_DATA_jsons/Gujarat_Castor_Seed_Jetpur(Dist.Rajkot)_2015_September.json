@@ -1,0 +1,29 @@
+{
+  "2015-09-09": {
+    "min": 3600.0,
+    "max": 3805.0,
+    "modal": 3700.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2015-09-15": {
+    "min": 3505.0,
+    "max": 3875.0,
+    "modal": 3700.0,
+    "arrival": 9.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2015-09-18": {
+    "min": 3505.0,
+    "max": 3850.0,
+    "modal": 3700.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  }
+}

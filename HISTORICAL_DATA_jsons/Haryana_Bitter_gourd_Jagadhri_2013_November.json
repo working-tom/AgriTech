@@ -1,0 +1,38 @@
+{
+  "2013-11-01": {
+    "min": 900.0,
+    "max": 1400.0,
+    "modal": 1400.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bitter Gourd"
+  },
+  "2013-11-02": {
+    "min": 800.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bitter Gourd"
+  },
+  "2013-11-06": {
+    "min": 600.0,
+    "max": 1000.0,
+    "modal": 900.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bitter Gourd"
+  },
+  "2013-11-07": {
+    "min": 700.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bitter Gourd"
+  }
+}

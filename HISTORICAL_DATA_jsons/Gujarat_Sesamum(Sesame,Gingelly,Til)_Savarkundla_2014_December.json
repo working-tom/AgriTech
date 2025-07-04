@@ -1,0 +1,236 @@
+{
+  "2014-12-01": {
+    "min": 9400.0,
+    "max": 10000.0,
+    "modal": 9700.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-02": {
+    "min": 9200.0,
+    "max": 10000.0,
+    "modal": 9600.0,
+    "arrival": 1.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-03": {
+    "min": 9375.0,
+    "max": 10355.0,
+    "modal": 9865.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-04": {
+    "min": 8750.0,
+    "max": 10000.0,
+    "modal": 9375.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-05": {
+    "min": 9125.0,
+    "max": 10000.0,
+    "modal": 9563.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-06": {
+    "min": 9500.0,
+    "max": 10000.0,
+    "modal": 9750.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-08": {
+    "min": 9500.0,
+    "max": 10125.0,
+    "modal": 9813.0,
+    "arrival": 1.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-09": {
+    "min": 9450.0,
+    "max": 10125.0,
+    "modal": 9788.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-10": {
+    "min": 9500.0,
+    "max": 10000.0,
+    "modal": 9750.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-11": {
+    "min": 9500.0,
+    "max": 10125.0,
+    "modal": 9813.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-12": {
+    "min": 9250.0,
+    "max": 10060.0,
+    "modal": 9655.0,
+    "arrival": 1.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-13": {
+    "min": 9500.0,
+    "max": 10125.0,
+    "modal": 9813.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-15": {
+    "min": 9500.0,
+    "max": 10260.0,
+    "modal": 9880.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-16": {
+    "min": 9950.0,
+    "max": 11250.0,
+    "modal": 10600.0,
+    "arrival": 1.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-17": {
+    "min": 10250.0,
+    "max": 10750.0,
+    "modal": 10500.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-18": {
+    "min": 10000.0,
+    "max": 10750.0,
+    "modal": 10375.0,
+    "arrival": 1.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-19": {
+    "min": 10000.0,
+    "max": 10905.0,
+    "modal": 10453.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-20": {
+    "min": 8750.0,
+    "max": 10685.0,
+    "modal": 9718.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-22": {
+    "min": 9750.0,
+    "max": 10870.0,
+    "modal": 10310.0,
+    "arrival": 0.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-23": {
+    "min": 9875.0,
+    "max": 10435.0,
+    "modal": 10155.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-24": {
+    "min": 9875.0,
+    "max": 10360.0,
+    "modal": 10118.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-26": {
+    "min": 9750.0,
+    "max": 10250.0,
+    "modal": 10000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-27": {
+    "min": 9750.0,
+    "max": 10255.0,
+    "modal": 10003.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-29": {
+    "min": 9750.0,
+    "max": 10250.0,
+    "modal": 10000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-30": {
+    "min": 9750.0,
+    "max": 10300.0,
+    "modal": 10025.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-12-31": {
+    "min": 9750.0,
+    "max": 10250.0,
+    "modal": 10000.0,
+    "arrival": 1.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  }
+}

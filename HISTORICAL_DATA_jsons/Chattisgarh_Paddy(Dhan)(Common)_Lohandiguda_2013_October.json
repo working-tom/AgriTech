@@ -1,0 +1,20 @@
+{
+  "2013-10-04": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Coarse"
+  },
+  "2013-10-18": {
+    "min": 1100.0,
+    "max": 1115.0,
+    "modal": 1107.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Coarse"
+  }
+}

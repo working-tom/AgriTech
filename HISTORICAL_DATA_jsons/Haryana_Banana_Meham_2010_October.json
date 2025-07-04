@@ -1,0 +1,29 @@
+{
+  "2010-10-18": {
+    "min": 740.0,
+    "max": 760.0,
+    "modal": 750.0,
+    "arrival": 90.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Besrai"
+  },
+  "2010-10-25": {
+    "min": 750.0,
+    "max": 760.0,
+    "modal": 755.0,
+    "arrival": 70.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-10-29": {
+    "min": 0.0,
+    "max": 1500.0,
+    "modal": 750.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

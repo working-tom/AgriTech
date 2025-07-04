@@ -1,0 +1,20 @@
+{
+  "2010-03-23": {
+    "min": 0.0,
+    "max": 1000.0,
+    "modal": 975.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chapathi"
+  },
+  "2010-03-24": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1100.0,
+    "arrival": 33.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-08-21": {
+    "min": 1001.0,
+    "max": 1001.0,
+    "modal": 1001.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-08-26": {
+    "min": 1840.0,
+    "max": 1950.0,
+    "modal": 1900.0,
+    "arrival": 17.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  },
+  "2015-08-27": {
+    "min": 1325.0,
+    "max": 1465.0,
+    "modal": 1400.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  },
+  "2015-08-28": {
+    "min": 1100.0,
+    "max": 1900.0,
+    "modal": 1500.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  }
+}

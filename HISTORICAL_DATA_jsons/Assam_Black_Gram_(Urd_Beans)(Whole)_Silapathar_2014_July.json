@@ -1,0 +1,29 @@
+{
+  "2014-07-01": {
+    "min": 4810.0,
+    "max": 5510.0,
+    "modal": 5010.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram Dal"
+  },
+  "2014-07-02": {
+    "min": 4810.0,
+    "max": 5510.0,
+    "modal": 5010.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram Dal"
+  },
+  "2014-07-22": {
+    "min": 5500.0,
+    "max": 6200.0,
+    "modal": 6000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

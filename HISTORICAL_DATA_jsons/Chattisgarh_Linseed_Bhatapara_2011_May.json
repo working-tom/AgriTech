@@ -1,0 +1,47 @@
+{
+  "2011-05-21": {
+    "min": 2500.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  },
+  "2011-05-23": {
+    "min": 2650.0,
+    "max": 2700.0,
+    "modal": 2675.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  },
+  "2011-05-24": {
+    "min": 2575.0,
+    "max": 2650.0,
+    "modal": 2612.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  },
+  "2011-05-25": {
+    "min": 2700.0,
+    "max": 2700.0,
+    "modal": 2700.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  },
+  "2011-05-30": {
+    "min": 2650.0,
+    "max": 2650.0,
+    "modal": 2650.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  }
+}

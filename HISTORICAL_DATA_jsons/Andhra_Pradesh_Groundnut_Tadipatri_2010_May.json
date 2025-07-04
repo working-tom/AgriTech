@@ -1,0 +1,29 @@
+{
+  "2010-05-01": {
+    "min": 2900.0,
+    "max": 3100.0,
+    "modal": 3000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TMV-2"
+  },
+  "2010-05-27": {
+    "min": 3125.0,
+    "max": 3500.0,
+    "modal": 3400.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TMV-2"
+  },
+  "2010-05-28": {
+    "min": 3125.0,
+    "max": 3500.0,
+    "modal": 3400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TMV-2"
+  }
+}

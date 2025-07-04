@@ -1,0 +1,38 @@
+{
+  "2010-11-15": {
+    "min": 2500.0,
+    "max": 2850.0,
+    "modal": 2555.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Groundnut(Split)"
+  },
+  "2010-11-19": {
+    "min": 2900.0,
+    "max": 3055.0,
+    "modal": 2950.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Groundnut(Split)"
+  },
+  "2010-11-20": {
+    "min": 2625.0,
+    "max": 2900.0,
+    "modal": 2755.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Groundnut(Split)"
+  },
+  "2010-11-30": {
+    "min": 2500.0,
+    "max": 2850.0,
+    "modal": 2700.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Groundnut(Split)"
+  }
+}

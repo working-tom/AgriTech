@@ -1,0 +1,29 @@
+{
+  "2012-05-09": {
+    "min": 2800.0,
+    "max": 2850.0,
+    "modal": 2825.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  },
+  "2012-05-10": {
+    "min": 2850.0,
+    "max": 2890.0,
+    "modal": 2875.0,
+    "arrival": 150.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  },
+  "2012-05-25": {
+    "min": 2800.0,
+    "max": 2850.0,
+    "modal": 2825.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2012-10-04": {
+    "min": 1000.0,
+    "max": 1500.0,
+    "modal": 1250.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  },
+  "2012-10-05": {
+    "min": 1500.0,
+    "max": 1750.0,
+    "modal": 1625.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  }
+}

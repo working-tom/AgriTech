@@ -1,0 +1,47 @@
+{
+  "2010-04-17": {
+    "min": 1050.0,
+    "max": 1150.0,
+    "modal": 1100.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lokwan"
+  },
+  "2010-04-19": {
+    "min": 1050.0,
+    "max": 1250.0,
+    "modal": 1150.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-04-20": {
+    "min": 1100.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-04-22": {
+    "min": 1125.0,
+    "max": 1325.0,
+    "modal": 1250.0,
+    "arrival": 0.55,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-04-23": {
+    "min": 1200.0,
+    "max": 1400.0,
+    "modal": 1300.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

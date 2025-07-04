@@ -1,0 +1,29 @@
+{
+  "2014-07-14": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mahua Seed"
+  },
+  "2014-07-25": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mahua Seed"
+  },
+  "2014-07-30": {
+    "min": 1500.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mahua Seed"
+  }
+}

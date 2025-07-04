@@ -1,0 +1,20 @@
+{
+  "2015-02-06": {
+    "min": 400.0,
+    "max": 1400.0,
+    "modal": 950.0,
+    "arrival": 0.43,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2015-02-13": {
+    "min": 450.0,
+    "max": 1300.0,
+    "modal": 750.0,
+    "arrival": 0.73,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  }
+}
