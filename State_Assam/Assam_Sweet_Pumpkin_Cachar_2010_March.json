@@ -1,0 +1,47 @@
+{
+  "2010-03-06": {
+    "min": 500.0,
+    "max": 800.0,
+    "modal": 700.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  },
+  "2010-03-19": {
+    "min": 350.0,
+    "max": 500.0,
+    "modal": 400.0,
+    "arrival": 2.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  },
+  "2010-03-22": {
+    "min": 300.0,
+    "max": 450.0,
+    "modal": 400.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  },
+  "2010-03-24": {
+    "min": 300.0,
+    "max": 500.0,
+    "modal": 400.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  },
+  "2010-03-25": {
+    "min": 300.0,
+    "max": 500.0,
+    "modal": 400.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  }
+}

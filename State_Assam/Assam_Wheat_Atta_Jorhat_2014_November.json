@@ -1,0 +1,56 @@
+{
+  "2014-11-01": {
+    "min": 2100.0,
+    "max": 2200.0,
+    "modal": 2150.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wheat Atta"
+  },
+  "2014-11-17": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wheat Atta"
+  },
+  "2014-11-18": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-11-22": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wheat Atta"
+  },
+  "2014-11-24": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wheat Atta"
+  },
+  "2014-11-25": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wheat Atta"
+  }
+}

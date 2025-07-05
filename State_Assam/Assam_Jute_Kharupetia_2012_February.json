@@ -1,0 +1,65 @@
+{
+  "2012-02-01": {
+    "min": 1900.0,
+    "max": 2000.0,
+    "modal": 1950.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2012-02-13": {
+    "min": 1900.0,
+    "max": 2000.0,
+    "modal": 1950.0,
+    "arrival": 18.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2012-02-15": {
+    "min": 2100.0,
+    "max": 2250.0,
+    "modal": 2200.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2012-02-20": {
+    "min": 1900.0,
+    "max": 2000.0,
+    "modal": 1950.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2012-02-22": {
+    "min": 2200.0,
+    "max": 2300.0,
+    "modal": 2250.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "W-5/TD-5"
+  },
+  "2012-02-27": {
+    "min": 2150.0,
+    "max": 2250.0,
+    "modal": 2225.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2012-02-29": {
+    "min": 2100.0,
+    "max": 2200.0,
+    "modal": 2150.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  }
+}

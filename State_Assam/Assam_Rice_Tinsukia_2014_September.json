@@ -1,0 +1,101 @@
+{
+  "2014-09-01": {
+    "min": 3000.0,
+    "max": 3500.0,
+    "modal": 3200.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-09-02": {
+    "min": 2200.0,
+    "max": 2500.0,
+    "modal": 2400.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-03": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2014-09-04": {
+    "min": 2100.0,
+    "max": 2300.0,
+    "modal": 2200.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-05": {
+    "min": 2400.0,
+    "max": 2600.0,
+    "modal": 2500.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2014-09-06": {
+    "min": 2800.0,
+    "max": 3300.0,
+    "modal": 3200.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-09-07": {
+    "min": 2200.0,
+    "max": 2600.0,
+    "modal": 2400.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-08": {
+    "min": 2200.0,
+    "max": 2500.0,
+    "modal": 2300.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-10": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 7.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-11": {
+    "min": 2200.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-12": {
+    "min": 2800.0,
+    "max": 3300.0,
+    "modal": 3000.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  }
+}

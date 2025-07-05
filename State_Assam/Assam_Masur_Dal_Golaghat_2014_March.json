@@ -1,0 +1,47 @@
+{
+  "2014-03-04": {
+    "min": 6000.0,
+    "max": 8000.0,
+    "modal": 7500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  },
+  "2014-03-05": {
+    "min": 6000.0,
+    "max": 8000.0,
+    "modal": 7500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  },
+  "2014-03-11": {
+    "min": 6000.0,
+    "max": 7500.0,
+    "modal": 7000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  },
+  "2014-03-26": {
+    "min": 5800.0,
+    "max": 6200.0,
+    "modal": 6000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masoor Gola"
+  },
+  "2014-03-29": {
+    "min": 5800.0,
+    "max": 6200.0,
+    "modal": 6000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masoor Gola"
+  }
+}

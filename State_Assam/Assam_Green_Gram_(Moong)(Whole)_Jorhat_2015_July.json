@@ -1,0 +1,29 @@
+{
+  "2015-07-27": {
+    "min": 8000.0,
+    "max": 8500.0,
+    "modal": 8200.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dhall-I"
+  },
+  "2015-07-29": {
+    "min": 7500.0,
+    "max": 8500.0,
+    "modal": 8200.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dhall-I"
+  },
+  "2015-07-31": {
+    "min": 7500.0,
+    "max": 8200.0,
+    "modal": 8000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dhall-I"
+  }
+}

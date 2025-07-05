@@ -1,0 +1,38 @@
+{
+  "2010-10-01": {
+    "min": 2800.0,
+    "max": 3500.0,
+    "modal": 3150.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2010-10-04": {
+    "min": 2850.0,
+    "max": 3500.0,
+    "modal": 3175.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2010-10-05": {
+    "min": 2850.0,
+    "max": 3500.0,
+    "modal": 3175.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  },
+  "2010-10-11": {
+    "min": 2800.0,
+    "max": 3500.0,
+    "modal": 3150.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TD-5"
+  }
+}
