@@ -1,0 +1,29 @@
+{
+  "2010-05-03": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 754.0,
+    "arrival": 0.54,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2010-05-04": {
+    "min": 800.0,
+    "max": 950.0,
+    "modal": 825.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2010-05-05": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 700.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  }
+}

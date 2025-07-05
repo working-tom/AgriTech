@@ -1,0 +1,20 @@
+{
+  "2012-03-03": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kinnow"
+  },
+  "2012-03-05": {
+    "min": 500.0,
+    "max": 1000.0,
+    "modal": 500.0,
+    "arrival": 0.13,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kinnow"
+  }
+}

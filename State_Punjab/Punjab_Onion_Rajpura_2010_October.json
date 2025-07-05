@@ -1,0 +1,47 @@
+{
+  "2010-10-03": {
+    "min": 1800.0,
+    "max": 2000.0,
+    "modal": 1950.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2010-10-05": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "modal": 2000.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2010-10-15": {
+    "min": 1600.0,
+    "max": 1700.0,
+    "modal": 1680.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2010-10-27": {
+    "min": 1500.0,
+    "max": 1700.0,
+    "modal": 1650.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-10-28": {
+    "min": 1000.0,
+    "max": 1400.0,
+    "modal": 1250.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  }
+}

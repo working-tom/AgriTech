@@ -1,0 +1,29 @@
+{
+  "2012-07-05": {
+    "min": 650.0,
+    "max": 690.0,
+    "modal": 670.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hybrid"
+  },
+  "2012-07-11": {
+    "min": 667.0,
+    "max": 667.0,
+    "modal": 667.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hybrid"
+  },
+  "2012-07-18": {
+    "min": 650.0,
+    "max": 690.0,
+    "modal": 670.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hybrid"
+  }
+}

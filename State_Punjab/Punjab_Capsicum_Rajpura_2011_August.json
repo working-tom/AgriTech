@@ -1,0 +1,56 @@
+{
+  "2011-08-19": {
+    "min": 2000.0,
+    "max": 3000.0,
+    "modal": 2600.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-08-21": {
+    "min": 950.0,
+    "max": 1225.0,
+    "modal": 1050.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-08-24": {
+    "min": 960.0,
+    "max": 1235.0,
+    "modal": 1050.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-08-26": {
+    "min": 950.0,
+    "max": 1250.0,
+    "modal": 1080.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-08-29": {
+    "min": 950.0,
+    "max": 1225.0,
+    "modal": 1050.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-08-30": {
+    "min": 950.0,
+    "max": 1235.0,
+    "modal": 1060.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  }
+}

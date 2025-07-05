@@ -1,0 +1,38 @@
+{
+  "2010-07-01": {
+    "min": 1930.0,
+    "max": 1950.0,
+    "modal": 1945.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2010-07-02": {
+    "min": 1955.0,
+    "max": 2000.0,
+    "modal": 1975.0,
+    "arrival": 4.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2010-07-07": {
+    "min": 1725.0,
+    "max": 1900.0,
+    "modal": 1825.0,
+    "arrival": 4.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2010-07-12": {
+    "min": 1400.0,
+    "max": 1975.0,
+    "modal": 1800.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  }
+}

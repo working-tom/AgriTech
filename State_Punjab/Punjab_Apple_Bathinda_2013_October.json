@@ -1,0 +1,38 @@
+{
+  "2013-10-01": {
+    "min": 3500.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  },
+  "2013-10-15": {
+    "min": 3500.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  },
+  "2013-10-25": {
+    "min": 4200.0,
+    "max": 4500.0,
+    "modal": 4300.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  },
+  "2013-10-31": {
+    "min": 5500.0,
+    "max": 6000.0,
+    "modal": 5700.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  }
+}

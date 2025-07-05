@@ -1,0 +1,29 @@
+{
+  "2013-12-05": {
+    "min": 3600.0,
+    "max": 4250.0,
+    "modal": 3850.0,
+    "arrival": 150.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  },
+  "2013-12-06": {
+    "min": 3750.0,
+    "max": 4350.0,
+    "modal": 3800.0,
+    "arrival": 100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  },
+  "2013-12-14": {
+    "min": 3750.0,
+    "max": 4160.0,
+    "modal": 3975.0,
+    "arrival": 150.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-09-01": {
+    "min": 10000.0,
+    "max": 10000.0,
+    "modal": 10000.0,
+    "arrival": 0.01,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2015-09-17": {
+    "min": 4600.0,
+    "max": 4700.0,
+    "modal": 4600.0,
+    "arrival": 0.01,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2015-09-18": {
+    "min": 4600.0,
+    "max": 4700.0,
+    "modal": 4600.0,
+    "arrival": 0.01,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2015-09-25": {
+    "min": 1400.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 0.91,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  }
+}

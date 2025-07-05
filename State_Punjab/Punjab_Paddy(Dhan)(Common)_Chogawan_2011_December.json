@@ -1,0 +1,38 @@
+{
+  "2011-12-01": {
+    "min": 1700.0,
+    "max": 1939.0,
+    "modal": 1820.0,
+    "arrival": 155.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 42"
+  },
+  "2011-12-02": {
+    "min": 1650.0,
+    "max": 1892.0,
+    "modal": 1771.0,
+    "arrival": 260.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 42"
+  },
+  "2011-12-05": {
+    "min": 1650.0,
+    "max": 1885.0,
+    "modal": 1767.0,
+    "arrival": 278.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 42"
+  },
+  "2011-12-08": {
+    "min": 1550.0,
+    "max": 1825.0,
+    "modal": 1628.0,
+    "arrival": 302.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 42"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2014-01-01": {
+    "min": 900.0,
+    "max": 1300.0,
+    "modal": 1000.0,
+    "arrival": 20.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Field Pea"
+  },
+  "2014-01-02": {
+    "min": 900.0,
+    "max": 1100.0,
+    "modal": 900.0,
+    "arrival": 18.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Field Pea"
+  },
+  "2014-01-03": {
+    "min": 895.0,
+    "max": 1000.0,
+    "modal": 900.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Field Pea"
+  },
+  "2014-01-08": {
+    "min": 900.0,
+    "max": 1000.0,
+    "modal": 900.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Field Pea"
+  }
+}

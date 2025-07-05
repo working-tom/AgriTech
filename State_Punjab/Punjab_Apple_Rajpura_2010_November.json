@@ -1,0 +1,29 @@
+{
+  "2010-11-02": {
+    "min": 2000.0,
+    "max": 3000.0,
+    "modal": 2500.0,
+    "arrival": 1.6666666666666667,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  },
+  "2010-11-09": {
+    "min": 1500.0,
+    "max": 2500.0,
+    "modal": 2300.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2010-11-30": {
+    "min": 1500.0,
+    "max": 2200.0,
+    "modal": 2000.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "2011-03-15": {
+    "min": 700.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 0.22,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-16": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 800.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-17": {
+    "min": 600.0,
+    "max": 900.0,
+    "modal": 750.0,
+    "arrival": 0.23,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-19": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 800.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-22": {
+    "min": 700.0,
+    "max": 900.0,
+    "modal": 800.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-29": {
+    "min": 400.0,
+    "max": 600.0,
+    "modal": 500.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-30": {
+    "min": 300.0,
+    "max": 500.0,
+    "modal": 400.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2011-03-31": {
+    "min": 400.0,
+    "max": 600.0,
+    "modal": 500.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  }
+}

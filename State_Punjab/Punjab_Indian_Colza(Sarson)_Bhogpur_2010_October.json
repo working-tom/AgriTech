@@ -1,0 +1,38 @@
+{
+  "2010-10-20": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 1000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Indian Colza(Sarson)"
+  },
+  "2010-10-22": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 800.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Indian Colza(Sarson)"
+  },
+  "2010-10-23": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 800.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Indian Colza(Sarson)"
+  },
+  "2010-10-28": {
+    "min": 800.0,
+    "max": 800.0,
+    "modal": 800.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Indian Colza(Sarson)"
+  }
+}

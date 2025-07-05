@@ -1,0 +1,47 @@
+{
+  "2015-06-23": {
+    "min": 4000.0,
+    "max": 4000.0,
+    "modal": 4000.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Litchi"
+  },
+  "2015-06-24": {
+    "min": 5500.0,
+    "max": 8500.0,
+    "modal": 7500.0,
+    "arrival": 0.74,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Litchi"
+  },
+  "2015-06-25": {
+    "min": 6000.0,
+    "max": 6000.0,
+    "modal": 6000.0,
+    "arrival": 0.82,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Litchi"
+  },
+  "2015-06-26": {
+    "min": 6000.0,
+    "max": 6000.0,
+    "modal": 6000.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Litchi"
+  },
+  "2015-06-29": {
+    "min": 4000.0,
+    "max": 6000.0,
+    "modal": 6000.0,
+    "arrival": 1.56,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Litchi"
+  }
+}

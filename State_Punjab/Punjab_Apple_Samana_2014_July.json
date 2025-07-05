@@ -1,0 +1,74 @@
+{
+  "2014-07-10": {
+    "min": 13000.0,
+    "max": 15000.0,
+    "modal": 14000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-11": {
+    "min": 12000.0,
+    "max": 13000.0,
+    "modal": 12000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-17": {
+    "min": 13000.0,
+    "max": 16000.0,
+    "modal": 15000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-19": {
+    "min": 12000.0,
+    "max": 16000.0,
+    "modal": 14000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-23": {
+    "min": 3500.0,
+    "max": 4500.0,
+    "modal": 4000.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2014-07-24": {
+    "min": 3000.0,
+    "max": 4500.0,
+    "modal": 4000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-07-28": {
+    "min": 4500.0,
+    "max": 7000.0,
+    "modal": 5500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Simla"
+  },
+  "2014-07-29": {
+    "min": 4500.0,
+    "max": 7500.0,
+    "modal": 5500.0,
+    "arrival": 0.11,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Simla"
+  }
+}

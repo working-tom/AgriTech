@@ -1,0 +1,47 @@
+{
+  "2014-03-18": {
+    "min": 7000.0,
+    "max": 13000.0,
+    "modal": 10000.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safeda"
+  },
+  "2014-03-20": {
+    "min": 6500.0,
+    "max": 10000.0,
+    "modal": 9000.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safeda"
+  },
+  "2014-03-27": {
+    "min": 7000.0,
+    "max": 10000.0,
+    "modal": 8000.0,
+    "arrival": 0.97,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safeda"
+  },
+  "2014-03-28": {
+    "min": 7000.0,
+    "max": 10000.0,
+    "modal": 9000.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safeda"
+  },
+  "2014-03-31": {
+    "min": 10000.0,
+    "max": 10000.0,
+    "modal": 10000.0,
+    "arrival": 0.38,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safeda"
+  }
+}

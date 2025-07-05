@@ -1,0 +1,74 @@
+{
+  "2014-07-02": {
+    "min": 9500.0,
+    "max": 9800.0,
+    "modal": 9600.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-03": {
+    "min": 8900.0,
+    "max": 9000.0,
+    "modal": 8950.0,
+    "arrival": 0.07,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-07": {
+    "min": 8800.0,
+    "max": 9000.0,
+    "modal": 8850.0,
+    "arrival": 0.08,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-11": {
+    "min": 8800.0,
+    "max": 8900.0,
+    "modal": 8850.0,
+    "arrival": 0.09,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2014-07-14": {
+    "min": 8000.0,
+    "max": 10000.0,
+    "modal": 9000.0,
+    "arrival": 0.03,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-15": {
+    "min": 8400.0,
+    "max": 8600.0,
+    "modal": 8500.0,
+    "arrival": 0.09,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-17": {
+    "min": 9000.0,
+    "max": 9200.0,
+    "modal": 9050.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  },
+  "2014-07-25": {
+    "min": 8500.0,
+    "max": 9000.0,
+    "modal": 8550.0,
+    "arrival": 0.04,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Delicious"
+  }
+}

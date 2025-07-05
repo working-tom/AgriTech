@@ -1,0 +1,20 @@
+{
+  "2013-08-01": {
+    "min": 1200.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tinda"
+  },
+  "2013-08-05": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tinda"
+  }
+}
