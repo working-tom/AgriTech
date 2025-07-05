@@ -1,0 +1,20 @@
+{
+  "2014-08-11": {
+    "min": 2500.0,
+    "max": 3300.0,
+    "modal": 3000.0,
+    "arrival": 2.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Madras"
+  },
+  "2014-08-30": {
+    "min": 2800.0,
+    "max": 3200.0,
+    "modal": 3000.0,
+    "arrival": 5.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2010-02-01": {
+    "min": 2150.0,
+    "max": 2650.0,
+    "modal": 2450.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "M-522"
+  },
+  "2010-02-02": {
+    "min": 2100.0,
+    "max": 2700.0,
+    "modal": 2400.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "M-335"
+  },
+  "2010-02-03": {
+    "min": 2150.0,
+    "max": 2650.0,
+    "modal": 2350.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MG-84"
+  },
+  "2010-02-04": {
+    "min": 2100.0,
+    "max": 2700.0,
+    "modal": 2300.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "M-522"
+  },
+  "2010-02-05": {
+    "min": 2150.0,
+    "max": 2750.0,
+    "modal": 2350.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MG-84"
+  },
+  "2010-02-24": {
+    "min": 2150.0,
+    "max": 2700.0,
+    "modal": 2400.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MG-84"
+  }
+}

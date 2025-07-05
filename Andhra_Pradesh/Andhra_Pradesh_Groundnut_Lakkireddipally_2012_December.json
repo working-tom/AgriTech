@@ -1,0 +1,47 @@
+{
+  "2012-12-04": {
+    "min": 3650.0,
+    "max": 3850.0,
+    "modal": 3750.0,
+    "arrival": 5.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2012-12-07": {
+    "min": 4150.0,
+    "max": 4350.0,
+    "modal": 4250.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kadiri-3"
+  },
+  "2012-12-14": {
+    "min": 4410.0,
+    "max": 4610.0,
+    "modal": 4510.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "JL-24"
+  },
+  "2012-12-21": {
+    "min": 3900.0,
+    "max": 4100.0,
+    "modal": 4000.0,
+    "arrival": 10.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "JL-24"
+  },
+  "2012-12-26": {
+    "min": 3734.0,
+    "max": 3934.0,
+    "modal": 3834.0,
+    "arrival": 14.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

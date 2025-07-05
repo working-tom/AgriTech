@@ -1,0 +1,47 @@
+{
+  "2013-12-05": {
+    "min": 2200.0,
+    "max": 2300.0,
+    "modal": 2222.0,
+    "arrival": 45.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2013-12-07": {
+    "min": 2200.0,
+    "max": 2250.0,
+    "modal": 2222.0,
+    "arrival": 45.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2013-12-19": {
+    "min": 2222.0,
+    "max": 2222.0,
+    "modal": 2222.0,
+    "arrival": 45.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2013-12-21": {
+    "min": 2200.0,
+    "max": 2300.0,
+    "modal": 2222.0,
+    "arrival": 90.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2013-12-24": {
+    "min": 4100.0,
+    "max": 4200.0,
+    "modal": 4167.0,
+    "arrival": 24.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}
