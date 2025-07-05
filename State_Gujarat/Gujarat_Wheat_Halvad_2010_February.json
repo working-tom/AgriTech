@@ -1,0 +1,38 @@
+{
+  "2010-02-01": {
+    "min": 1250.0,
+    "max": 1435.0,
+    "modal": 1350.0,
+    "arrival": 13.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lokwan Gujrat"
+  },
+  "2010-02-02": {
+    "min": 1000.0,
+    "max": 1330.0,
+    "modal": 1250.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lokwan Gujrat"
+  },
+  "2010-02-06": {
+    "min": 1250.0,
+    "max": 1500.0,
+    "modal": 1350.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lokwan Gujrat"
+  },
+  "2010-02-24": {
+    "min": 1000.0,
+    "max": 1440.0,
+    "modal": 1250.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lokwan Gujrat"
+  }
+}

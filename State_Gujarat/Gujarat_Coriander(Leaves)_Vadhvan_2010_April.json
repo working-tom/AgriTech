@@ -1,0 +1,56 @@
+{
+  "2010-04-05": {
+    "min": 500.0,
+    "max": 600.0,
+    "modal": 550.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2010-04-07": {
+    "min": 750.0,
+    "max": 1000.0,
+    "modal": 875.0,
+    "arrival": 1.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2010-04-15": {
+    "min": 1000.0,
+    "max": 1250.0,
+    "modal": 1125.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2010-04-19": {
+    "min": 750.0,
+    "max": 1000.0,
+    "modal": 875.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2010-04-20": {
+    "min": 900.0,
+    "max": 1250.0,
+    "modal": 1075.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  },
+  "2010-04-30": {
+    "min": 1250.0,
+    "max": 1500.0,
+    "modal": 1375.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander"
+  }
+}

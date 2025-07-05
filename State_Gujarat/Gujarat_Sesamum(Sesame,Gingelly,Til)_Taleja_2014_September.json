@@ -1,0 +1,101 @@
+{
+  "2014-09-02": {
+    "min": 9000.0,
+    "max": 11250.0,
+    "modal": 10125.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-05": {
+    "min": 11000.0,
+    "max": 11455.0,
+    "modal": 11230.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black"
+  },
+  "2014-09-08": {
+    "min": 10255.0,
+    "max": 11075.0,
+    "modal": 10665.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-09": {
+    "min": 9350.0,
+    "max": 11055.0,
+    "modal": 10205.0,
+    "arrival": 0.55,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-10": {
+    "min": 10750.0,
+    "max": 11125.0,
+    "modal": 10940.0,
+    "arrival": 1.025,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-11": {
+    "min": 11210.0,
+    "max": 11210.0,
+    "modal": 11210.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-12": {
+    "min": 9500.0,
+    "max": 11255.0,
+    "modal": 10380.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-15": {
+    "min": 6200.0,
+    "max": 11025.0,
+    "modal": 8615.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-16": {
+    "min": 10875.0,
+    "max": 11100.0,
+    "modal": 10990.0,
+    "arrival": 1.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-17": {
+    "min": 10000.0,
+    "max": 11125.0,
+    "modal": 10565.0,
+    "arrival": 1.025,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2014-09-18": {
+    "min": 10250.0,
+    "max": 11250.0,
+    "modal": 10750.0,
+    "arrival": 1.575,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  }
+}

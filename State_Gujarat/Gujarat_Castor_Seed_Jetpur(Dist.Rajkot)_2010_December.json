@@ -1,0 +1,56 @@
+{
+  "2010-12-02": {
+    "min": 2900.0,
+    "max": 3060.0,
+    "modal": 3025.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2010-12-08": {
+    "min": 3005.0,
+    "max": 3280.0,
+    "modal": 3105.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2010-12-15": {
+    "min": 3305.0,
+    "max": 3305.0,
+    "modal": 3305.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2010-12-20": {
+    "min": 3000.0,
+    "max": 3330.0,
+    "modal": 3250.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2010-12-27": {
+    "min": 3730.0,
+    "max": 3730.0,
+    "modal": 3730.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  },
+  "2010-12-28": {
+    "min": 3250.0,
+    "max": 3580.0,
+    "modal": 3505.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Castor seed"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2012-10-16": {
+    "min": 3400.0,
+    "max": 3750.0,
+    "modal": 3575.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar Dal(Tur)"
+  },
+  "2012-10-26": {
+    "min": 3000.0,
+    "max": 3850.0,
+    "modal": 3250.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar Dal(Tur)"
+  },
+  "2012-10-27": {
+    "min": 2250.0,
+    "max": 3800.0,
+    "modal": 3025.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar Dal(Tur)"
+  }
+}

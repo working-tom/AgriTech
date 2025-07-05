@@ -1,0 +1,191 @@
+{
+  "2013-07-01": {
+    "min": 1900.0,
+    "max": 2263.0,
+    "modal": 2080.0,
+    "arrival": 92.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black"
+  },
+  "2013-07-02": {
+    "min": 1960.0,
+    "max": 2240.0,
+    "modal": 2095.0,
+    "arrival": 80.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black"
+  },
+  "2013-07-03": {
+    "min": 1850.0,
+    "max": 2250.0,
+    "modal": 2050.0,
+    "arrival": 24.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-06": {
+    "min": 2000.0,
+    "max": 2245.0,
+    "modal": 2100.0,
+    "arrival": 76.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-08": {
+    "min": 1950.0,
+    "max": 2230.0,
+    "modal": 2090.0,
+    "arrival": 73.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-09": {
+    "min": 1780.0,
+    "max": 2231.0,
+    "modal": 2005.0,
+    "arrival": 68.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-11": {
+    "min": 1800.0,
+    "max": 2230.0,
+    "modal": 2015.0,
+    "arrival": 36.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-12": {
+    "min": 1705.0,
+    "max": 2220.0,
+    "modal": 1975.0,
+    "arrival": 32.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-13": {
+    "min": 1800.0,
+    "max": 2200.0,
+    "modal": 2000.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-15": {
+    "min": 1780.0,
+    "max": 2195.0,
+    "modal": 1990.0,
+    "arrival": 52.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-16": {
+    "min": 2050.0,
+    "max": 2170.0,
+    "modal": 2100.0,
+    "arrival": 20.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-17": {
+    "min": 8900.0,
+    "max": 10875.0,
+    "modal": 9950.0,
+    "arrival": 1.76,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-19": {
+    "min": 8600.0,
+    "max": 10950.0,
+    "modal": 10000.0,
+    "arrival": 3.44,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-20": {
+    "min": 8500.0,
+    "max": 10610.0,
+    "modal": 9550.0,
+    "arrival": 2.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-22": {
+    "min": 9600.0,
+    "max": 10550.0,
+    "modal": 10075.0,
+    "arrival": 2.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-23": {
+    "min": 8750.0,
+    "max": 10610.0,
+    "modal": 10000.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-24": {
+    "min": 9750.0,
+    "max": 10575.0,
+    "modal": 10150.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-25": {
+    "min": 10000.0,
+    "max": 10600.0,
+    "modal": 10250.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-26": {
+    "min": 9250.0,
+    "max": 10400.0,
+    "modal": 9825.0,
+    "arrival": 2.64,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-29": {
+    "min": 8250.0,
+    "max": 10075.0,
+    "modal": 9125.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  },
+  "2013-07-30": {
+    "min": 9000.0,
+    "max": 10200.0,
+    "modal": 9600.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2010-08-02": {
+    "min": 1000.0,
+    "max": 2300.0,
+    "modal": 1400.0,
+    "arrival": 0.34,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  },
+  "2010-08-09": {
+    "min": 1000.0,
+    "max": 1700.0,
+    "modal": 1300.0,
+    "arrival": 0.46,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  },
+  "2010-08-10": {
+    "min": 1625.0,
+    "max": 2150.0,
+    "modal": 1925.0,
+    "arrival": 0.28,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  },
+  "2010-08-11": {
+    "min": 1500.0,
+    "max": 2125.0,
+    "modal": 1750.0,
+    "arrival": 0.32,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  },
+  "2010-08-12": {
+    "min": 1400.0,
+    "max": 2125.0,
+    "modal": 1625.0,
+    "arrival": 0.36,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  },
+  "2010-08-13": {
+    "min": 1100.0,
+    "max": 2175.0,
+    "modal": 1575.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Toria"
+  }
+}

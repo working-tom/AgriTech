@@ -1,0 +1,29 @@
+{
+  "2015-04-01": {
+    "min": 6300.0,
+    "max": 7000.0,
+    "modal": 6700.0,
+    "arrival": 3.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2015-04-05": {
+    "min": 5650.0,
+    "max": 7000.0,
+    "modal": 6550.0,
+    "arrival": 3.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2015-04-22": {
+    "min": 6100.0,
+    "max": 7000.0,
+    "modal": 6700.0,
+    "arrival": 1.57,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  }
+}

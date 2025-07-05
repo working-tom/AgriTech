@@ -1,0 +1,29 @@
+{
+  "2011-12-19": {
+    "min": 4000.0,
+    "max": 4255.0,
+    "modal": 4100.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ground Nut Seed"
+  },
+  "2011-12-27": {
+    "min": 4520.0,
+    "max": 5240.0,
+    "modal": 4800.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ground Nut Seed"
+  },
+  "2011-12-30": {
+    "min": 4750.0,
+    "max": 5910.0,
+    "modal": 5400.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ground Nut Seed"
+  }
+}

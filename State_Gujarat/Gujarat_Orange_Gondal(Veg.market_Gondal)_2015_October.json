@@ -1,0 +1,29 @@
+{
+  "2015-10-27": {
+    "min": 2000.0,
+    "max": 3000.0,
+    "modal": 2500.0,
+    "arrival": 1.94,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  },
+  "2015-10-28": {
+    "min": 2500.0,
+    "max": 3500.0,
+    "modal": 3000.0,
+    "arrival": 2.88,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  },
+  "2015-10-29": {
+    "min": 2500.0,
+    "max": 3500.0,
+    "modal": 3000.0,
+    "arrival": 2.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  }
+}

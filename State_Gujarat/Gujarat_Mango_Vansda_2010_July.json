@@ -1,0 +1,65 @@
+{
+  "2010-07-01": {
+    "min": 2000.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  },
+  "2010-07-02": {
+    "min": 2500.0,
+    "max": 2700.0,
+    "modal": 2650.0,
+    "arrival": 1.0666666666666669,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raspuri"
+  },
+  "2010-07-03": {
+    "min": 2000.0,
+    "max": 2200.0,
+    "modal": 2100.0,
+    "arrival": 0.625,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  },
+  "2010-07-04": {
+    "min": 2500.0,
+    "max": 2800.0,
+    "modal": 2750.0,
+    "arrival": 0.6666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raspuri"
+  },
+  "2010-07-05": {
+    "min": 2500.0,
+    "max": 2800.0,
+    "modal": 2650.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raspuri"
+  },
+  "2010-07-06": {
+    "min": 2500.0,
+    "max": 2800.0,
+    "modal": 2750.0,
+    "arrival": 0.6666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raspuri"
+  },
+  "2010-07-07": {
+    "min": 2500.0,
+    "max": 2800.0,
+    "modal": 2750.0,
+    "arrival": 0.8333333333333334,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raspuri"
+  }
+}

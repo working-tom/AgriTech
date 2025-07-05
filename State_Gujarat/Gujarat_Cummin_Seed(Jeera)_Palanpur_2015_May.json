@@ -1,0 +1,38 @@
+{
+  "2015-05-01": {
+    "min": 10500.0,
+    "max": 11500.0,
+    "modal": 11000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cummin Seed(Jeera)"
+  },
+  "2015-05-07": {
+    "min": 11430.0,
+    "max": 15125.0,
+    "modal": 13277.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cummin Seed(Jeera)"
+  },
+  "2015-05-23": {
+    "min": 11250.0,
+    "max": 11500.0,
+    "modal": 11375.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cummin Seed(Jeera)"
+  },
+  "2015-05-26": {
+    "min": 10000.0,
+    "max": 11205.0,
+    "modal": 10602.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cummin Seed(Jeera)"
+  }
+}

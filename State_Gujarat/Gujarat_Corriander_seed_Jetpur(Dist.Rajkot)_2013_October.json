@@ -1,0 +1,65 @@
+{
+  "2013-10-05": {
+    "min": 3250.0,
+    "max": 4925.0,
+    "modal": 4505.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  },
+  "2013-10-10": {
+    "min": 2505.0,
+    "max": 5930.0,
+    "modal": 5505.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  },
+  "2013-10-12": {
+    "min": 2755.0,
+    "max": 6250.0,
+    "modal": 5125.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  },
+  "2013-10-14": {
+    "min": 3005.0,
+    "max": 6900.0,
+    "modal": 6250.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  },
+  "2013-10-18": {
+    "min": 3750.0,
+    "max": 7400.0,
+    "modal": 6750.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  },
+  "2013-10-21": {
+    "min": 2800.0,
+    "max": 7005.0,
+    "modal": 5750.0,
+    "arrival": 1.95,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  },
+  "2013-10-22": {
+    "min": 3250.0,
+    "max": 6900.0,
+    "modal": 6005.0,
+    "arrival": 2.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium Green"
+  }
+}

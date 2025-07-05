@@ -1,0 +1,29 @@
+{
+  "2012-04-03": {
+    "min": 20350.0,
+    "max": 25500.0,
+    "modal": 22925.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  },
+  "2012-04-13": {
+    "min": 20000.0,
+    "max": 24000.0,
+    "modal": 22000.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  },
+  "2012-04-18": {
+    "min": 19750.0,
+    "max": 25500.0,
+    "modal": 22625.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  }
+}

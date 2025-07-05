@@ -1,0 +1,38 @@
+{
+  "2015-03-04": {
+    "min": 3500.0,
+    "max": 3850.0,
+    "modal": 3750.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-03-05": {
+    "min": 3500.0,
+    "max": 3800.0,
+    "modal": 3750.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Shanker 6 (B) 30mm FIne"
+  },
+  "2015-03-11": {
+    "min": 3650.0,
+    "max": 3850.0,
+    "modal": 3750.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Shanker 6 (B) 30mm FIne"
+  },
+  "2015-03-18": {
+    "min": 3600.0,
+    "max": 3800.0,
+    "modal": 3750.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Shanker 6 (B) 30mm FIne"
+  }
+}

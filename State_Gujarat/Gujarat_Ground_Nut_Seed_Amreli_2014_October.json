@@ -1,0 +1,56 @@
+{
+  "2014-10-01": {
+    "min": 4255.0,
+    "max": 4550.0,
+    "modal": 4430.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ground Nut Seed"
+  },
+  "2014-10-09": {
+    "min": 4660.0,
+    "max": 4825.0,
+    "modal": 4825.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ground Nut Seed"
+  },
+  "2014-10-10": {
+    "min": 4650.0,
+    "max": 4890.0,
+    "modal": 4890.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ground Nut Seed"
+  },
+  "2014-10-14": {
+    "min": 4400.0,
+    "max": 4680.0,
+    "modal": 4680.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-10-16": {
+    "min": 4375.0,
+    "max": 4625.0,
+    "modal": 4500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-10-18": {
+    "min": 4500.0,
+    "max": 4850.0,
+    "modal": 4580.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}
