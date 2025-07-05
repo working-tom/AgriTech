@@ -1,0 +1,56 @@
+{
+  "2010-02-04": {
+    "min": 900.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "I.R. 64"
+  },
+  "2010-02-05": {
+    "min": 800.0,
+    "max": 900.0,
+    "modal": 850.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Jyoti"
+  },
+  "2010-02-06": {
+    "min": 950.0,
+    "max": 1000.0,
+    "modal": 980.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "I.R. 64"
+  },
+  "2010-02-07": {
+    "min": 900.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Jyoti"
+  },
+  "2010-02-15": {
+    "min": 4400.0,
+    "max": 4700.0,
+    "modal": 4500.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Jyoti"
+  },
+  "2010-02-17": {
+    "min": 900.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Jyoti"
+  }
+}

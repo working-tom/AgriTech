@@ -1,0 +1,47 @@
+{
+  "2011-01-03": {
+    "min": 1800.0,
+    "max": 2000.0,
+    "modal": 1800.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusa Basmati Raw (Old)"
+  },
+  "2011-01-04": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajahamsa"
+  },
+  "2011-01-19": {
+    "min": 1800.0,
+    "max": 1850.0,
+    "modal": 1800.0,
+    "arrival": 4.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusa Basmati Raw (Old)"
+  },
+  "2011-01-21": {
+    "min": 1980.0,
+    "max": 2000.0,
+    "modal": 1980.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2011-01-31": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  }
+}

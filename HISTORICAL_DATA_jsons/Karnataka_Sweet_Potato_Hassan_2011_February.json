@@ -1,0 +1,29 @@
+{
+  "2011-02-01": {
+    "min": 600.0,
+    "max": 686.0,
+    "modal": 600.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Potato"
+  },
+  "2011-02-22": {
+    "min": 727.0,
+    "max": 727.0,
+    "modal": 727.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Potato"
+  },
+  "2011-02-26": {
+    "min": 357.0,
+    "max": 400.0,
+    "modal": 357.0,
+    "arrival": 17.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Potato"
+  }
+}

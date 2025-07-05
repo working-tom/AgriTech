@@ -1,0 +1,38 @@
+{
+  "2011-07-01": {
+    "min": 3000.0,
+    "max": 3500.0,
+    "modal": 3250.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-07-16": {
+    "min": 3500.0,
+    "max": 3600.0,
+    "modal": 3550.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fresh Unbleached"
+  },
+  "2011-07-18": {
+    "min": 3500.0,
+    "max": 3600.0,
+    "modal": 3550.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fresh Unbleached"
+  },
+  "2011-07-30": {
+    "min": 3000.0,
+    "max": 3500.0,
+    "modal": 3250.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fresh Unbleached"
+  }
+}

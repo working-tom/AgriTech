@@ -1,0 +1,29 @@
+{
+  "2013-01-13": {
+    "min": 2550.0,
+    "max": 3150.0,
+    "modal": 2800.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2013-01-20": {
+    "min": 2600.0,
+    "max": 3200.0,
+    "modal": 2900.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2013-01-27": {
+    "min": 2650.0,
+    "max": 3200.0,
+    "modal": 2880.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  }
+}

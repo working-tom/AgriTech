@@ -1,0 +1,47 @@
+{
+  "2010-10-05": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1100.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raw"
+  },
+  "2010-10-10": {
+    "min": 5800.0,
+    "max": 6200.0,
+    "modal": 6000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Churu"
+  },
+  "2010-10-23": {
+    "min": 6000.0,
+    "max": 6750.0,
+    "modal": 6500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bette"
+  },
+  "2010-10-26": {
+    "min": 1150.0,
+    "max": 1250.0,
+    "modal": 1200.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raw"
+  },
+  "2010-10-30": {
+    "min": 9000.0,
+    "max": 10000.0,
+    "modal": 9500.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Churu"
+  }
+}

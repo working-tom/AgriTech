@@ -1,0 +1,29 @@
+{
+  "2014-01-03": {
+    "min": 1800.0,
+    "max": 3200.0,
+    "modal": 2600.0,
+    "arrival": 380.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Corn (For Biscuits)"
+  },
+  "2014-01-24": {
+    "min": 1300.0,
+    "max": 1350.0,
+    "modal": 1320.0,
+    "arrival": 489.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2014-01-31": {
+    "min": 1310.0,
+    "max": 1600.0,
+    "modal": 1400.0,
+    "arrival": 213.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

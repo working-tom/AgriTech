@@ -1,0 +1,38 @@
+{
+  "2011-01-01": {
+    "min": 14600.0,
+    "max": 15000.0,
+    "modal": 14800.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2011-01-17": {
+    "min": 14100.0,
+    "max": 14700.0,
+    "modal": 14400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2011-01-19": {
+    "min": 14300.0,
+    "max": 14600.0,
+    "modal": 14450.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2011-01-24": {
+    "min": 14000.0,
+    "max": 14500.0,
+    "modal": 14250.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  }
+}

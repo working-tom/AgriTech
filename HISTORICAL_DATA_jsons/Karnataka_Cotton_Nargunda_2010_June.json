@@ -1,0 +1,29 @@
+{
+  "2010-06-07": {
+    "min": 2100.0,
+    "max": 2350.0,
+    "modal": 2275.0,
+    "arrival": 154.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2010-06-09": {
+    "min": 2375.0,
+    "max": 2550.0,
+    "modal": 2500.0,
+    "arrival": 397.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2010-06-15": {
+    "min": 2500.0,
+    "max": 2860.0,
+    "modal": 2600.0,
+    "arrival": 43.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  }
+}

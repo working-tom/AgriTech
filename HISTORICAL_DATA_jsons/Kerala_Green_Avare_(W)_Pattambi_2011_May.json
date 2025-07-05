@@ -1,0 +1,56 @@
+{
+  "2011-05-03": {
+    "min": 1800.0,
+    "max": 2000.0,
+    "modal": 1900.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Avare (W)"
+  },
+  "2011-05-05": {
+    "min": 1600.0,
+    "max": 2000.0,
+    "modal": 1800.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Avare (W)"
+  },
+  "2011-05-10": {
+    "min": 2400.0,
+    "max": 2600.0,
+    "modal": 2500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Avare (W)"
+  },
+  "2011-05-19": {
+    "min": 2400.0,
+    "max": 2600.0,
+    "modal": 2500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Avare (W)"
+  },
+  "2011-05-26": {
+    "min": 2000.0,
+    "max": 2400.0,
+    "modal": 2200.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Avare (W)"
+  },
+  "2011-05-31": {
+    "min": 2200.0,
+    "max": 2600.0,
+    "modal": 2400.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Avare (W)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "2010-10-11": {
+    "min": 100.0,
+    "max": 200.0,
+    "modal": 150.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cucumbar"
+  },
+  "2010-10-20": {
+    "min": 250.0,
+    "max": 300.0,
+    "modal": 270.0,
+    "arrival": 76.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cucumbar"
+  },
+  "2010-10-23": {
+    "min": 150.0,
+    "max": 200.0,
+    "modal": 170.0,
+    "arrival": 120.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cucumbar"
+  },
+  "2010-10-27": {
+    "min": 100.0,
+    "max": 150.0,
+    "modal": 120.0,
+    "arrival": 65.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cucumbar"
+  },
+  "2010-10-29": {
+    "min": 150.0,
+    "max": 250.0,
+    "modal": 200.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cucumbar"
+  }
+}

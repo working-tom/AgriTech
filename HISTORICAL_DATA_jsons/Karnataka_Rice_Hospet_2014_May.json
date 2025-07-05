@@ -1,0 +1,38 @@
+{
+  "2014-05-10": {
+    "min": 2900.0,
+    "max": 3600.0,
+    "modal": 2900.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2014-05-20": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  },
+  "2014-05-23": {
+    "min": 2800.0,
+    "max": 2800.0,
+    "modal": 2800.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusa Basmati Raw (Old)"
+  },
+  "2014-05-31": {
+    "min": 4000.0,
+    "max": 4000.0,
+    "modal": 4000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusa Basmati Raw (New)"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "2012-02-02": {
+    "min": 28200.0,
+    "max": 28500.0,
+    "modal": 28400.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-03": {
+    "min": 28300.0,
+    "max": 28500.0,
+    "modal": 28400.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-10": {
+    "min": 29000.0,
+    "max": 29200.0,
+    "modal": 29100.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-14": {
+    "min": 29500.0,
+    "max": 29650.0,
+    "modal": 29600.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-15": {
+    "min": 29450.0,
+    "max": 29600.0,
+    "modal": 29500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-16": {
+    "min": 29600.0,
+    "max": 30000.0,
+    "modal": 29800.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-21": {
+    "min": 30350.0,
+    "max": 30500.0,
+    "modal": 30400.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-23": {
+    "min": 31400.0,
+    "max": 31600.0,
+    "modal": 31500.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-24": {
+    "min": 32350.0,
+    "max": 32450.0,
+    "modal": 32400.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-27": {
+    "min": 34300.0,
+    "max": 35000.0,
+    "modal": 34500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  },
+  "2012-02-29": {
+    "min": 34850.0,
+    "max": 35100.0,
+    "modal": 35000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garbled"
+  }
+}

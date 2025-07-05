@@ -1,0 +1,56 @@
+{
+  "2015-02-01": {
+    "min": 3762.0,
+    "max": 4242.0,
+    "modal": 4009.0,
+    "arrival": 60.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  },
+  "2015-02-08": {
+    "min": 4000.0,
+    "max": 4243.0,
+    "modal": 4100.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalakshmi (Ginned)"
+  },
+  "2015-02-11": {
+    "min": 3900.0,
+    "max": 4000.0,
+    "modal": 3950.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  },
+  "2015-02-15": {
+    "min": 3770.0,
+    "max": 4061.0,
+    "modal": 3900.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  },
+  "2015-02-18": {
+    "min": 3986.0,
+    "max": 4339.0,
+    "modal": 4101.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalakshmi (Ginned)"
+  },
+  "2015-02-25": {
+    "min": 4100.0,
+    "max": 4509.0,
+    "modal": 4500.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalakshmi (Ginned)"
+  }
+}

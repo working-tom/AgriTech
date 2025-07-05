@@ -1,0 +1,29 @@
+{
+  "2011-04-03": {
+    "min": 6300.0,
+    "max": 6500.0,
+    "modal": 6300.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dal"
+  },
+  "2011-04-07": {
+    "min": 6300.0,
+    "max": 6500.0,
+    "modal": 6300.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dal"
+  },
+  "2011-04-24": {
+    "min": 6500.0,
+    "max": 6700.0,
+    "modal": 6500.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dal"
+  }
+}

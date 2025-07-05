@@ -1,0 +1,29 @@
+{
+  "2013-03-06": {
+    "min": 3000.0,
+    "max": 3000.0,
+    "modal": 3000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dappa"
+  },
+  "2013-03-27": {
+    "min": 2857.0,
+    "max": 3000.0,
+    "modal": 2933.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dappa"
+  },
+  "2013-03-30": {
+    "min": 3000.0,
+    "max": 3000.0,
+    "modal": 3000.0,
+    "arrival": 22.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dappa"
+  }
+}

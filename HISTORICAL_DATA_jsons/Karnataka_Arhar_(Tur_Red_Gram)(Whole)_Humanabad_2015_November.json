@@ -1,0 +1,29 @@
+{
+  "2015-11-25": {
+    "min": 9500.0,
+    "max": 11000.0,
+    "modal": 10500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  },
+  "2015-11-27": {
+    "min": 8500.0,
+    "max": 11000.0,
+    "modal": 10000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  },
+  "2015-11-29": {
+    "min": 10000.0,
+    "max": 11500.0,
+    "modal": 11000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  }
+}

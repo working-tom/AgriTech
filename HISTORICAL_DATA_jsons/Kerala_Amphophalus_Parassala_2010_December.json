@@ -1,0 +1,38 @@
+{
+  "2010-12-03": {
+    "min": 3900.0,
+    "max": 4300.0,
+    "modal": 4000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amphophalus"
+  },
+  "2010-12-07": {
+    "min": 900.0,
+    "max": 1200.0,
+    "modal": 1000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amphophalus"
+  },
+  "2010-12-14": {
+    "min": 3800.0,
+    "max": 4200.0,
+    "modal": 4000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amphophalus"
+  },
+  "2010-12-21": {
+    "min": 1800.0,
+    "max": 2200.0,
+    "modal": 2000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amphophalus"
+  }
+}

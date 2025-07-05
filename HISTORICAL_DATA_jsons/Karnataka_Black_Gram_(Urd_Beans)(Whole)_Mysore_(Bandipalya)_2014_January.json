@@ -1,0 +1,38 @@
+{
+  "2014-01-08": {
+    "min": 5400.0,
+    "max": 6200.0,
+    "modal": 5800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram (Whole)"
+  },
+  "2014-01-16": {
+    "min": 5500.0,
+    "max": 7000.0,
+    "modal": 6250.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram (Whole)"
+  },
+  "2014-01-21": {
+    "min": 3489.0,
+    "max": 3752.0,
+    "modal": 3509.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram (Whole)"
+  },
+  "2014-01-31": {
+    "min": 4800.0,
+    "max": 6800.0,
+    "modal": 5800.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram (Whole)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2012-11-06": {
+    "min": 6400.0,
+    "max": 6648.0,
+    "modal": 6500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cowpea (Whole)"
+  },
+  "2012-11-27": {
+    "min": 4447.0,
+    "max": 6516.0,
+    "modal": 5000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cowpea (Whole)"
+  },
+  "2012-11-28": {
+    "min": 4567.0,
+    "max": 6380.0,
+    "modal": 5500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cowpea (Whole)"
+  },
+  "2012-11-30": {
+    "min": 4516.0,
+    "max": 6080.0,
+    "modal": 5200.0,
+    "arrival": 16.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cowpea (Whole)"
+  }
+}

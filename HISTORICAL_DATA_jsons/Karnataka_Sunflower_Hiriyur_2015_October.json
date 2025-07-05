@@ -1,0 +1,47 @@
+{
+  "2015-10-03": {
+    "min": 2600.0,
+    "max": 4340.0,
+    "modal": 3696.0,
+    "arrival": 23.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2015-10-10": {
+    "min": 2860.0,
+    "max": 4182.0,
+    "modal": 3536.0,
+    "arrival": 28.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-10-17": {
+    "min": 2200.0,
+    "max": 9500.0,
+    "modal": 4800.0,
+    "arrival": 33.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2015-10-25": {
+    "min": 2752.0,
+    "max": 3670.0,
+    "modal": 3405.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  },
+  "2015-10-31": {
+    "min": 2012.0,
+    "max": 3730.0,
+    "modal": 3421.0,
+    "arrival": 31.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower"
+  }
+}

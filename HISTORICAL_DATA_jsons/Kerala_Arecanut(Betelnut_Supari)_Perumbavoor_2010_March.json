@@ -1,0 +1,29 @@
+{
+  "2010-03-22": {
+    "min": 5700.0,
+    "max": 5700.0,
+    "modal": 5700.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cochin"
+  },
+  "2010-03-25": {
+    "min": 5800.0,
+    "max": 5800.0,
+    "modal": 5800.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cochin"
+  },
+  "2010-03-29": {
+    "min": 5600.0,
+    "max": 5600.0,
+    "modal": 5600.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cochin"
+  }
+}

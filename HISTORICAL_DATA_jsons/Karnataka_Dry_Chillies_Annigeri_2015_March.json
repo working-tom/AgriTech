@@ -1,0 +1,38 @@
+{
+  "2015-03-03": {
+    "min": 13771.0,
+    "max": 13969.0,
+    "modal": 13820.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-03-04": {
+    "min": 8200.0,
+    "max": 9000.0,
+    "modal": 8700.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-03-18": {
+    "min": 16182.0,
+    "max": 16182.0,
+    "modal": 16182.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kaddi"
+  },
+  "2015-03-31": {
+    "min": 7500.0,
+    "max": 8511.0,
+    "modal": 7681.0,
+    "arrival": 96.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kaddi"
+  }
+}

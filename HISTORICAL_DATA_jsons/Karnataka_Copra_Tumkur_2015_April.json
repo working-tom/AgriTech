@@ -1,0 +1,38 @@
+{
+  "2015-04-02": {
+    "min": 12400.0,
+    "max": 13100.0,
+    "modal": 12900.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Copra"
+  },
+  "2015-04-04": {
+    "min": 3500.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "other"
+  },
+  "2015-04-10": {
+    "min": 6000.0,
+    "max": 7000.0,
+    "modal": 6600.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "other"
+  },
+  "2015-04-28": {
+    "min": 3800.0,
+    "max": 4200.0,
+    "modal": 4000.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "other"
+  }
+}

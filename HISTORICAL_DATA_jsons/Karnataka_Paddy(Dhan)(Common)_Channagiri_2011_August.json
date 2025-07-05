@@ -1,0 +1,38 @@
+{
+  "2011-08-04": {
+    "min": 1000.0,
+    "max": 1130.0,
+    "modal": 1100.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2011-08-11": {
+    "min": 1130.0,
+    "max": 1130.0,
+    "modal": 1130.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2011-08-16": {
+    "min": 1100.0,
+    "max": 1100.0,
+    "modal": 1100.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2011-08-26": {
+    "min": 1185.0,
+    "max": 1185.0,
+    "modal": 1185.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  }
+}

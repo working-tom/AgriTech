@@ -1,0 +1,38 @@
+{
+  "2015-11-07": {
+    "min": 10000.0,
+    "max": 10500.0,
+    "modal": 10100.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Byadgi"
+  },
+  "2015-11-14": {
+    "min": 9000.0,
+    "max": 10200.0,
+    "modal": 10100.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Byadgi"
+  },
+  "2015-11-21": {
+    "min": 10000.0,
+    "max": 10100.0,
+    "modal": 10000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Byadgi"
+  },
+  "2015-11-30": {
+    "min": 9300.0,
+    "max": 10100.0,
+    "modal": 10000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Byadgi"
+  }
+}

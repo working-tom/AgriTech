@@ -1,0 +1,29 @@
+{
+  "2015-11-27": {
+    "min": 700.0,
+    "max": 750.0,
+    "modal": 740.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Papaya"
+  },
+  "2015-11-28": {
+    "min": 600.0,
+    "max": 600.0,
+    "modal": 600.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Papaya"
+  },
+  "2015-11-30": {
+    "min": 500.0,
+    "max": 600.0,
+    "modal": 528.0,
+    "arrival": 5.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Papaya"
+  }
+}

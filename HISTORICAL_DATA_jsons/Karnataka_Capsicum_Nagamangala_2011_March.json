@@ -1,0 +1,29 @@
+{
+  "2011-03-02": {
+    "min": 600.0,
+    "max": 800.0,
+    "modal": 600.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-03-03": {
+    "min": 1460.0,
+    "max": 1615.0,
+    "modal": 1515.0,
+    "arrival": 13.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2011-03-05": {
+    "min": 700.0,
+    "max": 700.0,
+    "modal": 700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  }
+}

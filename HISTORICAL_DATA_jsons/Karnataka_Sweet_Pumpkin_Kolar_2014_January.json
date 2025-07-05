@@ -1,0 +1,29 @@
+{
+  "2014-01-03": {
+    "min": 900.0,
+    "max": 1600.0,
+    "modal": 1400.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  },
+  "2014-01-04": {
+    "min": 800.0,
+    "max": 1300.0,
+    "modal": 1000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  },
+  "2014-01-09": {
+    "min": 800.0,
+    "max": 1300.0,
+    "modal": 1000.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sweet Pumpkin"
+  }
+}

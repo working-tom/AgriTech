@@ -1,0 +1,29 @@
+{
+  "2013-10-01": {
+    "min": 1100.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pachha Bale"
+  },
+  "2013-10-03": {
+    "min": 1100.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pachha Bale"
+  },
+  "2013-10-05": {
+    "min": 1120.0,
+    "max": 1650.0,
+    "modal": 1530.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pachha Bale"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2011-08-03": {
+    "min": 800.0,
+    "max": 820.0,
+    "modal": 800.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajahamsa"
+  },
+  "2011-08-05": {
+    "min": 1000.0,
+    "max": 1080.0,
+    "modal": 1066.0,
+    "arrival": 200.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy emerigency"
+  },
+  "2011-08-06": {
+    "min": 1091.0,
+    "max": 1091.0,
+    "modal": 1091.0,
+    "arrival": 149.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy emerigency"
+  },
+  "2011-08-30": {
+    "min": 1066.0,
+    "max": 1066.0,
+    "modal": 1066.0,
+    "arrival": 45.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy emerigency"
+  }
+}

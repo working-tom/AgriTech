@@ -1,0 +1,29 @@
+{
+  "2011-12-13": {
+    "min": 330.0,
+    "max": 390.0,
+    "modal": 360.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Water Melon"
+  },
+  "2011-12-21": {
+    "min": 450.0,
+    "max": 550.0,
+    "modal": 500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Water Melon"
+  },
+  "2011-12-29": {
+    "min": 250.0,
+    "max": 380.0,
+    "modal": 330.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Water Melon"
+  }
+}

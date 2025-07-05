@@ -1,0 +1,29 @@
+{
+  "2012-09-01": {
+    "min": 5765.0,
+    "max": 5860.0,
+    "modal": 5795.0,
+    "arrival": 7.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sesame"
+  },
+  "2012-09-03": {
+    "min": 5495.0,
+    "max": 5975.0,
+    "modal": 5875.0,
+    "arrival": 10.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sesame"
+  },
+  "2012-09-07": {
+    "min": 5925.0,
+    "max": 6015.0,
+    "modal": 5925.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sesame"
+  }
+}

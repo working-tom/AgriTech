@@ -1,0 +1,29 @@
+{
+  "2011-01-06": {
+    "min": 2100.0,
+    "max": 2200.0,
+    "modal": 2150.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Peas"
+  },
+  "2011-01-13": {
+    "min": 2150.0,
+    "max": 2357.0,
+    "modal": 2200.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Peas"
+  },
+  "2011-01-29": {
+    "min": 2000.0,
+    "max": 2200.0,
+    "modal": 2100.0,
+    "arrival": 13.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Peas"
+  }
+}

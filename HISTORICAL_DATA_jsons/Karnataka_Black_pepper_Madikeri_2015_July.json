@@ -1,0 +1,29 @@
+{
+  "2015-07-16": {
+    "min": 40320.0,
+    "max": 40320.0,
+    "modal": 40320.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Malabar"
+  },
+  "2015-07-21": {
+    "min": 38700.0,
+    "max": 38700.0,
+    "modal": 38700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-07-28": {
+    "min": 35345.0,
+    "max": 35345.0,
+    "modal": 35345.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

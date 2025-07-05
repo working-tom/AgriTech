@@ -1,0 +1,83 @@
+{
+  "2012-12-01": {
+    "min": 37000.0,
+    "max": 38000.0,
+    "modal": 37500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Malabar"
+  },
+  "2012-12-05": {
+    "min": 37000.0,
+    "max": 38500.0,
+    "modal": 38000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Malabar"
+  },
+  "2012-12-08": {
+    "min": 37000.0,
+    "max": 38500.0,
+    "modal": 37500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Malabar"
+  },
+  "2012-12-12": {
+    "min": 37000.0,
+    "max": 38500.0,
+    "modal": 38000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ungrabled"
+  },
+  "2012-12-15": {
+    "min": 37000.0,
+    "max": 39000.0,
+    "modal": 37500.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-12-19": {
+    "min": 38000.0,
+    "max": 39000.0,
+    "modal": 38500.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ungrabled"
+  },
+  "2012-12-22": {
+    "min": 37500.0,
+    "max": 38000.0,
+    "modal": 37500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-12-26": {
+    "min": 38000.0,
+    "max": 40000.0,
+    "modal": 39000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-12-29": {
+    "min": 38000.0,
+    "max": 39000.0,
+    "modal": 38500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

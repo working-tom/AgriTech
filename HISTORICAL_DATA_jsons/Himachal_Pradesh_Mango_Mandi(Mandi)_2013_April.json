@@ -1,0 +1,29 @@
+{
+  "2013-04-01": {
+    "min": 4500.0,
+    "max": 5000.0,
+    "modal": 4500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dusheri"
+  },
+  "2013-04-03": {
+    "min": 3500.0,
+    "max": 4500.0,
+    "modal": 4500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dusheri"
+  },
+  "2013-04-06": {
+    "min": 4500.0,
+    "max": 5000.0,
+    "modal": 4500.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dusheri"
+  }
+}

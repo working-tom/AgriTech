@@ -1,0 +1,29 @@
+{
+  "2010-03-04": {
+    "min": 8500.0,
+    "max": 9500.0,
+    "modal": 9000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rich Red"
+  },
+  "2010-03-15": {
+    "min": 8500.0,
+    "max": 9000.0,
+    "modal": 8750.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  },
+  "2010-03-22": {
+    "min": 8500.0,
+    "max": 9000.0,
+    "modal": 8700.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kasmir/Shimla - II"
+  }
+}

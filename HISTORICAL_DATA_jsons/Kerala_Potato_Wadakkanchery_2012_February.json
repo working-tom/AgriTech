@@ -1,0 +1,101 @@
+{
+  "2012-02-01": {
+    "min": 1600.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-02": {
+    "min": 1500.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-07": {
+    "min": 1600.0,
+    "max": 1650.0,
+    "modal": 1600.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-09": {
+    "min": 1600.0,
+    "max": 1650.0,
+    "modal": 1600.0,
+    "arrival": 0.47,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-13": {
+    "min": 1600.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2012-02-14": {
+    "min": 1400.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2012-02-18": {
+    "min": 1400.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 0.58,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2012-02-21": {
+    "min": 1200.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2012-02-24": {
+    "min": 1600.0,
+    "max": 1800.0,
+    "modal": 1600.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2012-02-27": {
+    "min": 1300.0,
+    "max": 1400.0,
+    "modal": 1300.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2012-02-29": {
+    "min": 1500.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  }
+}

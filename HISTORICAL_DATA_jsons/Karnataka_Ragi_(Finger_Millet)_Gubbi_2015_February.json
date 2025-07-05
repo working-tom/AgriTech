@@ -1,0 +1,74 @@
+{
+  "2015-02-03": {
+    "min": 1200.0,
+    "max": 1200.0,
+    "modal": 1200.0,
+    "arrival": 100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-02-04": {
+    "min": 1550.0,
+    "max": 1550.0,
+    "modal": 1550.0,
+    "arrival": 60.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-02-05": {
+    "min": 1300.0,
+    "max": 1300.0,
+    "modal": 1300.0,
+    "arrival": 90.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Feeds (Poultry Quality)"
+  },
+  "2015-02-09": {
+    "min": 1200.0,
+    "max": 1600.0,
+    "modal": 1550.0,
+    "arrival": 65.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-02-16": {
+    "min": 1500.0,
+    "max": 1900.0,
+    "modal": 1500.0,
+    "arrival": 23.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-02-19": {
+    "min": 1400.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-02-20": {
+    "min": 1400.0,
+    "max": 1550.0,
+    "modal": 1550.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-02-23": {
+    "min": 1200.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

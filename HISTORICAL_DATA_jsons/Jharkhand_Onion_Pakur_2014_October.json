@@ -1,0 +1,47 @@
+{
+  "2014-10-11": {
+    "min": 1675.0,
+    "max": 1800.0,
+    "modal": 1780.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2014-10-12": {
+    "min": 1500.0,
+    "max": 1610.0,
+    "modal": 1560.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-10-22": {
+    "min": 1630.0,
+    "max": 1800.0,
+    "modal": 1725.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2014-10-29": {
+    "min": 1650.0,
+    "max": 1845.0,
+    "modal": 1735.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2014-10-31": {
+    "min": 1680.0,
+    "max": 1835.0,
+    "modal": 1756.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  }
+}

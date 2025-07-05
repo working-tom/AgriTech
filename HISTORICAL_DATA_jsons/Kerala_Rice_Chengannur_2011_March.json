@@ -1,0 +1,29 @@
+{
+  "2011-03-02": {
+    "min": 2250.0,
+    "max": 2950.0,
+    "modal": 2600.0,
+    "arrival": 8.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2011-03-05": {
+    "min": 2250.0,
+    "max": 2900.0,
+    "modal": 2575.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2011-03-19": {
+    "min": 2250.0,
+    "max": 2950.0,
+    "modal": 2550.0,
+    "arrival": 7.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  }
+}

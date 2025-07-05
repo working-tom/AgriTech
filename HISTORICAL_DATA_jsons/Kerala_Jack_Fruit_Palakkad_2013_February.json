@@ -1,0 +1,38 @@
+{
+  "2013-02-05": {
+    "min": 1000.0,
+    "max": 1500.0,
+    "modal": 1250.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jack Fruit"
+  },
+  "2013-02-14": {
+    "min": 1000.0,
+    "max": 1500.0,
+    "modal": 1250.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jack Fruit"
+  },
+  "2013-02-15": {
+    "min": 1000.0,
+    "max": 1500.0,
+    "modal": 1250.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jack Fruit"
+  },
+  "2013-02-28": {
+    "min": 1800.0,
+    "max": 2200.0,
+    "modal": 2000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jack Fruit"
+  }
+}

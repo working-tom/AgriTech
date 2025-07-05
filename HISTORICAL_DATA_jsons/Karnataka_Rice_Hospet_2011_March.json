@@ -1,0 +1,56 @@
+{
+  "2011-03-01": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "modal": 2000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusa Basmati Raw (Old)"
+  },
+  "2011-03-04": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "modal": 1800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2011-03-08": {
+    "min": 2500.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2011-03-19": {
+    "min": 1900.0,
+    "max": 1900.0,
+    "modal": 1900.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2011-03-28": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "modal": 1950.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajahamsa"
+  },
+  "2011-03-30": {
+    "min": 2550.0,
+    "max": 2550.0,
+    "modal": 2550.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  }
+}

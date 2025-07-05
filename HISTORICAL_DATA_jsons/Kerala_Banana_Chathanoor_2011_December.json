@@ -1,0 +1,74 @@
+{
+  "2011-12-02": {
+    "min": 2400.0,
+    "max": 2600.0,
+    "modal": 2500.0,
+    "arrival": 0.64,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-12-09": {
+    "min": 3300.0,
+    "max": 3400.0,
+    "modal": 3350.0,
+    "arrival": 0.125,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red Banana"
+  },
+  "2011-12-13": {
+    "min": 3250.0,
+    "max": 3450.0,
+    "modal": 3350.0,
+    "arrival": 0.2057142857142856,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red Banana"
+  },
+  "2011-12-16": {
+    "min": 3250.0,
+    "max": 3450.0,
+    "modal": 3350.0,
+    "arrival": 0.2142857142857142,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red Banana"
+  },
+  "2011-12-20": {
+    "min": 3300.0,
+    "max": 3500.0,
+    "modal": 3400.0,
+    "arrival": 0.1625,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red Banana"
+  },
+  "2011-12-23": {
+    "min": 1550.0,
+    "max": 1750.0,
+    "modal": 1650.0,
+    "arrival": 0.0833333333333332,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2011-12-27": {
+    "min": 1550.0,
+    "max": 1750.0,
+    "modal": 1650.0,
+    "arrival": 0.1272727272727272,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2011-12-30": {
+    "min": 1550.0,
+    "max": 1750.0,
+    "modal": 1650.0,
+    "arrival": 0.1454545454545454,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  }
+}

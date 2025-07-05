@@ -1,0 +1,29 @@
+{
+  "2010-07-03": {
+    "min": 2800.0,
+    "max": 3125.0,
+    "modal": 3000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Javeri"
+  },
+  "2010-07-12": {
+    "min": 2200.0,
+    "max": 2809.0,
+    "modal": 2650.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Javeri"
+  },
+  "2010-07-27": {
+    "min": 3825.0,
+    "max": 3825.0,
+    "modal": 3825.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Javeri"
+  }
+}

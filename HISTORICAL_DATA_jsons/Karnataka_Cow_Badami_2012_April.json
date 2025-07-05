@@ -1,0 +1,20 @@
+{
+  "2012-04-05": {
+    "min": 9000.0,
+    "max": 42500.0,
+    "modal": 35000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2012-04-13": {
+    "min": 11000.0,
+    "max": 26000.0,
+    "modal": 24000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2015-03-04": {
+    "min": 2000.0,
+    "max": 2600.0,
+    "modal": 2300.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fresh Unbleached"
+  },
+  "2015-03-18": {
+    "min": 2000.0,
+    "max": 3000.0,
+    "modal": 2500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fresh Unbleached"
+  },
+  "2015-03-19": {
+    "min": 2000.0,
+    "max": 3000.0,
+    "modal": 2500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fresh Unbleached"
+  }
+}

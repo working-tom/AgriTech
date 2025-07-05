@@ -1,0 +1,38 @@
+{
+  "2012-12-01": {
+    "min": 2401.0,
+    "max": 2401.0,
+    "modal": 2401.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  },
+  "2012-12-05": {
+    "min": 2595.0,
+    "max": 2595.0,
+    "modal": 2595.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  },
+  "2012-12-11": {
+    "min": 2713.0,
+    "max": 2765.0,
+    "modal": 2765.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  },
+  "2012-12-15": {
+    "min": 1702.0,
+    "max": 1702.0,
+    "modal": 1702.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Arhar (Whole)"
+  }
+}

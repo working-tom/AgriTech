@@ -1,0 +1,29 @@
+{
+  "2010-02-01": {
+    "min": 2120.0,
+    "max": 2170.0,
+    "modal": 2120.0,
+    "arrival": 16.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Soyabeen"
+  },
+  "2010-02-03": {
+    "min": 2030.0,
+    "max": 2080.0,
+    "modal": 2060.0,
+    "arrival": 44.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Soyabeen"
+  },
+  "2010-02-05": {
+    "min": 2080.0,
+    "max": 2130.0,
+    "modal": 2100.0,
+    "arrival": 46.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Soyabeen"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2011-02-09": {
+    "min": 800.0,
+    "max": 1200.0,
+    "modal": 1000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Knool Khol"
+  },
+  "2011-02-17": {
+    "min": 700.0,
+    "max": 900.0,
+    "modal": 872.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Knool Khol"
+  },
+  "2011-02-23": {
+    "min": 800.0,
+    "max": 900.0,
+    "modal": 849.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Knool Khol"
+  }
+}

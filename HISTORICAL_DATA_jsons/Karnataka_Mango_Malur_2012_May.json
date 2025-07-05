@@ -1,0 +1,29 @@
+{
+  "2012-05-21": {
+    "min": 800.0,
+    "max": 1500.0,
+    "modal": 1000.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neelam"
+  },
+  "2012-05-25": {
+    "min": 450.0,
+    "max": 850.0,
+    "modal": 800.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  },
+  "2012-05-28": {
+    "min": 500.0,
+    "max": 710.0,
+    "modal": 660.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  }
+}

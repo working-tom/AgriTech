@@ -1,0 +1,74 @@
+{
+  "2013-09-03": {
+    "min": 3600.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-05": {
+    "min": 5200.0,
+    "max": 5600.0,
+    "modal": 5400.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-10": {
+    "min": 4000.0,
+    "max": 4500.0,
+    "modal": 4250.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-12": {
+    "min": 6000.0,
+    "max": 6600.0,
+    "modal": 6300.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-17": {
+    "min": 6000.0,
+    "max": 6500.0,
+    "modal": 6250.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-19": {
+    "min": 6000.0,
+    "max": 6700.0,
+    "modal": 6350.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-24": {
+    "min": 6000.0,
+    "max": 6700.0,
+    "modal": 6350.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  },
+  "2013-09-26": {
+    "min": 6000.0,
+    "max": 6600.0,
+    "modal": 6300.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Garlic"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2010-02-03": {
+    "min": 6900.0,
+    "max": 7000.0,
+    "modal": 6950.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Moath Dal"
+  },
+  "2010-02-10": {
+    "min": 5800.0,
+    "max": 6900.0,
+    "modal": 6500.0,
+    "arrival": 33.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Moath Dal"
+  },
+  "2010-02-23": {
+    "min": 6500.0,
+    "max": 7000.0,
+    "modal": 6800.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Moath Dal"
+  }
+}

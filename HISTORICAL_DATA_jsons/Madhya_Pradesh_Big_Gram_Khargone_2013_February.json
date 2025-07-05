@@ -1,0 +1,191 @@
+{
+  "2013-02-01": {
+    "min": 3500.0,
+    "max": 3600.0,
+    "modal": 3600.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-02": {
+    "min": 3084.0,
+    "max": 3500.0,
+    "modal": 3500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-05": {
+    "min": 3200.0,
+    "max": 3225.0,
+    "modal": 3211.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-06": {
+    "min": 3200.0,
+    "max": 3200.0,
+    "modal": 3200.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-07": {
+    "min": 2600.0,
+    "max": 3100.0,
+    "modal": 3100.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-08": {
+    "min": 3100.0,
+    "max": 3100.0,
+    "modal": 3100.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-09": {
+    "min": 3100.0,
+    "max": 3173.0,
+    "modal": 3173.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-11": {
+    "min": 2886.0,
+    "max": 3281.0,
+    "modal": 3201.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-12": {
+    "min": 3261.0,
+    "max": 3265.0,
+    "modal": 3265.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-14": {
+    "min": 3201.0,
+    "max": 3201.0,
+    "modal": 3201.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-15": {
+    "min": 3100.0,
+    "max": 3296.0,
+    "modal": 3296.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-16": {
+    "min": 3330.0,
+    "max": 3330.0,
+    "modal": 3330.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-18": {
+    "min": 3270.0,
+    "max": 3300.0,
+    "modal": 3300.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-19": {
+    "min": 3050.0,
+    "max": 3226.0,
+    "modal": 3185.0,
+    "arrival": 2.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-20": {
+    "min": 3025.0,
+    "max": 3275.0,
+    "modal": 3161.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-21": {
+    "min": 3000.0,
+    "max": 3252.0,
+    "modal": 3175.0,
+    "arrival": 3.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-22": {
+    "min": 3050.0,
+    "max": 3251.0,
+    "modal": 3200.0,
+    "arrival": 8.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-23": {
+    "min": 3100.0,
+    "max": 3250.0,
+    "modal": 3200.0,
+    "arrival": 6.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-26": {
+    "min": 3000.0,
+    "max": 3241.0,
+    "modal": 3176.0,
+    "arrival": 24.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-27": {
+    "min": 2551.0,
+    "max": 3076.0,
+    "modal": 3000.0,
+    "arrival": 20.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-02-28": {
+    "min": 2800.0,
+    "max": 3551.0,
+    "modal": 2996.0,
+    "arrival": 15.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

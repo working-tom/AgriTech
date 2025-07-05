@@ -1,0 +1,29 @@
+{
+  "2015-08-19": {
+    "min": 3099.0,
+    "max": 4251.0,
+    "modal": 3930.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2015-08-26": {
+    "min": 1101.0,
+    "max": 4409.0,
+    "modal": 4167.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2015-08-29": {
+    "min": 4000.0,
+    "max": 4200.0,
+    "modal": 4150.0,
+    "arrival": 16.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  }
+}

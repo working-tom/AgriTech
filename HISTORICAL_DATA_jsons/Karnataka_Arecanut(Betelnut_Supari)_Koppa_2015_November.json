@@ -1,0 +1,47 @@
+{
+  "2015-11-04": {
+    "min": 36000.0,
+    "max": 42500.0,
+    "modal": 42000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  },
+  "2015-11-24": {
+    "min": 36000.0,
+    "max": 42500.0,
+    "modal": 41000.0,
+    "arrival": 55.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Saraku"
+  },
+  "2015-11-25": {
+    "min": 36500.0,
+    "max": 42500.0,
+    "modal": 42000.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Saraku"
+  },
+  "2015-11-26": {
+    "min": 36000.0,
+    "max": 42500.0,
+    "modal": 42000.0,
+    "arrival": 27.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Saraku"
+  },
+  "2015-11-30": {
+    "min": 37211.0,
+    "max": 49099.0,
+    "modal": 47099.0,
+    "arrival": 62.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Saraku"
+  }
+}

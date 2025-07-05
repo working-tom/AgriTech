@@ -1,0 +1,29 @@
+{
+  "2015-03-05": {
+    "min": 500.0,
+    "max": 500.0,
+    "modal": 500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seemebadanekai"
+  },
+  "2015-03-12": {
+    "min": 500.0,
+    "max": 600.0,
+    "modal": 567.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seemebadanekai"
+  },
+  "2015-03-19": {
+    "min": 500.0,
+    "max": 600.0,
+    "modal": 600.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seemebadanekai"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2015-12-03": {
+    "min": 8000.0,
+    "max": 8200.0,
+    "modal": 8100.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mango - Raw-Ripe"
+  },
+  "2015-12-17": {
+    "min": 4200.0,
+    "max": 4400.0,
+    "modal": 4300.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-31": {
+    "min": 4500.0,
+    "max": 4650.0,
+    "modal": 4600.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mango - Raw-Ripe"
+  }
+}

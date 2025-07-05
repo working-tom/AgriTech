@@ -1,0 +1,47 @@
+{
+  "2010-05-03": {
+    "min": 1500.0,
+    "max": 3500.0,
+    "modal": 2500.0,
+    "arrival": 4.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-05-06": {
+    "min": 1500.0,
+    "max": 3500.0,
+    "modal": 2500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-05-13": {
+    "min": 800.0,
+    "max": 900.0,
+    "modal": 850.0,
+    "arrival": 31.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  },
+  "2010-05-18": {
+    "min": 800.0,
+    "max": 900.0,
+    "modal": 850.0,
+    "arrival": 19.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  },
+  "2010-05-20": {
+    "min": 1500.0,
+    "max": 3500.0,
+    "modal": 2500.0,
+    "arrival": 28.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "2010-01-02": {
+    "min": 1900.0,
+    "max": 1950.0,
+    "modal": 1925.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2010-01-05": {
+    "min": 1900.0,
+    "max": 1925.0,
+    "modal": 1920.0,
+    "arrival": 19.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2010-01-11": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "modal": 1800.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2010-01-13": {
+    "min": 1900.0,
+    "max": 1900.0,
+    "modal": 1900.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2010-01-16": {
+    "min": 2700.0,
+    "max": 2700.0,
+    "modal": 2700.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  }
+}

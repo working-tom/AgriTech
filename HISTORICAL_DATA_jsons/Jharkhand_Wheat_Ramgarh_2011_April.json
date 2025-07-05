@@ -1,0 +1,38 @@
+{
+  "2011-04-16": {
+    "min": 1650.0,
+    "max": 1900.0,
+    "modal": 1700.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2011-04-21": {
+    "min": 1350.0,
+    "max": 1600.0,
+    "modal": 1450.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2011-04-22": {
+    "min": 1350.0,
+    "max": 1600.0,
+    "modal": 1450.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2011-04-25": {
+    "min": 1350.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  }
+}

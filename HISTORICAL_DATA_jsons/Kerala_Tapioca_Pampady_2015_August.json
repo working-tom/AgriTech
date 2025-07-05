@@ -1,0 +1,38 @@
+{
+  "2015-08-07": {
+    "min": 1000.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tapioca"
+  },
+  "2015-08-18": {
+    "min": 1000.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-08-21": {
+    "min": 1200.0,
+    "max": 1600.0,
+    "modal": 1400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-08-25": {
+    "min": 1200.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

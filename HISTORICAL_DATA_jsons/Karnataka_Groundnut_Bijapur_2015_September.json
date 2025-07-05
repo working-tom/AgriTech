@@ -1,0 +1,38 @@
+{
+  "2015-09-18": {
+    "min": 5500.0,
+    "max": 5800.0,
+    "modal": 5700.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  },
+  "2015-09-19": {
+    "min": 5500.0,
+    "max": 5800.0,
+    "modal": 5700.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  },
+  "2015-09-24": {
+    "min": 5600.0,
+    "max": 5900.0,
+    "modal": 5800.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  },
+  "2015-09-26": {
+    "min": 5500.0,
+    "max": 5900.0,
+    "modal": 5800.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  }
+}

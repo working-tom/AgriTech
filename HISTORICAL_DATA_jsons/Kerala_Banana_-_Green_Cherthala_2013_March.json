@@ -1,0 +1,92 @@
+{
+  "2013-03-01": {
+    "min": 3500.0,
+    "max": 4200.0,
+    "modal": 3800.0,
+    "arrival": 0.85,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Green"
+  },
+  "2013-03-02": {
+    "min": 3400.0,
+    "max": 4000.0,
+    "modal": 3650.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Green"
+  },
+  "2013-03-04": {
+    "min": 3200.0,
+    "max": 4000.0,
+    "modal": 3850.0,
+    "arrival": 2.85,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Green"
+  },
+  "2013-03-05": {
+    "min": 3200.0,
+    "max": 4000.0,
+    "modal": 3600.0,
+    "arrival": 1.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Green"
+  },
+  "2013-03-19": {
+    "min": 3400.0,
+    "max": 4000.0,
+    "modal": 3700.0,
+    "arrival": 1.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-21": {
+    "min": 3200.0,
+    "max": 4000.0,
+    "modal": 3650.0,
+    "arrival": 1.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-23": {
+    "min": 3300.0,
+    "max": 4000.0,
+    "modal": 3650.0,
+    "arrival": 1.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-25": {
+    "min": 3200.0,
+    "max": 4000.0,
+    "modal": 3650.0,
+    "arrival": 8.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-26": {
+    "min": 3400.0,
+    "max": 4000.0,
+    "modal": 3700.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-27": {
+    "min": 3400.0,
+    "max": 4000.0,
+    "modal": 3600.0,
+    "arrival": 6.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2011-10-14": {
+    "min": 1000.0,
+    "max": 1100.0,
+    "modal": 1000.0,
+    "arrival": 46.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hosur Green"
+  },
+  "2011-10-17": {
+    "min": 300.0,
+    "max": 350.0,
+    "modal": 300.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hosur Green"
+  },
+  "2011-10-22": {
+    "min": 250.0,
+    "max": 300.0,
+    "modal": 250.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hosur Green"
+  },
+  "2011-10-29": {
+    "min": 200.0,
+    "max": 250.0,
+    "modal": 215.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hosur Green"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2010-02-22": {
+    "min": 1200.0,
+    "max": 1600.0,
+    "modal": 1590.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  },
+  "2010-02-23": {
+    "min": 1190.0,
+    "max": 1550.0,
+    "modal": 1400.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  },
+  "2010-02-24": {
+    "min": 1100.0,
+    "max": 1520.0,
+    "modal": 1450.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  },
+  "2010-02-26": {
+    "min": 1050.0,
+    "max": 1510.0,
+    "modal": 1200.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2011-06-21": {
+    "min": 7000.0,
+    "max": 7000.0,
+    "modal": 7000.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaydhar"
+  },
+  "2011-06-23": {
+    "min": 7100.0,
+    "max": 7501.0,
+    "modal": 7400.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaydhar"
+  },
+  "2011-06-29": {
+    "min": 9000.0,
+    "max": 11000.0,
+    "modal": 10460.0,
+    "arrival": 93.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

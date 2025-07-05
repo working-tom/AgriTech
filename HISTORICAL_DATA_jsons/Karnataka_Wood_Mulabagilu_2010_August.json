@@ -1,0 +1,29 @@
+{
+  "2010-08-05": {
+    "min": 100.0,
+    "max": 150.0,
+    "modal": 125.0,
+    "arrival": 80.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Eucalyptus"
+  },
+  "2010-08-25": {
+    "min": 100.0,
+    "max": 200.0,
+    "modal": 150.0,
+    "arrival": 447.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Eucalyptus"
+  },
+  "2010-08-28": {
+    "min": 150.0,
+    "max": 250.0,
+    "modal": 200.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Eucalyptus"
+  }
+}

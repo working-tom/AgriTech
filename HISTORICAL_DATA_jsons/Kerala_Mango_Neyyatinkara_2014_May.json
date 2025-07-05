@@ -1,0 +1,38 @@
+{
+  "2014-05-09": {
+    "min": 600.0,
+    "max": 800.0,
+    "modal": 700.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-05-17": {
+    "min": 7300.0,
+    "max": 7500.0,
+    "modal": 7400.0,
+    "arrival": 0.03,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neelam"
+  },
+  "2014-05-19": {
+    "min": 5800.0,
+    "max": 6000.0,
+    "modal": 5900.0,
+    "arrival": 0.03,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neelam"
+  },
+  "2014-05-20": {
+    "min": 7300.0,
+    "max": 7500.0,
+    "modal": 7400.0,
+    "arrival": 0.03,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neelam"
+  }
+}

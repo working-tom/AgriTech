@@ -1,0 +1,29 @@
+{
+  "2012-01-07": {
+    "min": 9000.0,
+    "max": 9500.0,
+    "modal": 9100.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  },
+  "2012-01-11": {
+    "min": 9000.0,
+    "max": 9500.0,
+    "modal": 9300.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  },
+  "2012-01-25": {
+    "min": 8000.0,
+    "max": 9000.0,
+    "modal": 8500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  }
+}

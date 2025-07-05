@@ -1,0 +1,29 @@
+{
+  "2010-09-06": {
+    "min": 1800.0,
+    "max": 2000.0,
+    "modal": 1950.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajahamsa"
+  },
+  "2010-09-08": {
+    "min": 2800.0,
+    "max": 2800.0,
+    "modal": 2800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2010-09-21": {
+    "min": 1500.0,
+    "max": 1750.0,
+    "modal": 1600.0,
+    "arrival": 5.666666666666667,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajahamsa"
+  }
+}

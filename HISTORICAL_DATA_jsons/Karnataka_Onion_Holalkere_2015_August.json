@@ -1,0 +1,29 @@
+{
+  "2015-08-17": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2045.0,
+    "arrival": 22.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2015-08-28": {
+    "min": 1500.0,
+    "max": 2500.0,
+    "modal": 1667.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2015-08-31": {
+    "min": 3500.0,
+    "max": 3500.0,
+    "modal": 3500.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  }
+}

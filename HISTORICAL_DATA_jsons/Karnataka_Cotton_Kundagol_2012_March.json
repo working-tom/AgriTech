@@ -1,0 +1,74 @@
+{
+  "2012-03-06": {
+    "min": 3000.0,
+    "max": 3500.0,
+    "modal": 3400.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-03-07": {
+    "min": 3650.0,
+    "max": 3800.0,
+    "modal": 3701.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-03-12": {
+    "min": 3400.0,
+    "max": 3900.0,
+    "modal": 3475.0,
+    "arrival": 18.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-03-22": {
+    "min": 3200.0,
+    "max": 3200.0,
+    "modal": 3200.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2012-03-26": {
+    "min": 3300.0,
+    "max": 3500.0,
+    "modal": 3300.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2012-03-28": {
+    "min": 3700.0,
+    "max": 3800.0,
+    "modal": 3725.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-03-29": {
+    "min": 3100.0,
+    "max": 3900.0,
+    "modal": 3100.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-03-30": {
+    "min": 3300.0,
+    "max": 3650.0,
+    "modal": 3500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "2012-03-03": {
+    "min": 5000.0,
+    "max": 8400.0,
+    "modal": 6500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Grade-III"
+  },
+  "2012-03-14": {
+    "min": 5000.0,
+    "max": 5000.0,
+    "modal": 5000.0,
+    "arrival": 850.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Grade-III"
+  },
+  "2012-03-17": {
+    "min": 8600.0,
+    "max": 8600.0,
+    "modal": 8600.0,
+    "arrival": 5602.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Grade-III"
+  },
+  "2012-03-22": {
+    "min": 6000.0,
+    "max": 6000.0,
+    "modal": 6000.0,
+    "arrival": 2000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Grade-III"
+  },
+  "2012-03-24": {
+    "min": 8000.0,
+    "max": 8000.0,
+    "modal": 8000.0,
+    "arrival": 5590.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Grade-III"
+  }
+}

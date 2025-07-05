@@ -1,0 +1,29 @@
+{
+  "2010-04-01": {
+    "min": 11000.0,
+    "max": 12000.0,
+    "modal": 11500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pomogranate"
+  },
+  "2010-04-17": {
+    "min": 11000.0,
+    "max": 12000.0,
+    "modal": 11500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pomogranate"
+  },
+  "2010-04-20": {
+    "min": 7500.0,
+    "max": 8500.0,
+    "modal": 8000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pomogranate"
+  }
+}

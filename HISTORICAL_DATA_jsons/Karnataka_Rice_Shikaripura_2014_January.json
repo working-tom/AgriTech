@@ -1,0 +1,56 @@
+{
+  "2014-01-03": {
+    "min": 2400.0,
+    "max": 2800.0,
+    "modal": 2600.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-01-06": {
+    "min": 2200.0,
+    "max": 2800.0,
+    "modal": 2500.0,
+    "arrival": 200.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-01-08": {
+    "min": 2300.0,
+    "max": 2800.0,
+    "modal": 2500.0,
+    "arrival": 82.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-01-16": {
+    "min": 2300.0,
+    "max": 2800.0,
+    "modal": 2500.0,
+    "arrival": 28.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-01-22": {
+    "min": 2400.0,
+    "max": 2800.0,
+    "modal": 2700.0,
+    "arrival": 40.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2014-01-25": {
+    "min": 1000.0,
+    "max": 1800.0,
+    "modal": 1690.0,
+    "arrival": 44.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  }
+}

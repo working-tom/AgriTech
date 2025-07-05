@@ -1,0 +1,38 @@
+{
+  "2012-09-20": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MP Sharbati"
+  },
+  "2012-09-22": {
+    "min": 1422.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MP Sharbati"
+  },
+  "2012-09-24": {
+    "min": 1355.0,
+    "max": 1750.0,
+    "modal": 1699.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MP Sharbati"
+  },
+  "2012-09-27": {
+    "min": 1275.0,
+    "max": 1400.0,
+    "modal": 1350.0,
+    "arrival": 2.06,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MP Sharbati"
+  }
+}

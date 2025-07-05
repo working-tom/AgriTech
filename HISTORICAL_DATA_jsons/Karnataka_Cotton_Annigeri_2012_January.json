@@ -1,0 +1,83 @@
+{
+  "2012-01-02": {
+    "min": 4000.0,
+    "max": 4000.0,
+    "modal": 4000.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-03": {
+    "min": 3705.0,
+    "max": 3750.0,
+    "modal": 3750.0,
+    "arrival": 16.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-10": {
+    "min": 3850.0,
+    "max": 3850.0,
+    "modal": 3850.0,
+    "arrival": 34.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-01-11": {
+    "min": 3850.0,
+    "max": 4000.0,
+    "modal": 3950.0,
+    "arrival": 45.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-14": {
+    "min": 4200.0,
+    "max": 4200.0,
+    "modal": 4200.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-17": {
+    "min": 3850.0,
+    "max": 3850.0,
+    "modal": 3850.0,
+    "arrival": 24.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-23": {
+    "min": 3800.0,
+    "max": 4175.0,
+    "modal": 4000.0,
+    "arrival": 71.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-25": {
+    "min": 3800.0,
+    "max": 3850.0,
+    "modal": 3850.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2012-01-31": {
+    "min": 4050.0,
+    "max": 4200.0,
+    "modal": 4100.0,
+    "arrival": 178.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MCU 5"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "2015-05-02": {
+    "min": 1300.0,
+    "max": 1700.0,
+    "modal": 1500.0,
+    "arrival": 0.175,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2015-05-12": {
+    "min": 1300.0,
+    "max": 1700.0,
+    "modal": 1500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2015-05-19": {
+    "min": 1400.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2015-05-23": {
+    "min": 1400.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 0.175,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2015-05-26": {
+    "min": 1400.0,
+    "max": 1600.0,
+    "modal": 1500.0,
+    "arrival": 0.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  }
+}

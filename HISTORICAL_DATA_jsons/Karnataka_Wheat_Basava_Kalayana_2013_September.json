@@ -1,0 +1,29 @@
+{
+  "2013-09-07": {
+    "min": 1250.0,
+    "max": 1900.0,
+    "modal": 1550.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  },
+  "2013-09-19": {
+    "min": 1600.0,
+    "max": 1662.0,
+    "modal": 1600.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  },
+  "2013-09-24": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mexican"
+  }
+}

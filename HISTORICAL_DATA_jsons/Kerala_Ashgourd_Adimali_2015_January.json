@@ -1,0 +1,56 @@
+{
+  "2015-01-06": {
+    "min": 1600.0,
+    "max": 2400.0,
+    "modal": 2000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ashgourd"
+  },
+  "2015-01-14": {
+    "min": 1500.0,
+    "max": 2300.0,
+    "modal": 1900.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ashgourd"
+  },
+  "2015-01-16": {
+    "min": 1500.0,
+    "max": 2500.0,
+    "modal": 2000.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ashgourd"
+  },
+  "2015-01-20": {
+    "min": 1600.0,
+    "max": 2400.0,
+    "modal": 2100.0,
+    "arrival": 1.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ashgourd"
+  },
+  "2015-01-28": {
+    "min": 1500.0,
+    "max": 2300.0,
+    "modal": 2000.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ashgourd"
+  },
+  "2015-01-30": {
+    "min": 1600.0,
+    "max": 2400.0,
+    "modal": 2200.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ashgourd"
+  }
+}

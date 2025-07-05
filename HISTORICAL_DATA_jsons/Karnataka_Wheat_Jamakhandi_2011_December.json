@@ -1,0 +1,38 @@
+{
+  "2011-12-02": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "modal": 1800.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kirthi"
+  },
+  "2011-12-12": {
+    "min": 1810.0,
+    "max": 1810.0,
+    "modal": 1810.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2011-12-16": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "modal": 1950.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2011-12-26": {
+    "min": 1850.0,
+    "max": 1950.0,
+    "modal": 1950.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

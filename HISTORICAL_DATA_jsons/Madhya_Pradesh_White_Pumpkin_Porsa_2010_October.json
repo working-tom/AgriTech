@@ -1,0 +1,38 @@
+{
+  "2010-10-03": {
+    "min": 250.0,
+    "max": 250.0,
+    "modal": 250.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White Pumpkin"
+  },
+  "2010-10-09": {
+    "min": 200.0,
+    "max": 200.0,
+    "modal": 200.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White Pumpkin"
+  },
+  "2010-10-13": {
+    "min": 125.0,
+    "max": 125.0,
+    "modal": 125.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White Pumpkin"
+  },
+  "2010-10-19": {
+    "min": 200.0,
+    "max": 200.0,
+    "modal": 200.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "White Pumpkin"
+  }
+}

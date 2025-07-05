@@ -1,0 +1,29 @@
+{
+  "2012-08-13": {
+    "min": 1500.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  },
+  "2012-08-27": {
+    "min": 1500.0,
+    "max": 2000.0,
+    "modal": 1650.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "CR 1009 (Coarse) Boiled"
+  },
+  "2012-08-30": {
+    "min": 1500.0,
+    "max": 2000.0,
+    "modal": 1750.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "CR 1009 (Coarse) Boiled"
+  }
+}

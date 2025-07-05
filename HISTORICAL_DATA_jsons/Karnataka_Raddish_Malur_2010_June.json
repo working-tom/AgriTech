@@ -1,0 +1,29 @@
+{
+  "2010-06-10": {
+    "min": 400.0,
+    "max": 650.0,
+    "modal": 500.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2010-06-25": {
+    "min": 250.0,
+    "max": 400.0,
+    "modal": 300.0,
+    "arrival": 56.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2010-06-29": {
+    "min": 400.0,
+    "max": 600.0,
+    "modal": 550.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  }
+}

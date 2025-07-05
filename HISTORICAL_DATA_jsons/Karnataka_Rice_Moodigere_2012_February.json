@@ -1,0 +1,29 @@
+{
+  "2012-02-18": {
+    "min": 2100.0,
+    "max": 2250.0,
+    "modal": 2200.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-25": {
+    "min": 2300.0,
+    "max": 2400.0,
+    "modal": 2350.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kachha Basmati"
+  },
+  "2012-02-27": {
+    "min": 3000.0,
+    "max": 3300.0,
+    "modal": 3200.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kachha Basmati"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2010-11-02": {
+    "min": 1150.0,
+    "max": 1150.0,
+    "modal": 1150.0,
+    "arrival": 23.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari"
+  },
+  "2010-11-16": {
+    "min": 1390.0,
+    "max": 1400.0,
+    "modal": 1390.0,
+    "arrival": 34.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-11-26": {
+    "min": 1150.0,
+    "max": 1390.0,
+    "modal": 1150.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari"
+  }
+}

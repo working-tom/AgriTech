@@ -1,0 +1,20 @@
+{
+  "2010-11-01": {
+    "min": 1200.0,
+    "max": 1280.0,
+    "modal": 1250.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MP(Desi)"
+  },
+  "2010-11-02": {
+    "min": 1020.0,
+    "max": 1200.0,
+    "modal": 1175.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MP(Desi)"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2015-07-07": {
+    "min": 1300.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  },
+  "2015-07-10": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2300.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarbati Raw"
+  },
+  "2015-07-15": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2350.0,
+    "arrival": 57.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2015-07-16": {
+    "min": 1900.0,
+    "max": 2500.0,
+    "modal": 2000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarbati Raw"
+  },
+  "2015-07-27": {
+    "min": 1900.0,
+    "max": 2500.0,
+    "modal": 2000.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  },
+  "2015-07-29": {
+    "min": 1202.0,
+    "max": 2000.0,
+    "modal": 1800.0,
+    "arrival": 131.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  }
+}

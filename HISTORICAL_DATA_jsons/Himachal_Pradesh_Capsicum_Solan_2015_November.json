@@ -1,0 +1,38 @@
+{
+  "2015-11-26": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2250.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2015-11-27": {
+    "min": 1500.0,
+    "max": 2000.0,
+    "modal": 1750.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2015-11-28": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2250.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  },
+  "2015-11-30": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2250.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Capsicum"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-09-03": {
+    "min": 3000.0,
+    "max": 6200.0,
+    "modal": 4600.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bengal Gram Dal"
+  },
+  "2015-09-14": {
+    "min": 6000.0,
+    "max": 6000.0,
+    "modal": 6000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bengal Gram Dal"
+  },
+  "2015-09-15": {
+    "min": 5820.0,
+    "max": 6400.0,
+    "modal": 6200.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bengal Gram Dal"
+  },
+  "2015-09-29": {
+    "min": 5040.0,
+    "max": 6000.0,
+    "modal": 5850.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bengal Gram Dal"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2012-08-02": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "modal": 1800.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2012-08-08": {
+    "min": 1270.0,
+    "max": 1270.0,
+    "modal": 1270.0,
+    "arrival": 125.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2012-08-28": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "modal": 2000.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  }
+}

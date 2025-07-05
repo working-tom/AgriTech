@@ -1,0 +1,29 @@
+{
+  "2013-08-01": {
+    "min": 400.0,
+    "max": 2600.0,
+    "modal": 1000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beetroot"
+  },
+  "2013-08-21": {
+    "min": 714.0,
+    "max": 1500.0,
+    "modal": 1000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beetroot"
+  },
+  "2013-08-22": {
+    "min": 500.0,
+    "max": 1200.0,
+    "modal": 1000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beetroot"
+  }
+}

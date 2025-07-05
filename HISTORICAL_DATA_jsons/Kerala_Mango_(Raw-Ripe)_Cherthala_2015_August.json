@@ -1,0 +1,56 @@
+{
+  "2015-08-11": {
+    "min": 6350.0,
+    "max": 6500.0,
+    "modal": 6400.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mango - Raw-Ripe"
+  },
+  "2015-08-12": {
+    "min": 6600.0,
+    "max": 6700.0,
+    "modal": 6650.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mango - Raw-Ripe"
+  },
+  "2015-08-13": {
+    "min": 6700.0,
+    "max": 6900.0,
+    "modal": 6800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-08-18": {
+    "min": 8000.0,
+    "max": 8200.0,
+    "modal": 8100.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mango - Raw-Ripe"
+  },
+  "2015-08-24": {
+    "min": 780.0,
+    "max": 800.0,
+    "modal": 790.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-08-25": {
+    "min": 8000.0,
+    "max": 8200.0,
+    "modal": 8100.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

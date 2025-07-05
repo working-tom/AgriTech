@@ -1,0 +1,47 @@
+{
+  "2014-08-05": {
+    "min": 3000.0,
+    "max": 5500.0,
+    "modal": 4500.0,
+    "arrival": 1.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Small"
+  },
+  "2014-08-10": {
+    "min": 11000.0,
+    "max": 16000.0,
+    "modal": 14000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2014-08-17": {
+    "min": 9000.0,
+    "max": 14000.0,
+    "modal": 12000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2014-08-26": {
+    "min": 8000.0,
+    "max": 15000.0,
+    "modal": 12000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2014-08-31": {
+    "min": 8000.0,
+    "max": 16000.0,
+    "modal": 13000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "2013-12-05": {
+    "min": 400.0,
+    "max": 400.0,
+    "modal": 400.0,
+    "arrival": 0.04,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-07": {
+    "min": 250.0,
+    "max": 600.0,
+    "modal": 323.0,
+    "arrival": 32.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-10": {
+    "min": 400.0,
+    "max": 450.0,
+    "modal": 406.0,
+    "arrival": 2.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-16": {
+    "min": 475.0,
+    "max": 550.0,
+    "modal": 517.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-18": {
+    "min": 400.0,
+    "max": 500.0,
+    "modal": 420.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-20": {
+    "min": 300.0,
+    "max": 550.0,
+    "modal": 467.0,
+    "arrival": 1.01,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-27": {
+    "min": 550.0,
+    "max": 550.0,
+    "modal": 550.0,
+    "arrival": 0.03,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-28": {
+    "min": 200.0,
+    "max": 500.0,
+    "modal": 380.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-12-30": {
+    "min": 500.0,
+    "max": 610.0,
+    "modal": 539.0,
+    "arrival": 0.33,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  }
+}
