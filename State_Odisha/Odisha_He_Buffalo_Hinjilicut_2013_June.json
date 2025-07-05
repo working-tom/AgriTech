@@ -1,0 +1,47 @@
+{
+  "2013-06-01": {
+    "min": 2000.0,
+    "max": 14000.0,
+    "modal": 12000.0,
+    "arrival": 450.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2013-06-08": {
+    "min": 2000.0,
+    "max": 12000.0,
+    "modal": 10000.0,
+    "arrival": 330.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2013-06-15": {
+    "min": 2000.0,
+    "max": 12000.0,
+    "modal": 10000.0,
+    "arrival": 360.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2013-06-22": {
+    "min": 2000.0,
+    "max": 14000.0,
+    "modal": 10000.0,
+    "arrival": 360.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2013-06-29": {
+    "min": 2000.0,
+    "max": 14000.0,
+    "modal": 10000.0,
+    "arrival": 300.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

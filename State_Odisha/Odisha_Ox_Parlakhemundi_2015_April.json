@@ -1,0 +1,38 @@
+{
+  "2015-04-04": {
+    "min": 10000.0,
+    "max": 15000.0,
+    "modal": 15000.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2015-04-11": {
+    "min": 15000.0,
+    "max": 20000.0,
+    "modal": 20000.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2015-04-18": {
+    "min": 25000.0,
+    "max": 30000.0,
+    "modal": 30000.0,
+    "arrival": 150.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2015-04-25": {
+    "min": 15000.0,
+    "max": 20000.0,
+    "modal": 20000.0,
+    "arrival": 150.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

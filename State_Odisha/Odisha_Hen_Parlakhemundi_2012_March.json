@@ -1,0 +1,38 @@
+{
+  "2012-03-03": {
+    "min": 120.0,
+    "max": 140.0,
+    "modal": 140.0,
+    "arrival": 30.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  },
+  "2012-03-10": {
+    "min": 200.0,
+    "max": 250.0,
+    "modal": 250.0,
+    "arrival": 50.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  },
+  "2012-03-24": {
+    "min": 120.0,
+    "max": 140.0,
+    "modal": 140.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  },
+  "2012-03-31": {
+    "min": 120.0,
+    "max": 140.0,
+    "modal": 140.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2010-12-05": {
+    "min": 9500.0,
+    "max": 13000.0,
+    "modal": 12000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "New Laddu"
+  },
+  "2010-12-10": {
+    "min": 16000.0,
+    "max": 20000.0,
+    "modal": 18000.0,
+    "arrival": 3.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "New Laddu"
+  },
+  "2010-12-19": {
+    "min": 16000.0,
+    "max": 20000.0,
+    "modal": 17000.0,
+    "arrival": 2.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "New Laddu"
+  }
+}

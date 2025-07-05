@@ -1,0 +1,29 @@
+{
+  "2012-12-02": {
+    "min": 3000.0,
+    "max": 3500.0,
+    "modal": 3500.0,
+    "arrival": 6.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Niger Seed"
+  },
+  "2012-12-05": {
+    "min": 3000.0,
+    "max": 3200.0,
+    "modal": 3200.0,
+    "arrival": 6.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Niger Seed"
+  },
+  "2012-12-13": {
+    "min": 3000.0,
+    "max": 3200.0,
+    "modal": 3200.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Niger Seed"
+  }
+}

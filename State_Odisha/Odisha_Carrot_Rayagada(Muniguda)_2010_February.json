@@ -1,0 +1,38 @@
+{
+  "2010-02-02": {
+    "min": 3000.0,
+    "max": 3200.0,
+    "modal": 3200.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2010-02-03": {
+    "min": 3000.0,
+    "max": 3200.0,
+    "modal": 3200.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2010-02-14": {
+    "min": 2800.0,
+    "max": 3000.0,
+    "modal": 3000.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2010-02-24": {
+    "min": 2800.0,
+    "max": 3000.0,
+    "modal": 3000.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  }
+}

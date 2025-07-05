@@ -1,0 +1,38 @@
+{
+  "2011-03-02": {
+    "min": 7000.0,
+    "max": 8000.0,
+    "modal": 8000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sugarcane"
+  },
+  "2011-03-17": {
+    "min": 800.0,
+    "max": 1000.0,
+    "modal": 800.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sugarcane"
+  },
+  "2011-03-21": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 800.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sugarcane"
+  },
+  "2011-03-24": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 800.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sugarcane"
+  }
+}

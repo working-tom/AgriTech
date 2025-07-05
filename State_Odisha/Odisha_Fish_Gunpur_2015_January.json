@@ -1,0 +1,47 @@
+{
+  "2015-01-01": {
+    "min": 12500.0,
+    "max": 13000.0,
+    "modal": 13000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fish"
+  },
+  "2015-01-03": {
+    "min": 12500.0,
+    "max": 13000.0,
+    "modal": 13000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fish"
+  },
+  "2015-01-15": {
+    "min": 12000.0,
+    "max": 12500.0,
+    "modal": 12500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fish"
+  },
+  "2015-01-17": {
+    "min": 12000.0,
+    "max": 12500.0,
+    "modal": 12500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fish"
+  },
+  "2015-01-29": {
+    "min": 12500.0,
+    "max": 13000.0,
+    "modal": 13000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fish"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2010-09-11": {
+    "min": 120.0,
+    "max": 150.0,
+    "modal": 150.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  },
+  "2010-09-18": {
+    "min": 120.0,
+    "max": 150.0,
+    "modal": 150.0,
+    "arrival": 50.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  },
+  "2010-09-25": {
+    "min": 140.0,
+    "max": 160.0,
+    "modal": 160.0,
+    "arrival": 120.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Local"
+  }
+}

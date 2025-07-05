@@ -1,0 +1,29 @@
+{
+  "2014-12-04": {
+    "min": 4.0,
+    "max": 4.5,
+    "modal": 4.25,
+    "arrival": 40000.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Egg"
+  },
+  "2014-12-08": {
+    "min": 4.0,
+    "max": 4.5,
+    "modal": 4.2,
+    "arrival": 40000.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Egg"
+  },
+  "2014-12-12": {
+    "min": 4.2,
+    "max": 4.5,
+    "modal": 4.25,
+    "arrival": 67000.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Egg"
+  }
+}

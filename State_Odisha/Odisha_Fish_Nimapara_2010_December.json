@@ -1,0 +1,29 @@
+{
+  "2010-12-01": {
+    "min": 6000.0,
+    "max": 10000.0,
+    "modal": 8000.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  },
+  "2010-12-03": {
+    "min": 6000.0,
+    "max": 10000.0,
+    "modal": 7000.0,
+    "arrival": 26.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  },
+  "2010-12-04": {
+    "min": 6000.0,
+    "max": 10000.0,
+    "modal": 7000.0,
+    "arrival": 27.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  }
+}
