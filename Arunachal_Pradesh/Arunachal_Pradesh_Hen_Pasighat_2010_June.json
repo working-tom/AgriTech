@@ -1,0 +1,38 @@
+{
+  "2010-06-01": {
+    "min": 100.0,
+    "max": 150.0,
+    "modal": 130.0,
+    "arrival": 28.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2010-06-15": {
+    "min": 140.0,
+    "max": 160.0,
+    "modal": 150.0,
+    "arrival": 150.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Boiler/Firm(White)"
+  },
+  "2010-06-23": {
+    "min": 140.0,
+    "max": 160.0,
+    "modal": 150.0,
+    "arrival": 175.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Boiler/Firm(White)"
+  },
+  "2010-06-28": {
+    "min": 140.0,
+    "max": 160.0,
+    "modal": 150.0,
+    "arrival": 207.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Boiler/Firm(White)"
+  }
+}
