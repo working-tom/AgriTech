@@ -1,0 +1,29 @@
+{
+  "2013-04-12": {
+    "min": 4300.0,
+    "max": 4800.0,
+    "modal": 4650.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "DCH-32(Unginned)"
+  },
+  "2013-04-13": {
+    "min": 3900.0,
+    "max": 4891.0,
+    "modal": 4500.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-04-15": {
+    "min": 4400.0,
+    "max": 4731.0,
+    "modal": 4550.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

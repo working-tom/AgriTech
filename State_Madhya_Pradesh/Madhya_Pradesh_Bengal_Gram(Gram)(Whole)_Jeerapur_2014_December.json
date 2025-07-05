@@ -1,0 +1,47 @@
+{
+  "2014-12-15": {
+    "min": 1900.0,
+    "max": 2380.0,
+    "modal": 2100.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kanta"
+  },
+  "2014-12-16": {
+    "min": 1950.0,
+    "max": 2440.0,
+    "modal": 2240.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kanta"
+  },
+  "2014-12-26": {
+    "min": 1800.0,
+    "max": 2450.0,
+    "modal": 2300.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kanta"
+  },
+  "2014-12-27": {
+    "min": 1750.0,
+    "max": 2500.0,
+    "modal": 2240.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kanta"
+  },
+  "2014-12-30": {
+    "min": 2000.0,
+    "max": 2480.0,
+    "modal": 2200.0,
+    "arrival": 3.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kanta"
+  }
+}

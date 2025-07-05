@@ -1,0 +1,38 @@
+{
+  "2010-02-20": {
+    "min": 1700.0,
+    "max": 3000.0,
+    "modal": 2200.0,
+    "arrival": 122.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-02-22": {
+    "min": 1600.0,
+    "max": 5101.0,
+    "modal": 2200.0,
+    "arrival": 145.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-02-23": {
+    "min": 1400.0,
+    "max": 5100.0,
+    "modal": 2000.0,
+    "arrival": 144.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander Seed"
+  },
+  "2010-02-24": {
+    "min": 1700.0,
+    "max": 5450.0,
+    "modal": 2200.0,
+    "arrival": 166.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coriander Seed"
+  }
+}

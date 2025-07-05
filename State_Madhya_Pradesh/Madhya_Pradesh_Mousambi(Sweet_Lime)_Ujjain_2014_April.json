@@ -1,0 +1,56 @@
+{
+  "2014-04-03": {
+    "min": 500.0,
+    "max": 1500.0,
+    "modal": 1234.0,
+    "arrival": 0.42,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-04-04": {
+    "min": 700.0,
+    "max": 1500.0,
+    "modal": 1032.0,
+    "arrival": 0.62,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-04-10": {
+    "min": 600.0,
+    "max": 1500.0,
+    "modal": 912.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-04-16": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-04-29": {
+    "min": 1500.0,
+    "max": 1800.0,
+    "modal": 1581.0,
+    "arrival": 0.22,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  },
+  "2014-04-30": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 0.14,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mousambi"
+  }
+}

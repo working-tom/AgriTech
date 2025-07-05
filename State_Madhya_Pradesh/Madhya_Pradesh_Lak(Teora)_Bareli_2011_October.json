@@ -1,0 +1,38 @@
+{
+  "2011-10-12": {
+    "min": 1350.0,
+    "max": 1550.0,
+    "modal": 1450.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2011-10-14": {
+    "min": 1425.0,
+    "max": 1650.0,
+    "modal": 1537.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2011-10-28": {
+    "min": 1640.0,
+    "max": 1640.0,
+    "modal": 1640.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  },
+  "2011-10-29": {
+    "min": 1561.0,
+    "max": 1561.0,
+    "modal": 1561.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lak (Whole)"
+  }
+}

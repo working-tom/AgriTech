@@ -1,0 +1,29 @@
+{
+  "2014-12-01": {
+    "min": 3120.0,
+    "max": 4049.0,
+    "modal": 3895.0,
+    "arrival": 44.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabuli Chana(Chickpeas-white)"
+  },
+  "2014-12-02": {
+    "min": 3120.0,
+    "max": 4140.0,
+    "modal": 3463.0,
+    "arrival": 42.63,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-12-08": {
+    "min": 3120.0,
+    "max": 4148.0,
+    "modal": 3722.0,
+    "arrival": 20.71,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

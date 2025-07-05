@@ -1,0 +1,38 @@
+{
+  "2010-06-12": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amla"
+  },
+  "2010-06-18": {
+    "min": 3500.0,
+    "max": 3500.0,
+    "modal": 3500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amla"
+  },
+  "2010-06-23": {
+    "min": 1700.0,
+    "max": 1700.0,
+    "modal": 1700.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amla"
+  },
+  "2010-06-30": {
+    "min": 611.0,
+    "max": 611.0,
+    "modal": 611.0,
+    "arrival": 0.02,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Amla"
+  }
+}
