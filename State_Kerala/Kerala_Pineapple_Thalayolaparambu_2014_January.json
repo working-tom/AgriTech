@@ -1,0 +1,74 @@
+{
+  "2014-01-01": {
+    "min": 1600.0,
+    "max": 1900.0,
+    "modal": 1800.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-03": {
+    "min": 1566.6666666666667,
+    "max": 1833.3333333333333,
+    "modal": 1666.6666666666667,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-06": {
+    "min": 1766.6666666666667,
+    "max": 1966.6666666666667,
+    "modal": 1866.6666666666667,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-09": {
+    "min": 1966.6666666666667,
+    "max": 2166.6666666666665,
+    "modal": 2066.6666666666665,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-17": {
+    "min": 1966.6666666666667,
+    "max": 2166.6666666666665,
+    "modal": 2066.6666666666665,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-20": {
+    "min": 2000.0,
+    "max": 2333.3333333333335,
+    "modal": 2200.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-24": {
+    "min": 1666.6666666666667,
+    "max": 2066.6666666666665,
+    "modal": 1866.6666666666667,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2014-01-27": {
+    "min": 2433.3333333333335,
+    "max": 2700.0,
+    "modal": 2566.6666666666665,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  }
+}

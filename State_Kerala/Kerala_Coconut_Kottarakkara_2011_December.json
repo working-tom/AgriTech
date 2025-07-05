@@ -1,0 +1,29 @@
+{
+  "2011-12-13": {
+    "min": 800.0,
+    "max": 950.0,
+    "modal": 850.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  },
+  "2011-12-23": {
+    "min": 800.0,
+    "max": 950.0,
+    "modal": 900.0,
+    "arrival": 100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  },
+  "2011-12-27": {
+    "min": 800.0,
+    "max": 950.0,
+    "modal": 850.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  }
+}

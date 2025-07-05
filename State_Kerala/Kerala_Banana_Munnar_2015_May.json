@@ -1,0 +1,38 @@
+{
+  "2015-05-07": {
+    "min": 3000.0,
+    "max": 3000.0,
+    "modal": 3000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2015-05-14": {
+    "min": 4000.0,
+    "max": 4000.0,
+    "modal": 4000.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Poovan"
+  },
+  "2015-05-21": {
+    "min": 2800.0,
+    "max": 3000.0,
+    "modal": 2800.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2015-05-28": {
+    "min": 4800.0,
+    "max": 4800.0,
+    "modal": 4800.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Poovan"
+  }
+}

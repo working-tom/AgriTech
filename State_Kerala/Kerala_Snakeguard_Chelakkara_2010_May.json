@@ -1,0 +1,29 @@
+{
+  "2010-05-12": {
+    "min": 800.0,
+    "max": 1000.0,
+    "modal": 900.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Snakeguard"
+  },
+  "2010-05-20": {
+    "min": 800.0,
+    "max": 1000.0,
+    "modal": 900.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Snakeguard"
+  },
+  "2010-05-27": {
+    "min": 1500.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Snakeguard"
+  }
+}

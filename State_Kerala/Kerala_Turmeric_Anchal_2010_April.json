@@ -1,0 +1,29 @@
+{
+  "2010-04-03": {
+    "min": 9500.0,
+    "max": 9700.0,
+    "modal": 9550.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Turmeric"
+  },
+  "2010-04-07": {
+    "min": 10000.0,
+    "max": 10200.0,
+    "modal": 10100.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Turmeric"
+  },
+  "2010-04-21": {
+    "min": 9800.0,
+    "max": 10000.0,
+    "modal": 9900.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

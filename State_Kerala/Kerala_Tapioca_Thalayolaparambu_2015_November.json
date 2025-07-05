@@ -1,0 +1,47 @@
+{
+  "2015-11-03": {
+    "min": 800.0,
+    "max": 1300.0,
+    "modal": 1200.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tapioca"
+  },
+  "2015-11-07": {
+    "min": 800.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tapioca"
+  },
+  "2015-11-09": {
+    "min": 800.0,
+    "max": 1300.0,
+    "modal": 1100.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tapioca"
+  },
+  "2015-11-17": {
+    "min": 800.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tapioca"
+  },
+  "2015-11-21": {
+    "min": 1000.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tapioca"
+  }
+}

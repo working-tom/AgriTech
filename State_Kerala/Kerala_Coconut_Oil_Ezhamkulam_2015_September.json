@@ -1,0 +1,65 @@
+{
+  "2015-09-07": {
+    "min": 12000.0,
+    "max": 12500.0,
+    "modal": 12100.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Copra Oil"
+  },
+  "2015-09-10": {
+    "min": 12500.0,
+    "max": 12700.0,
+    "modal": 12600.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-09-14": {
+    "min": 11500.0,
+    "max": 12100.0,
+    "modal": 11800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-09-17": {
+    "min": 11800.0,
+    "max": 12100.0,
+    "modal": 12000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-09-21": {
+    "min": 11600.0,
+    "max": 11900.0,
+    "modal": 11800.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-09-24": {
+    "min": 11400.0,
+    "max": 11900.0,
+    "modal": 11600.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-09-28": {
+    "min": 11500.0,
+    "max": 11800.0,
+    "modal": 11700.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

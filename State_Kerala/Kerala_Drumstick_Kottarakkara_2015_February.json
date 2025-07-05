@@ -1,0 +1,47 @@
+{
+  "2015-02-03": {
+    "min": 12900.0,
+    "max": 13000.0,
+    "modal": 12950.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  },
+  "2015-02-13": {
+    "min": 8500.0,
+    "max": 9000.0,
+    "modal": 8900.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  },
+  "2015-02-20": {
+    "min": 9000.0,
+    "max": 9500.0,
+    "modal": 9200.0,
+    "arrival": 0.07,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  },
+  "2015-02-24": {
+    "min": 7500.0,
+    "max": 8000.0,
+    "modal": 7800.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  },
+  "2015-02-27": {
+    "min": 7800.0,
+    "max": 8200.0,
+    "modal": 8000.0,
+    "arrival": 0.04,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Drumstick"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "2015-08-01": {
+    "min": 3750.0,
+    "max": 3850.0,
+    "modal": 3800.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2015-08-03": {
+    "min": 3850.0,
+    "max": 4000.0,
+    "modal": 3900.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2015-08-11": {
+    "min": 4000.0,
+    "max": 4150.0,
+    "modal": 4100.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2015-08-12": {
+    "min": 3650.0,
+    "max": 3750.0,
+    "modal": 3700.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2015-08-13": {
+    "min": 3700.0,
+    "max": 3900.0,
+    "modal": 3800.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2015-08-18": {
+    "min": 3500.0,
+    "max": 3700.0,
+    "modal": 3650.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2015-08-25": {
+    "min": 3850.0,
+    "max": 4000.0,
+    "modal": 3900.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  }
+}

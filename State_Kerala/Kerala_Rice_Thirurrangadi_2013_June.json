@@ -1,0 +1,29 @@
+{
+  "2013-06-01": {
+    "min": 2500.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  },
+  "2013-06-08": {
+    "min": 2500.0,
+    "max": 2800.0,
+    "modal": 2800.0,
+    "arrival": 0.0666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  },
+  "2013-06-12": {
+    "min": 9000.0,
+    "max": 9000.0,
+    "modal": 9000.0,
+    "arrival": 18.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Basumathi"
+  }
+}

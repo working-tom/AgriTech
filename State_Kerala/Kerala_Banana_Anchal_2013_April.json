@@ -1,0 +1,65 @@
+{
+  "2013-04-03": {
+    "min": 1600.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2013-04-10": {
+    "min": 1500.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2013-04-16": {
+    "min": 2000.0,
+    "max": 2200.0,
+    "modal": 2100.0,
+    "arrival": 1.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2013-04-24": {
+    "min": 4000.0,
+    "max": 4500.0,
+    "modal": 4300.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nendra Bale"
+  },
+  "2013-04-26": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "modal": 1300.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2013-04-27": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "modal": 1300.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2013-04-30": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2300.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  }
+}

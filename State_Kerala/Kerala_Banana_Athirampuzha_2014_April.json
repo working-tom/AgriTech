@@ -1,0 +1,47 @@
+{
+  "2014-04-03": {
+    "min": 1600.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 0.525,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2014-04-07": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 0.725,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2014-04-21": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  },
+  "2014-04-24": {
+    "min": 3000.0,
+    "max": 3400.0,
+    "modal": 3200.0,
+    "arrival": 2.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Poovan"
+  },
+  "2014-04-28": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "modal": 1400.0,
+    "arrival": 0.725,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Robusta"
+  }
+}

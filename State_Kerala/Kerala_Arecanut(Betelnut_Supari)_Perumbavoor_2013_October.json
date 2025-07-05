@@ -1,0 +1,74 @@
+{
+  "2013-10-03": {
+    "min": 14000.0,
+    "max": 16000.0,
+    "modal": 15000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-10-07": {
+    "min": 14000.0,
+    "max": 18000.0,
+    "modal": 16000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-10-10": {
+    "min": 14000.0,
+    "max": 16000.0,
+    "modal": 15000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-10-17": {
+    "min": 14000.0,
+    "max": 15000.0,
+    "modal": 14500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2013-10-21": {
+    "min": 12000.0,
+    "max": 14000.0,
+    "modal": 13000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2013-10-24": {
+    "min": 14500.0,
+    "max": 15600.0,
+    "modal": 15000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2013-10-28": {
+    "min": 10000.0,
+    "max": 12000.0,
+    "modal": 11000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2013-10-31": {
+    "min": 10000.0,
+    "max": 12000.0,
+    "modal": 11000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  }
+}

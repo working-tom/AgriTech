@@ -1,0 +1,56 @@
+{
+  "2015-03-02": {
+    "min": 1500.0,
+    "max": 1700.0,
+    "modal": 1600.0,
+    "arrival": 2.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Palayamthodan"
+  },
+  "2015-03-05": {
+    "min": 1200.0,
+    "max": 1600.0,
+    "modal": 1400.0,
+    "arrival": 2.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Palayamthodan"
+  },
+  "2015-03-12": {
+    "min": 1300.0,
+    "max": 1500.0,
+    "modal": 1400.0,
+    "arrival": 2.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Palayamthodan"
+  },
+  "2015-03-23": {
+    "min": 1400.0,
+    "max": 1800.0,
+    "modal": 1500.0,
+    "arrival": 2.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Palayamthodan"
+  },
+  "2015-03-26": {
+    "min": 1500.0,
+    "max": 1800.0,
+    "modal": 1700.0,
+    "arrival": 2.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Palayamthodan"
+  },
+  "2015-03-30": {
+    "min": 1500.0,
+    "max": 1800.0,
+    "modal": 1600.0,
+    "arrival": 2.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Palayamthodan"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2011-11-22": {
+    "min": 1450.0,
+    "max": 1550.0,
+    "modal": 1550.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2011-11-23": {
+    "min": 15000.0,
+    "max": 17000.0,
+    "modal": 15000.0,
+    "arrival": 1.6666666666666667,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2011-11-24": {
+    "min": 15000.0,
+    "max": 15200.0,
+    "modal": 15100.0,
+    "arrival": 3.6666666666666665,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2011-11-25": {
+    "min": 15000.0,
+    "max": 15200.0,
+    "modal": 15200.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2011-11-28": {
+    "min": 15000.0,
+    "max": 16000.0,
+    "modal": 15000.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  },
+  "2011-11-30": {
+    "min": 15000.0,
+    "max": 15500.0,
+    "modal": 15000.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Supari"
+  }
+}

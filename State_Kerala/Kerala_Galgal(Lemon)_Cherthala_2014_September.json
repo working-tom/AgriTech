@@ -1,0 +1,29 @@
+{
+  "2014-09-04": {
+    "min": 5500.0,
+    "max": 6200.0,
+    "modal": 5800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Galgal(Lemon)"
+  },
+  "2014-09-05": {
+    "min": 6200.0,
+    "max": 6600.0,
+    "modal": 6400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Galgal(Lemon)"
+  },
+  "2014-09-18": {
+    "min": 9500.0,
+    "max": 10000.0,
+    "modal": 9800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Galgal(Lemon)"
+  }
+}
