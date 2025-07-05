@@ -1,0 +1,20 @@
+{
+  "2012-10-01": {
+    "min": 1700.0,
+    "max": 1700.0,
+    "modal": 1700.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2012-10-30": {
+    "min": 4000.0,
+    "max": 4339.0,
+    "modal": 4169.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

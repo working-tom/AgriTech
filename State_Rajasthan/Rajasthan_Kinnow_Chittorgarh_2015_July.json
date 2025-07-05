@@ -1,0 +1,38 @@
+{
+  "2015-07-01": {
+    "min": 2400.0,
+    "max": 2800.0,
+    "modal": 2600.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kinnow"
+  },
+  "2015-07-04": {
+    "min": 2400.0,
+    "max": 3000.0,
+    "modal": 2700.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kinnow"
+  },
+  "2015-07-05": {
+    "min": 2800.0,
+    "max": 3500.0,
+    "modal": 3000.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kinnow"
+  },
+  "2015-07-06": {
+    "min": 2800.0,
+    "max": 3500.0,
+    "modal": 3100.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kinnow"
+  }
+}

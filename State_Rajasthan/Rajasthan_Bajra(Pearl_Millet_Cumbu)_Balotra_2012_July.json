@@ -1,0 +1,38 @@
+{
+  "2012-07-18": {
+    "min": 950.0,
+    "max": 975.0,
+    "modal": 960.0,
+    "arrival": 23.07,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-07-24": {
+    "min": 1080.0,
+    "max": 1100.0,
+    "modal": 1090.0,
+    "arrival": 2.02,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi"
+  },
+  "2012-07-25": {
+    "min": 1050.0,
+    "max": 1100.0,
+    "modal": 1080.0,
+    "arrival": 15.02,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi"
+  },
+  "2012-07-26": {
+    "min": 1070.0,
+    "max": 1100.0,
+    "modal": 1080.0,
+    "arrival": 9.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi"
+  }
+}

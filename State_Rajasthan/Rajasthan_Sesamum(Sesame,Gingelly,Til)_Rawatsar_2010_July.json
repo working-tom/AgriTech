@@ -1,0 +1,38 @@
+{
+  "2010-07-21": {
+    "min": 6300.0,
+    "max": 6300.0,
+    "modal": 6300.0,
+    "arrival": 105.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sesame"
+  },
+  "2010-07-29": {
+    "min": 5401.0,
+    "max": 5401.0,
+    "modal": 5401.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-07-30": {
+    "min": 5190.0,
+    "max": 5350.0,
+    "modal": 5250.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-07-31": {
+    "min": 5425.0,
+    "max": 5711.0,
+    "modal": 5500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

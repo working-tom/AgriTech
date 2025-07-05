@@ -1,0 +1,29 @@
+{
+  "2013-09-06": {
+    "min": 4200.0,
+    "max": 4261.0,
+    "modal": 4230.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  },
+  "2013-09-11": {
+    "min": 4121.0,
+    "max": 4140.0,
+    "modal": 4130.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  },
+  "2013-09-12": {
+    "min": 4126.0,
+    "max": 4150.0,
+    "modal": 4140.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Linseed"
+  }
+}

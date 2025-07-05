@@ -1,0 +1,38 @@
+{
+  "2015-10-02": {
+    "min": 6000.0,
+    "max": 6500.0,
+    "modal": 6250.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gajjar"
+  },
+  "2015-10-03": {
+    "min": 6000.0,
+    "max": 6500.0,
+    "modal": 6250.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gajjar"
+  },
+  "2015-10-07": {
+    "min": 6000.0,
+    "max": 6200.0,
+    "modal": 6100.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gajjar"
+  },
+  "2015-10-09": {
+    "min": 6000.0,
+    "max": 6500.0,
+    "modal": 6250.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gajjar"
+  }
+}

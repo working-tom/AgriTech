@@ -1,0 +1,29 @@
+{
+  "2013-04-12": {
+    "min": 2440.0,
+    "max": 2451.0,
+    "modal": 2446.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  },
+  "2013-04-17": {
+    "min": 1500.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  },
+  "2013-04-20": {
+    "min": 2500.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Methiseeds"
+  }
+}

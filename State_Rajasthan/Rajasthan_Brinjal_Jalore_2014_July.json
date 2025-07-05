@@ -1,0 +1,29 @@
+{
+  "2014-07-17": {
+    "min": 1000.0,
+    "max": 2000.0,
+    "modal": 1500.0,
+    "arrival": 0.45,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Brinjal"
+  },
+  "2014-07-24": {
+    "min": 1000.0,
+    "max": 2000.0,
+    "modal": 1500.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-07-25": {
+    "min": 1000.0,
+    "max": 2000.0,
+    "modal": 1500.0,
+    "arrival": 0.95,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

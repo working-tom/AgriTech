@@ -1,0 +1,47 @@
+{
+  "2015-03-02": {
+    "min": 3420.0,
+    "max": 3521.0,
+    "modal": 3500.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  },
+  "2015-03-04": {
+    "min": 3590.0,
+    "max": 3661.0,
+    "modal": 3661.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  },
+  "2015-03-10": {
+    "min": 3521.0,
+    "max": 3640.0,
+    "modal": 3580.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  },
+  "2015-03-13": {
+    "min": 3521.0,
+    "max": 3640.0,
+    "modal": 3580.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  },
+  "2015-03-18": {
+    "min": 3500.0,
+    "max": 3550.0,
+    "modal": 3525.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gwar"
+  }
+}

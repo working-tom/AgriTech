@@ -1,0 +1,92 @@
+{
+  "2011-02-01": {
+    "min": 4500.0,
+    "max": 8000.0,
+    "modal": 6000.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-02": {
+    "min": 3500.0,
+    "max": 4500.0,
+    "modal": 3800.0,
+    "arrival": 7.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-03": {
+    "min": 3800.0,
+    "max": 6200.0,
+    "modal": 5600.0,
+    "arrival": 3.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-04": {
+    "min": 3400.0,
+    "max": 7000.0,
+    "modal": 5985.0,
+    "arrival": 0.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-05": {
+    "min": 3415.0,
+    "max": 7070.0,
+    "modal": 4850.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-07": {
+    "min": 3400.0,
+    "max": 7080.0,
+    "modal": 5600.0,
+    "arrival": 12.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-08": {
+    "min": 3800.0,
+    "max": 6700.0,
+    "modal": 5300.0,
+    "arrival": 7.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-09": {
+    "min": 3000.0,
+    "max": 6500.0,
+    "modal": 4800.0,
+    "arrival": 3.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-10": {
+    "min": 3500.0,
+    "max": 6850.0,
+    "modal": 6500.0,
+    "arrival": 7.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  },
+  "2011-02-11": {
+    "min": 3350.0,
+    "max": 6905.0,
+    "modal": 6475.0,
+    "arrival": 10.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Wool"
+  }
+}

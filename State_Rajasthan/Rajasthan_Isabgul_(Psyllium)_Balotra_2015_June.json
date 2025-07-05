@@ -1,0 +1,29 @@
+{
+  "2015-06-04": {
+    "min": 8300.0,
+    "max": 8500.0,
+    "modal": 8400.0,
+    "arrival": 0.02,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Isabgul (Psyllium)"
+  },
+  "2015-06-10": {
+    "min": 8400.0,
+    "max": 8500.0,
+    "modal": 8450.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Isabgul (Psyllium)"
+  },
+  "2015-06-30": {
+    "min": 7100.0,
+    "max": 7500.0,
+    "modal": 7150.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Isabgul (Psyllium)"
+  }
+}
