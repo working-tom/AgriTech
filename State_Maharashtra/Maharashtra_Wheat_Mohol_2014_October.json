@@ -1,0 +1,29 @@
+{
+  "2014-10-24": {
+    "min": 1400.0,
+    "max": 1900.0,
+    "modal": 1750.0,
+    "arrival": 1.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2014-10-29": {
+    "min": 1375.0,
+    "max": 1425.0,
+    "modal": 1400.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2014-10-31": {
+    "min": 1350.0,
+    "max": 1400.0,
+    "modal": 1385.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  }
+}

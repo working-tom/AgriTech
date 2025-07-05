@@ -1,0 +1,20 @@
+{
+  "2013-10-26": {
+    "min": 600.0,
+    "max": 32000.0,
+    "modal": 1900.0,
+    "arrival": 0.1,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2013-10-28": {
+    "min": 800.0,
+    "max": 1200.0,
+    "modal": 1000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

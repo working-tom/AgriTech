@@ -1,0 +1,29 @@
+{
+  "2014-12-01": {
+    "min": 1700.0,
+    "max": 2301.0,
+    "modal": 1800.0,
+    "arrival": 15.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2014-12-04": {
+    "min": 1800.0,
+    "max": 2401.0,
+    "modal": 2100.0,
+    "arrival": 29.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2014-12-18": {
+    "min": 1580.0,
+    "max": 2000.0,
+    "modal": 1800.0,
+    "arrival": 42.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  }
+}

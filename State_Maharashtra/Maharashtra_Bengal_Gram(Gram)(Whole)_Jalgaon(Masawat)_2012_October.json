@@ -1,0 +1,29 @@
+{
+  "2012-10-05": {
+    "min": 4500.0,
+    "max": 4500.0,
+    "modal": 4500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2012-10-11": {
+    "min": 4201.0,
+    "max": 4201.0,
+    "modal": 4201.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  },
+  "2012-10-12": {
+    "min": 4701.0,
+    "max": 6500.0,
+    "modal": 6371.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2014-04-03": {
+    "min": 15000.0,
+    "max": 50000.0,
+    "modal": 32500.0,
+    "arrival": 6.55,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2014-04-17": {
+    "min": 1000.0,
+    "max": 2000.0,
+    "modal": 1500.0,
+    "arrival": 7.75,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2014-04-24": {
+    "min": 10000.0,
+    "max": 40000.0,
+    "modal": 25000.0,
+    "arrival": 8.05,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  }
+}

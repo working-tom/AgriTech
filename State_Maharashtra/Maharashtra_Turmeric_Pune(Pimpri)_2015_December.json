@@ -1,0 +1,29 @@
+{
+  "2015-12-16": {
+    "min": 12500.0,
+    "max": 14500.0,
+    "modal": 14000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajapuri"
+  },
+  "2015-12-30": {
+    "min": 13000.0,
+    "max": 15000.0,
+    "modal": 14500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rajapuri"
+  },
+  "2015-12-31": {
+    "min": 10000.0,
+    "max": 12000.0,
+    "modal": 11500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-04-16": {
+    "min": 100.0,
+    "max": 250.0,
+    "modal": 200.0,
+    "arrival": 99.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Khandesh"
+  },
+  "2015-04-23": {
+    "min": 100.0,
+    "max": 300.0,
+    "modal": 200.0,
+    "arrival": 82.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Khandesh"
+  },
+  "2015-04-25": {
+    "min": 100.0,
+    "max": 360.0,
+    "modal": 250.0,
+    "arrival": 65.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Khandesh"
+  },
+  "2015-04-30": {
+    "min": 100.0,
+    "max": 400.0,
+    "modal": 300.0,
+    "arrival": 63.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Khandesh"
+  }
+}

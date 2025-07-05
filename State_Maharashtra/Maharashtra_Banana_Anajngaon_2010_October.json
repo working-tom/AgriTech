@@ -1,0 +1,29 @@
+{
+  "2010-10-04": {
+    "min": 650.0,
+    "max": 750.0,
+    "modal": 650.0,
+    "arrival": 17.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-10-18": {
+    "min": 600.0,
+    "max": 700.0,
+    "modal": 650.0,
+    "arrival": 17.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Khandesh"
+  },
+  "2010-10-25": {
+    "min": 650.0,
+    "max": 760.0,
+    "modal": 710.0,
+    "arrival": 20.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Khandesh"
+  }
+}

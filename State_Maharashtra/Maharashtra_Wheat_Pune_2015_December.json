@@ -1,0 +1,137 @@
+{
+  "2015-12-01": {
+    "min": 3000.0,
+    "max": 4500.0,
+    "modal": 3800.0,
+    "arrival": 0.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2015-12-02": {
+    "min": 3300.0,
+    "max": 3600.0,
+    "modal": 3500.0,
+    "arrival": 2.333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2015-12-04": {
+    "min": 2800.0,
+    "max": 3800.0,
+    "modal": 3350.0,
+    "arrival": 3.6666666666666665,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-05": {
+    "min": 3500.0,
+    "max": 3700.0,
+    "modal": 3650.0,
+    "arrival": 1.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-08": {
+    "min": 3200.0,
+    "max": 3500.0,
+    "modal": 3400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2015-12-09": {
+    "min": 1950.0,
+    "max": 2050.0,
+    "modal": 2025.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2015-12-10": {
+    "min": 2000.0,
+    "max": 2300.0,
+    "modal": 2250.0,
+    "arrival": 0.6666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2015-12-11": {
+    "min": 2800.0,
+    "max": 4000.0,
+    "modal": 3600.0,
+    "arrival": 6.333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-12": {
+    "min": 2800.0,
+    "max": 4000.0,
+    "modal": 3600.0,
+    "arrival": 6.333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2015-12-14": {
+    "min": 3000.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-15": {
+    "min": 3000.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-18": {
+    "min": 2000.0,
+    "max": 2500.0,
+    "modal": 2350.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2015-12-19": {
+    "min": 3000.0,
+    "max": 3900.0,
+    "modal": 3650.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-12-24": {
+    "min": 2800.0,
+    "max": 3500.0,
+    "modal": 3300.0,
+    "arrival": 1.6666666666666667,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sharbati"
+  },
+  "2015-12-28": {
+    "min": 1900.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  }
+}

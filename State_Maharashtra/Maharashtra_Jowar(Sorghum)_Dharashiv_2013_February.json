@@ -1,0 +1,38 @@
+{
+  "2013-02-02": {
+    "min": 1400.0,
+    "max": 1460.0,
+    "modal": 1430.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar ( White)"
+  },
+  "2013-02-11": {
+    "min": 1322.0,
+    "max": 1391.0,
+    "modal": 1336.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar ( White)"
+  },
+  "2013-02-14": {
+    "min": 1421.0,
+    "max": 1421.0,
+    "modal": 1421.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar ( White)"
+  },
+  "2013-02-26": {
+    "min": 1086.0,
+    "max": 1086.0,
+    "modal": 1086.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

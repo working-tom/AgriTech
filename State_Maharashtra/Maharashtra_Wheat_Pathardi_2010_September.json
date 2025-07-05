@@ -1,0 +1,47 @@
+{
+  "2010-09-02": {
+    "min": 1200.0,
+    "max": 1400.0,
+    "modal": 1340.0,
+    "arrival": 8.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2010-09-04": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "modal": 1344.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Maharashtra 2189"
+  },
+  "2010-09-22": {
+    "min": 1233.0,
+    "max": 1533.0,
+    "modal": 1435.0,
+    "arrival": 8.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-09-25": {
+    "min": 1266.0,
+    "max": 1600.0,
+    "modal": 1344.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-09-29": {
+    "min": 1266.0,
+    "max": 1597.0,
+    "modal": 1376.0,
+    "arrival": 8.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

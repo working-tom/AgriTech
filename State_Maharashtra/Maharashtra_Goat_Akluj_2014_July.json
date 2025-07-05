@@ -1,0 +1,29 @@
+{
+  "2014-07-15": {
+    "min": 3000.0,
+    "max": 9000.0,
+    "modal": 7000.0,
+    "arrival": 75.3,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2014-07-22": {
+    "min": 4000.0,
+    "max": 9000.0,
+    "modal": 6000.0,
+    "arrival": 98.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2014-07-31": {
+    "min": 2000.0,
+    "max": 20000.0,
+    "modal": 9000.0,
+    "arrival": 21.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "He Baffelo"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2011-01-06": {
+    "min": 400.0,
+    "max": 450.0,
+    "modal": 425.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Simla"
+  },
+  "2011-01-13": {
+    "min": 500.0,
+    "max": 600.0,
+    "modal": 550.0,
+    "arrival": 90.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Simla"
+  },
+  "2011-01-20": {
+    "min": 500.0,
+    "max": 700.0,
+    "modal": 650.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Simla"
+  },
+  "2011-01-27": {
+    "min": 500.0,
+    "max": 700.0,
+    "modal": 650.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Simla"
+  }
+}

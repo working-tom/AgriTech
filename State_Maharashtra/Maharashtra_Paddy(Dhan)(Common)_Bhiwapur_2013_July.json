@@ -1,0 +1,38 @@
+{
+  "2013-07-01": {
+    "min": 2000.0,
+    "max": 2425.0,
+    "modal": 2112.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2013-07-08": {
+    "min": 2000.0,
+    "max": 2375.0,
+    "modal": 2180.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2013-07-22": {
+    "min": 2200.0,
+    "max": 2551.0,
+    "modal": 2325.0,
+    "arrival": 5.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2013-07-29": {
+    "min": 2150.0,
+    "max": 2500.0,
+    "modal": 2325.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  }
+}

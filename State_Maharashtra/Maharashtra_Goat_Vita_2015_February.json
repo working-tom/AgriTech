@@ -1,0 +1,38 @@
+{
+  "2015-02-02": {
+    "min": 1000.0,
+    "max": 6000.0,
+    "modal": 1176.0,
+    "arrival": 14.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2015-02-09": {
+    "min": 1000.0,
+    "max": 8000.0,
+    "modal": 1760.0,
+    "arrival": 10.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2015-02-16": {
+    "min": 1000.0,
+    "max": 3000.0,
+    "modal": 1443.0,
+    "arrival": 10.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2015-02-23": {
+    "min": 1000.0,
+    "max": 6090.0,
+    "modal": 2655.0,
+    "arrival": 20.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  }
+}

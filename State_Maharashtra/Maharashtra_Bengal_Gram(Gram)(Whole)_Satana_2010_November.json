@@ -1,0 +1,65 @@
+{
+  "2010-11-11": {
+    "min": 2500.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2010-11-12": {
+    "min": 2425.0,
+    "max": 2551.0,
+    "modal": 2490.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2010-11-15": {
+    "min": 2700.0,
+    "max": 3251.0,
+    "modal": 2950.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2010-11-16": {
+    "min": 2415.0,
+    "max": 3060.0,
+    "modal": 2415.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2010-11-18": {
+    "min": 2800.0,
+    "max": 3381.0,
+    "modal": 3100.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2010-11-26": {
+    "min": 1855.0,
+    "max": 2267.0,
+    "modal": 1855.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  },
+  "2010-11-29": {
+    "min": 2800.0,
+    "max": 3300.0,
+    "modal": 2800.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  }
+}

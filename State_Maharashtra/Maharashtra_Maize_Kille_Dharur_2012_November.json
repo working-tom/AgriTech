@@ -1,0 +1,29 @@
+{
+  "2012-11-26": {
+    "min": 1175.0,
+    "max": 1290.0,
+    "modal": 1220.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi Red"
+  },
+  "2012-11-27": {
+    "min": 1220.0,
+    "max": 1220.0,
+    "modal": 1220.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi Red"
+  },
+  "2012-11-30": {
+    "min": 1175.0,
+    "max": 1199.0,
+    "modal": 1199.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi Red"
+  }
+}

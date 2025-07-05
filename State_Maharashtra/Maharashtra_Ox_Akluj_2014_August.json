@@ -1,0 +1,29 @@
+{
+  "2014-08-06": {
+    "min": 3500.0,
+    "max": 10000.0,
+    "modal": 6500.0,
+    "arrival": 5.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2014-08-12": {
+    "min": 25000.0,
+    "max": 60000.0,
+    "modal": 47000.0,
+    "arrival": 20.4,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2014-08-19": {
+    "min": 10000.0,
+    "max": 55000.0,
+    "modal": 33500.0,
+    "arrival": 29.9,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  }
+}

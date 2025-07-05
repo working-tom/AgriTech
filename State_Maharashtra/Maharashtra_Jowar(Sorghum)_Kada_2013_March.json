@@ -1,0 +1,65 @@
+{
+  "2013-03-03": {
+    "min": 1000.0,
+    "max": 2451.0,
+    "modal": 1900.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-06": {
+    "min": 1300.0,
+    "max": 2451.0,
+    "modal": 2200.0,
+    "arrival": 14.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-13": {
+    "min": 1201.0,
+    "max": 2601.0,
+    "modal": 1925.0,
+    "arrival": 30.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar ( White)"
+  },
+  "2013-03-17": {
+    "min": 1500.0,
+    "max": 2601.0,
+    "modal": 2325.0,
+    "arrival": 34.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar ( White)"
+  },
+  "2013-03-20": {
+    "min": 1300.0,
+    "max": 2600.0,
+    "modal": 2001.0,
+    "arrival": 10.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-24": {
+    "min": 1200.0,
+    "max": 2625.0,
+    "modal": 2251.0,
+    "arrival": 17.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-03-31": {
+    "min": 901.0,
+    "max": 2600.0,
+    "modal": 1801.0,
+    "arrival": 17.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2013-04-01": {
+    "min": 1300.0,
+    "max": 1400.0,
+    "modal": 1350.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kalyan"
+  },
+  "2013-04-02": {
+    "min": 1300.0,
+    "max": 1400.0,
+    "modal": 1375.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kalyan"
+  },
+  "2013-04-03": {
+    "min": 1300.0,
+    "max": 1370.0,
+    "modal": 1350.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kalyan"
+  }
+}

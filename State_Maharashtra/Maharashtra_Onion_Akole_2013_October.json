@@ -1,0 +1,74 @@
+{
+  "2013-10-03": {
+    "min": 900.0,
+    "max": 4200.0,
+    "modal": 2860.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-10-06": {
+    "min": 1000.0,
+    "max": 4100.0,
+    "modal": 1892.0,
+    "arrival": 3.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  },
+  "2013-10-10": {
+    "min": 500.0,
+    "max": 4200.0,
+    "modal": 2500.0,
+    "arrival": 12.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  },
+  "2013-10-17": {
+    "min": 1000.0,
+    "max": 5500.0,
+    "modal": 4216.0,
+    "arrival": 28.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-10-20": {
+    "min": 1051.0,
+    "max": 5511.0,
+    "modal": 3584.0,
+    "arrival": 20.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-10-24": {
+    "min": 800.0,
+    "max": 5500.0,
+    "modal": 2460.0,
+    "arrival": 32.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  },
+  "2013-10-27": {
+    "min": 500.0,
+    "max": 5711.0,
+    "modal": 2318.0,
+    "arrival": 48.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  },
+  "2013-10-31": {
+    "min": 600.0,
+    "max": 5300.0,
+    "modal": 2250.0,
+    "arrival": 71.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  }
+}

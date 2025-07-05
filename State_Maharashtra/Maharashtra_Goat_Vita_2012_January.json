@@ -1,0 +1,47 @@
+{
+  "2012-01-02": {
+    "min": 1500.0,
+    "max": 55700.0,
+    "modal": 2785.0,
+    "arrival": 5.1,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "He Baffelo"
+  },
+  "2012-01-09": {
+    "min": 1000.0,
+    "max": 3000.0,
+    "modal": 1503.0,
+    "arrival": 6.6,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2012-01-16": {
+    "min": 1000.0,
+    "max": 3000.0,
+    "modal": 1650.0,
+    "arrival": 8.4,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2012-01-23": {
+    "min": 1000.0,
+    "max": 4000.0,
+    "modal": 1487.0,
+    "arrival": 10.2,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2012-01-30": {
+    "min": 1000.0,
+    "max": 4000.0,
+    "modal": 1234.0,
+    "arrival": 10.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  }
+}

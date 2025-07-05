@@ -1,0 +1,38 @@
+{
+  "2010-02-07": {
+    "min": 3600.0,
+    "max": 3900.0,
+    "modal": 3795.0,
+    "arrival": 64.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-02-14": {
+    "min": 3525.0,
+    "max": 3850.0,
+    "modal": 3641.0,
+    "arrival": 73.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-02-21": {
+    "min": 3600.0,
+    "max": 3950.0,
+    "modal": 3750.0,
+    "arrival": 61.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-02-28": {
+    "min": 3600.0,
+    "max": 3800.0,
+    "modal": 3628.0,
+    "arrival": 34.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

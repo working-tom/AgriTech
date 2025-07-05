@@ -1,0 +1,29 @@
+{
+  "2014-04-01": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "modal": 1600.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "1009 Kar"
+  },
+  "2014-04-22": {
+    "min": 1600.0,
+    "max": 1625.0,
+    "modal": 1611.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "1009 Kar"
+  },
+  "2014-04-30": {
+    "min": 1625.0,
+    "max": 1625.0,
+    "modal": 1625.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "1009 Kar"
+  }
+}

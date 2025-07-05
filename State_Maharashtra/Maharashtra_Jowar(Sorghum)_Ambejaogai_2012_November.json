@@ -1,0 +1,101 @@
+{
+  "2012-11-01": {
+    "min": 1500.0,
+    "max": 1850.0,
+    "modal": 1700.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-03": {
+    "min": 1500.0,
+    "max": 1800.0,
+    "modal": 1600.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-05": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-17": {
+    "min": 1510.0,
+    "max": 1510.0,
+    "modal": 1510.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-11-19": {
+    "min": 1501.0,
+    "max": 1551.0,
+    "modal": 1531.0,
+    "arrival": 1.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-11-20": {
+    "min": 1500.0,
+    "max": 1730.0,
+    "modal": 1600.0,
+    "arrival": 2.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-21": {
+    "min": 1535.0,
+    "max": 1620.0,
+    "modal": 1600.0,
+    "arrival": 0.85,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-11-22": {
+    "min": 1600.0,
+    "max": 1700.0,
+    "modal": 1650.0,
+    "arrival": 3.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-23": {
+    "min": 1575.0,
+    "max": 1701.0,
+    "modal": 1651.0,
+    "arrival": 3.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-29": {
+    "min": 1500.0,
+    "max": 1580.0,
+    "modal": 1530.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jowar (Yellow)"
+  },
+  "2012-11-30": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "modal": 1500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

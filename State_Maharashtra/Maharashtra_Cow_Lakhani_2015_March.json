@@ -1,0 +1,29 @@
+{
+  "2015-03-17": {
+    "min": 22500.0,
+    "max": 25000.0,
+    "modal": 24000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2015-03-24": {
+    "min": 11500.0,
+    "max": 40000.0,
+    "modal": 25588.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2015-03-27": {
+    "min": 40000.0,
+    "max": 40500.0,
+    "modal": 40062.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

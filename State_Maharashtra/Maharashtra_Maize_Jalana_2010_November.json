@@ -1,0 +1,29 @@
+{
+  "2010-11-20": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi White"
+  },
+  "2010-11-29": {
+    "min": 1011.0,
+    "max": 1060.0,
+    "modal": 1060.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi White"
+  },
+  "2010-11-30": {
+    "min": 971.0,
+    "max": 1003.0,
+    "modal": 1003.0,
+    "arrival": 2.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Deshi White"
+  }
+}

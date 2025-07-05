@@ -1,0 +1,29 @@
+{
+  "2011-07-23": {
+    "min": 4000.0,
+    "max": 4200.0,
+    "modal": 4100.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalaxmi"
+  },
+  "2011-07-30": {
+    "min": 4000.0,
+    "max": 4300.0,
+    "modal": 4150.0,
+    "arrival": 2.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalaxmi"
+  },
+  "2011-07-31": {
+    "min": 4000.0,
+    "max": 4300.0,
+    "modal": 4150.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalaxmi"
+  }
+}

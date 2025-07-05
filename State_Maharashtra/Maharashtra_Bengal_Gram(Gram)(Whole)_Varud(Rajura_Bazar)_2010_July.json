@@ -1,0 +1,29 @@
+{
+  "2010-07-01": {
+    "min": 1800.0,
+    "max": 1950.0,
+    "modal": 1840.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-07-22": {
+    "min": 2500.0,
+    "max": 3200.0,
+    "modal": 3104.0,
+    "arrival": 2.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kabul Small"
+  },
+  "2010-07-29": {
+    "min": 1800.0,
+    "max": 2200.0,
+    "modal": 1900.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}
