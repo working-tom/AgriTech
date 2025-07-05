@@ -1,0 +1,29 @@
+{
+  "2012-01-01": {
+    "min": 12000.0,
+    "max": 42000.0,
+    "modal": 16000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2012-01-08": {
+    "min": 16000.0,
+    "max": 45000.0,
+    "modal": 24000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2012-01-15": {
+    "min": 15000.0,
+    "max": 45000.0,
+    "modal": 22000.0,
+    "arrival": 1.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  }
+}

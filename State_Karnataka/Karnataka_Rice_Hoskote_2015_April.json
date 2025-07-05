@@ -1,0 +1,29 @@
+{
+  "2015-04-07": {
+    "min": 3800.0,
+    "max": 4000.0,
+    "modal": 3900.0,
+    "arrival": 17.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusa Basmati Raw (New)"
+  },
+  "2015-04-28": {
+    "min": 4500.0,
+    "max": 4846.0,
+    "modal": 4600.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coarse"
+  },
+  "2015-04-29": {
+    "min": 4000.0,
+    "max": 4200.0,
+    "modal": 4100.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coarse"
+  }
+}

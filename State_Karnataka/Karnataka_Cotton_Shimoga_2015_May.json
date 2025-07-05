@@ -1,0 +1,38 @@
+{
+  "2015-05-07": {
+    "min": 4300.0,
+    "max": 4600.0,
+    "modal": 4450.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  },
+  "2015-05-15": {
+    "min": 4300.0,
+    "max": 4600.0,
+    "modal": 4450.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  },
+  "2015-05-23": {
+    "min": 3800.0,
+    "max": 4450.0,
+    "modal": 4125.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  },
+  "2015-05-28": {
+    "min": 3800.0,
+    "max": 4450.0,
+    "modal": 4125.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "LD-327"
+  }
+}

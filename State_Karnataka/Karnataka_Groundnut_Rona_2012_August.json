@@ -1,0 +1,38 @@
+{
+  "2012-08-21": {
+    "min": 4510.0,
+    "max": 5850.0,
+    "modal": 5150.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Balli/Habbu"
+  },
+  "2012-08-25": {
+    "min": 4550.0,
+    "max": 5650.0,
+    "modal": 5250.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  },
+  "2012-08-27": {
+    "min": 4480.0,
+    "max": 5650.0,
+    "modal": 5350.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  },
+  "2012-08-30": {
+    "min": 3060.0,
+    "max": 5590.0,
+    "modal": 4820.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gejje"
+  }
+}

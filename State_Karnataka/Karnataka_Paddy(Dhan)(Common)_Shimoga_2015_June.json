@@ -1,0 +1,29 @@
+{
+  "2015-06-08": {
+    "min": 1400.0,
+    "max": 1520.0,
+    "modal": 1460.0,
+    "arrival": 1785.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Medium"
+  },
+  "2015-06-20": {
+    "min": 1390.0,
+    "max": 1500.0,
+    "modal": 1445.0,
+    "arrival": 1018.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Medium"
+  },
+  "2015-06-29": {
+    "min": 1350.0,
+    "max": 1400.0,
+    "modal": 1375.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Medium"
+  }
+}

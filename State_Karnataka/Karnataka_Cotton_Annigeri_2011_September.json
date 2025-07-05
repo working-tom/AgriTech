@@ -1,0 +1,47 @@
+{
+  "2011-09-09": {
+    "min": 2000.0,
+    "max": 3325.0,
+    "modal": 2100.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2011-09-22": {
+    "min": 3311.0,
+    "max": 3411.0,
+    "modal": 3375.0,
+    "arrival": 128.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2011-09-24": {
+    "min": 3650.0,
+    "max": 3900.0,
+    "modal": 3800.0,
+    "arrival": 128.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "GCH"
+  },
+  "2011-09-29": {
+    "min": 3251.0,
+    "max": 4541.0,
+    "modal": 3351.0,
+    "arrival": 244.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2011-09-30": {
+    "min": 3735.0,
+    "max": 4558.0,
+    "modal": 4555.0,
+    "arrival": 209.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2015-04-05": {
+    "min": 3500.0,
+    "max": 6000.0,
+    "modal": 4500.0,
+    "arrival": 1.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2015-04-12": {
+    "min": 3000.0,
+    "max": 5500.0,
+    "modal": 4000.0,
+    "arrival": 13.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Goat"
+  },
+  "2015-04-26": {
+    "min": 3000.0,
+    "max": 6000.0,
+    "modal": 3500.0,
+    "arrival": 4.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  }
+}

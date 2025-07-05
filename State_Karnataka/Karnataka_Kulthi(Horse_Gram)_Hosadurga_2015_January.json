@@ -1,0 +1,29 @@
+{
+  "2015-01-16": {
+    "min": 1500.0,
+    "max": 2000.0,
+    "modal": 1900.0,
+    "arrival": 90.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Horse gram (Whole)"
+  },
+  "2015-01-23": {
+    "min": 1100.0,
+    "max": 1300.0,
+    "modal": 1200.0,
+    "arrival": 173.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Horse gram (Whole)"
+  },
+  "2015-01-28": {
+    "min": 980.0,
+    "max": 1100.0,
+    "modal": 1000.0,
+    "arrival": 16.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Horse gram (Whole)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2013-07-09": {
+    "min": 2500.0,
+    "max": 4500.0,
+    "modal": 4000.0,
+    "arrival": 79.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Small"
+  },
+  "2013-07-16": {
+    "min": 1800.0,
+    "max": 4000.0,
+    "modal": 3500.0,
+    "arrival": 84.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Small"
+  },
+  "2013-07-22": {
+    "min": 1500.0,
+    "max": 6000.0,
+    "modal": 3600.0,
+    "arrival": 70.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Small"
+  }
+}

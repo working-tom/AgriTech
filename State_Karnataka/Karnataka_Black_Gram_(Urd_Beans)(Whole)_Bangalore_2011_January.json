@@ -1,0 +1,29 @@
+{
+  "2011-01-01": {
+    "min": 5900.0,
+    "max": 7600.0,
+    "modal": 6750.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  },
+  "2011-01-10": {
+    "min": 6000.0,
+    "max": 7500.0,
+    "modal": 6750.0,
+    "arrival": 13.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  },
+  "2011-01-24": {
+    "min": 5200.0,
+    "max": 7600.0,
+    "modal": 6900.0,
+    "arrival": 52.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  }
+}

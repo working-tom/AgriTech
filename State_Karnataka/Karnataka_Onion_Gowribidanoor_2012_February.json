@@ -1,0 +1,29 @@
+{
+  "2012-02-02": {
+    "min": 650.0,
+    "max": 750.0,
+    "modal": 700.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beelary-Red"
+  },
+  "2012-02-10": {
+    "min": 650.0,
+    "max": 680.0,
+    "modal": 665.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beelary-Red"
+  },
+  "2012-02-24": {
+    "min": 670.0,
+    "max": 700.0,
+    "modal": 685.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beelary-Red"
+  }
+}

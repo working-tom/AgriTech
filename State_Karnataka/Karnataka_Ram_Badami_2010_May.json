@@ -1,0 +1,38 @@
+{
+  "2010-05-07": {
+    "min": 3500.0,
+    "max": 10000.0,
+    "modal": 7500.0,
+    "arrival": 10.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2010-05-13": {
+    "min": 1600.0,
+    "max": 3500.0,
+    "modal": 2000.0,
+    "arrival": 15.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ram"
+  },
+  "2010-05-21": {
+    "min": 11500.0,
+    "max": 16000.0,
+    "modal": 15000.0,
+    "arrival": 10.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2010-05-27": {
+    "min": 1350.0,
+    "max": 2000.0,
+    "modal": 1500.0,
+    "arrival": 19.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ram"
+  }
+}

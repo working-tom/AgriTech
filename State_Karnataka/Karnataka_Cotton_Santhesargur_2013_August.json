@@ -1,0 +1,38 @@
+{
+  "2013-08-01": {
+    "min": 3600.0,
+    "max": 3600.0,
+    "modal": 3600.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Krishna"
+  },
+  "2013-08-19": {
+    "min": 4544.0,
+    "max": 4544.0,
+    "modal": 4544.0,
+    "arrival": 13.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Varalakshmi (Ginned)"
+  },
+  "2013-08-21": {
+    "min": 3271.0,
+    "max": 3271.0,
+    "modal": 3271.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Krishna"
+  },
+  "2013-08-31": {
+    "min": 3721.0,
+    "max": 3721.0,
+    "modal": 3721.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Krishna"
+  }
+}

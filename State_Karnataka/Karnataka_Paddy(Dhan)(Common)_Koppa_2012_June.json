@@ -1,0 +1,65 @@
+{
+  "2012-06-01": {
+    "min": 1000.0,
+    "max": 1100.0,
+    "modal": 1070.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2012-06-02": {
+    "min": 1090.0,
+    "max": 1120.0,
+    "modal": 1100.0,
+    "arrival": 26.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2012-06-03": {
+    "min": 1090.0,
+    "max": 1120.0,
+    "modal": 1100.0,
+    "arrival": 23.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2012-06-04": {
+    "min": 1080.0,
+    "max": 1120.0,
+    "modal": 1100.0,
+    "arrival": 13.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2012-06-06": {
+    "min": 1000.0,
+    "max": 1150.0,
+    "modal": 1100.0,
+    "arrival": 26.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2012-06-20": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  },
+  "2012-06-26": {
+    "min": 1050.0,
+    "max": 1050.0,
+    "modal": 1050.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jaya"
+  }
+}

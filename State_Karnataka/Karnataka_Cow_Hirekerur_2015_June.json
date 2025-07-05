@@ -1,0 +1,29 @@
+{
+  "2015-06-15": {
+    "min": 19000.0,
+    "max": 52000.0,
+    "modal": 27000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2015-06-20": {
+    "min": 10500.0,
+    "max": 48000.0,
+    "modal": 20000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2015-06-27": {
+    "min": 14600.0,
+    "max": 47500.0,
+    "modal": 22000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  }
+}

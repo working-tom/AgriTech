@@ -1,0 +1,65 @@
+{
+  "2013-08-01": {
+    "min": 12000.0,
+    "max": 13700.0,
+    "modal": 13500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  },
+  "2013-08-02": {
+    "min": 13400.0,
+    "max": 13650.0,
+    "modal": 13450.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  },
+  "2013-08-19": {
+    "min": 12801.0,
+    "max": 14129.0,
+    "modal": 13209.0,
+    "arrival": 0.6666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  },
+  "2013-08-20": {
+    "min": 13159.0,
+    "max": 14151.0,
+    "modal": 13809.0,
+    "arrival": 0.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  },
+  "2013-08-21": {
+    "min": 13609.0,
+    "max": 14329.0,
+    "modal": 14009.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  },
+  "2013-08-22": {
+    "min": 13151.0,
+    "max": 14300.0,
+    "modal": 13900.0,
+    "arrival": 0.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  },
+  "2013-08-31": {
+    "min": 13600.0,
+    "max": 16300.0,
+    "modal": 15900.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ripe"
+  }
+}

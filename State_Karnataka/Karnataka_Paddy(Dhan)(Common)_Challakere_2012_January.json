@@ -1,0 +1,92 @@
+{
+  "2012-01-01": {
+    "min": 1000.0,
+    "max": 1045.0,
+    "modal": 1000.0,
+    "arrival": 179.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-02": {
+    "min": 1000.0,
+    "max": 1045.0,
+    "modal": 1030.0,
+    "arrival": 179.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-03": {
+    "min": 910.0,
+    "max": 1050.0,
+    "modal": 950.0,
+    "arrival": 93.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-04": {
+    "min": 910.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-08": {
+    "min": 900.0,
+    "max": 1050.0,
+    "modal": 1010.0,
+    "arrival": 85.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-10": {
+    "min": 950.0,
+    "max": 1060.0,
+    "modal": 1000.0,
+    "arrival": 43.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-13": {
+    "min": 950.0,
+    "max": 1060.0,
+    "modal": 1000.0,
+    "arrival": 43.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-16": {
+    "min": 1000.0,
+    "max": 1040.0,
+    "modal": 1020.0,
+    "arrival": 73.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-17": {
+    "min": 950.0,
+    "max": 1035.0,
+    "modal": 1000.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-01-23": {
+    "min": 900.0,
+    "max": 1035.0,
+    "modal": 980.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  }
+}

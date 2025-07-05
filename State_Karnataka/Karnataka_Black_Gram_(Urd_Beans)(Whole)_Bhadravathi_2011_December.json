@@ -1,0 +1,47 @@
+{
+  "2011-12-01": {
+    "min": 5750.0,
+    "max": 6120.0,
+    "modal": 6000.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  },
+  "2011-12-08": {
+    "min": 5680.0,
+    "max": 6377.0,
+    "modal": 6147.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  },
+  "2011-12-15": {
+    "min": 5962.0,
+    "max": 6100.0,
+    "modal": 6000.0,
+    "arrival": 14.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  },
+  "2011-12-29": {
+    "min": 6000.0,
+    "max": 6000.0,
+    "modal": 6000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  },
+  "2011-12-31": {
+    "min": 5714.0,
+    "max": 6033.0,
+    "modal": 6000.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "FQ(Burma)"
+  }
+}

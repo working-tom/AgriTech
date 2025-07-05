@@ -1,0 +1,29 @@
+{
+  "2012-04-09": {
+    "min": 5000.0,
+    "max": 5000.0,
+    "modal": 5000.0,
+    "arrival": 3000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  },
+  "2012-04-16": {
+    "min": 5000.0,
+    "max": 6000.0,
+    "modal": 5550.0,
+    "arrival": 3760.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  },
+  "2012-04-30": {
+    "min": 6612.0,
+    "max": 8000.0,
+    "modal": 6956.0,
+    "arrival": 4442.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  }
+}

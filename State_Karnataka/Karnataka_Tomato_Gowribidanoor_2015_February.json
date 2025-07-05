@@ -1,0 +1,29 @@
+{
+  "2015-02-05": {
+    "min": 625.0,
+    "max": 675.0,
+    "modal": 650.0,
+    "arrival": 108.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tomato"
+  },
+  "2015-02-19": {
+    "min": 720.0,
+    "max": 750.0,
+    "modal": 740.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tomato"
+  },
+  "2015-02-26": {
+    "min": 615.0,
+    "max": 650.0,
+    "modal": 630.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tomato"
+  }
+}

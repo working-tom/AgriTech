@@ -1,0 +1,29 @@
+{
+  "2015-08-05": {
+    "min": 3600.0,
+    "max": 4050.0,
+    "modal": 3825.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "H-4(A) 27mm FIne"
+  },
+  "2015-08-13": {
+    "min": 3800.0,
+    "max": 4000.0,
+    "modal": 3900.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "H-4(A) 27mm FIne"
+  },
+  "2015-08-18": {
+    "min": 4100.0,
+    "max": 4100.0,
+    "modal": 4100.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "H-4(A) 27mm FIne"
+  }
+}

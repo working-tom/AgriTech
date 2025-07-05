@@ -1,0 +1,20 @@
+{
+  "2012-03-07": {
+    "min": 500.0,
+    "max": 2500.0,
+    "modal": 1000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Green"
+  },
+  "2012-03-14": {
+    "min": 500.0,
+    "max": 2000.0,
+    "modal": 800.0,
+    "arrival": 250.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Green"
+  }
+}

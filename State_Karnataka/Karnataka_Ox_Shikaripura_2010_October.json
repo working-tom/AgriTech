@@ -1,0 +1,38 @@
+{
+  "2010-10-11": {
+    "min": 6500.0,
+    "max": 7500.0,
+    "modal": 7000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2010-10-12": {
+    "min": 8500.0,
+    "max": 10500.0,
+    "modal": 10000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2010-10-18": {
+    "min": 8000.0,
+    "max": 12000.0,
+    "modal": 11000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2010-10-25": {
+    "min": 10500.0,
+    "max": 11500.0,
+    "modal": 11000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  }
+}

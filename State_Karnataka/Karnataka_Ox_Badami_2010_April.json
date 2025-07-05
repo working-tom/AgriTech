@@ -1,0 +1,29 @@
+{
+  "2010-04-15": {
+    "min": 1200.0,
+    "max": 1350.0,
+    "modal": 1300.0,
+    "arrival": 0.125,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2010-04-22": {
+    "min": 10000.0,
+    "max": 16500.0,
+    "modal": 11500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ox"
+  },
+  "2010-04-29": {
+    "min": 1650.0,
+    "max": 7000.0,
+    "modal": 3500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Ram"
+  }
+}

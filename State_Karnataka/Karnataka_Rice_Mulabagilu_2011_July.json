@@ -1,0 +1,56 @@
+{
+  "2011-07-06": {
+    "min": 1000.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  },
+  "2011-07-07": {
+    "min": 1000.0,
+    "max": 1840.0,
+    "modal": 1420.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2011-07-08": {
+    "min": 1450.0,
+    "max": 2000.0,
+    "modal": 1725.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "CR 1009 (Coarse) Boiled"
+  },
+  "2011-07-15": {
+    "min": 1200.0,
+    "max": 1966.0,
+    "modal": 1583.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2011-07-21": {
+    "min": 1800.0,
+    "max": 2506.0,
+    "modal": 2153.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2011-07-28": {
+    "min": 1200.0,
+    "max": 1900.0,
+    "modal": 1550.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  }
+}

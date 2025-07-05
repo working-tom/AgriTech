@@ -1,0 +1,29 @@
+{
+  "2014-07-03": {
+    "min": 2000.0,
+    "max": 2050.0,
+    "modal": 2030.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neem Seed"
+  },
+  "2014-07-10": {
+    "min": 2000.0,
+    "max": 2100.0,
+    "modal": 2075.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neem Seed"
+  },
+  "2014-07-18": {
+    "min": 2050.0,
+    "max": 2150.0,
+    "modal": 2100.0,
+    "arrival": 26.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Neem Seed"
+  }
+}

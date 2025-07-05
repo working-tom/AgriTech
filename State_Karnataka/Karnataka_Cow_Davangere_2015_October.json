@@ -1,0 +1,47 @@
+{
+  "2015-10-01": {
+    "min": 15500.0,
+    "max": 70000.0,
+    "modal": 42750.0,
+    "arrival": 7.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2015-10-09": {
+    "min": 18000.0,
+    "max": 65000.0,
+    "modal": 39250.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2015-10-16": {
+    "min": 17000.0,
+    "max": 75000.0,
+    "modal": 46000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2015-10-21": {
+    "min": 15300.0,
+    "max": 72000.0,
+    "modal": 43650.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  },
+  "2015-10-30": {
+    "min": 35000.0,
+    "max": 58000.0,
+    "modal": 46500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Cow"
+  }
+}

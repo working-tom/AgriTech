@@ -1,0 +1,47 @@
+{
+  "2011-10-03": {
+    "min": 2400.0,
+    "max": 3300.0,
+    "modal": 3200.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2011-10-14": {
+    "min": 2500.0,
+    "max": 3151.0,
+    "modal": 2700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  },
+  "2011-10-27": {
+    "min": 2711.0,
+    "max": 3351.0,
+    "modal": 3301.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2011-10-28": {
+    "min": 2810.0,
+    "max": 3451.0,
+    "modal": 3175.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2011-10-31": {
+    "min": 2190.0,
+    "max": 3300.0,
+    "modal": 3201.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  }
+}

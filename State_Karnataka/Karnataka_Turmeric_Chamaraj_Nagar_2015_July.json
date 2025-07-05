@@ -1,0 +1,38 @@
+{
+  "2015-07-06": {
+    "min": 5800.0,
+    "max": 7170.0,
+    "modal": 6900.0,
+    "arrival": 28.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Turmeric"
+  },
+  "2015-07-14": {
+    "min": 5780.0,
+    "max": 6700.0,
+    "modal": 6600.0,
+    "arrival": 28.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Turmeric"
+  },
+  "2015-07-27": {
+    "min": 5640.0,
+    "max": 7000.0,
+    "modal": 6570.0,
+    "arrival": 42.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Turmeric"
+  },
+  "2015-07-30": {
+    "min": 7000.0,
+    "max": 7000.0,
+    "modal": 7000.0,
+    "arrival": 18.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

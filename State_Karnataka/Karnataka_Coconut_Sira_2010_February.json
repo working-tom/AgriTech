@@ -1,0 +1,83 @@
+{
+  "2010-02-02": {
+    "min": 3000.0,
+    "max": 4500.0,
+    "modal": 3624.0,
+    "arrival": 3050.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-02-05": {
+    "min": 3000.0,
+    "max": 4000.0,
+    "modal": 3500.0,
+    "arrival": 1600.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-02-09": {
+    "min": 3000.0,
+    "max": 5000.0,
+    "modal": 3909.0,
+    "arrival": 2250.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-02-16": {
+    "min": 3000.0,
+    "max": 5000.0,
+    "modal": 3666.0,
+    "arrival": 1500.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  },
+  "2010-02-17": {
+    "min": 3000.0,
+    "max": 5000.0,
+    "modal": 4057.0,
+    "arrival": 875.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-02-19": {
+    "min": 4000.0,
+    "max": 6500.0,
+    "modal": 6000.0,
+    "arrival": 2300.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coconut"
+  },
+  "2010-02-23": {
+    "min": 2000.0,
+    "max": 5000.0,
+    "modal": 3761.0,
+    "arrival": 2100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-02-24": {
+    "min": 2000.0,
+    "max": 5000.0,
+    "modal": 2750.0,
+    "arrival": 1200.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-02-26": {
+    "min": 2000.0,
+    "max": 5600.0,
+    "modal": 5501.0,
+    "arrival": 2300.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  }
+}

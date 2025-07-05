@@ -1,0 +1,29 @@
+{
+  "2015-02-03": {
+    "min": 3500.0,
+    "max": 4700.0,
+    "modal": 4100.0,
+    "arrival": 70.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2015-02-04": {
+    "min": 3500.0,
+    "max": 4730.0,
+    "modal": 4115.0,
+    "arrival": 66.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2015-02-18": {
+    "min": 1400.0,
+    "max": 2000.0,
+    "modal": 1700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Broken Rice"
+  }
+}

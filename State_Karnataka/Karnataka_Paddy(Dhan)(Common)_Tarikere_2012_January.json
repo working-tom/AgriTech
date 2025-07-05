@@ -1,0 +1,38 @@
+{
+  "2012-01-04": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "modal": 1000.0,
+    "arrival": 16.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Dappa"
+  },
+  "2012-01-07": {
+    "min": 1080.0,
+    "max": 1080.0,
+    "modal": 1080.0,
+    "arrival": 80.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Dappa"
+  },
+  "2012-01-19": {
+    "min": 1027.0,
+    "max": 1027.0,
+    "modal": 1027.0,
+    "arrival": 100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Dappa"
+  },
+  "2012-01-21": {
+    "min": 1127.0,
+    "max": 1127.0,
+    "modal": 1127.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Dappa"
+  }
+}

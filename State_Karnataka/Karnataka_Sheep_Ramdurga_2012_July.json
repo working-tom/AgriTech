@@ -1,0 +1,38 @@
+{
+  "2012-07-01": {
+    "min": 3500.0,
+    "max": 4500.0,
+    "modal": 4000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2012-07-08": {
+    "min": 3500.0,
+    "max": 5600.0,
+    "modal": 4700.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2012-07-15": {
+    "min": 3440.0,
+    "max": 4600.0,
+    "modal": 3600.0,
+    "arrival": 2.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  },
+  "2012-07-22": {
+    "min": 3500.0,
+    "max": 5500.0,
+    "modal": 3800.0,
+    "arrival": 1.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Sheep Medium"
+  }
+}

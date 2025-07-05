@@ -1,0 +1,65 @@
+{
+  "2011-02-03": {
+    "min": 8000.0,
+    "max": 9200.0,
+    "modal": 8500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gorabalu"
+  },
+  "2011-02-04": {
+    "min": 7500.0,
+    "max": 9000.0,
+    "modal": 8500.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gorabalu"
+  },
+  "2011-02-17": {
+    "min": 5500.0,
+    "max": 7500.0,
+    "modal": 6000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gorabalu"
+  },
+  "2011-02-18": {
+    "min": 5500.0,
+    "max": 7000.0,
+    "modal": 6000.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  },
+  "2011-02-19": {
+    "min": 5700.0,
+    "max": 7000.0,
+    "modal": 6200.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gorabalu"
+  },
+  "2011-02-23": {
+    "min": 11000.0,
+    "max": 12500.0,
+    "modal": 11114.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bette"
+  },
+  "2011-02-24": {
+    "min": 12166.0,
+    "max": 14496.0,
+    "modal": 13388.0,
+    "arrival": 21.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "EDI"
+  }
+}

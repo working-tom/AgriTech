@@ -1,0 +1,56 @@
+{
+  "2014-09-03": {
+    "min": 9000.0,
+    "max": 11000.0,
+    "modal": 10000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sippegotu"
+  },
+  "2014-09-05": {
+    "min": 7000.0,
+    "max": 9000.0,
+    "modal": 8000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sippegotu"
+  },
+  "2014-09-07": {
+    "min": 40699.0,
+    "max": 52569.0,
+    "modal": 51289.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2014-09-14": {
+    "min": 26609.0,
+    "max": 33099.0,
+    "modal": 30169.0,
+    "arrival": 4.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2014-09-21": {
+    "min": 22099.0,
+    "max": 38469.0,
+    "modal": 31109.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2014-09-28": {
+    "min": 28519.0,
+    "max": 39564.0,
+    "modal": 37899.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  }
+}

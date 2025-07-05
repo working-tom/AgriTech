@@ -1,0 +1,20 @@
+{
+  "2012-06-12": {
+    "min": 500.0,
+    "max": 1800.0,
+    "modal": 1000.0,
+    "arrival": 7000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lime"
+  },
+  "2012-06-26": {
+    "min": 300.0,
+    "max": 1500.0,
+    "modal": 800.0,
+    "arrival": 6000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lime"
+  }
+}

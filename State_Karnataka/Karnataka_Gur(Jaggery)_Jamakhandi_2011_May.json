@@ -1,0 +1,29 @@
+{
+  "2011-05-04": {
+    "min": 2250.0,
+    "max": 2275.0,
+    "modal": 2250.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nizamabad"
+  },
+  "2011-05-11": {
+    "min": 2100.0,
+    "max": 2400.0,
+    "modal": 2300.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nizamabad"
+  },
+  "2011-05-25": {
+    "min": 2400.0,
+    "max": 2500.0,
+    "modal": 2500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nizamabad"
+  }
+}

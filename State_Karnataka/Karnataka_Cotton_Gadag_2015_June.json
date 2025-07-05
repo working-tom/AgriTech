@@ -1,0 +1,29 @@
+{
+  "2015-06-01": {
+    "min": 3501.0,
+    "max": 3501.0,
+    "modal": 3501.0,
+    "arrival": 31.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2015-06-06": {
+    "min": 3501.0,
+    "max": 3551.0,
+    "modal": 3512.0,
+    "arrival": 29.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  },
+  "2015-06-23": {
+    "min": 3151.0,
+    "max": 3651.0,
+    "modal": 3334.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jayadhar"
+  }
+}

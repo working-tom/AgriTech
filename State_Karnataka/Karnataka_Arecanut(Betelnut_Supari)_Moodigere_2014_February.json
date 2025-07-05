@@ -1,0 +1,29 @@
+{
+  "2014-02-05": {
+    "min": 13000.0,
+    "max": 30000.0,
+    "modal": 22610.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "EDI"
+  },
+  "2014-02-10": {
+    "min": 12700.0,
+    "max": 29000.0,
+    "modal": 22120.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "EDI"
+  },
+  "2014-02-26": {
+    "min": 13000.0,
+    "max": 22500.0,
+    "modal": 21811.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  }
+}

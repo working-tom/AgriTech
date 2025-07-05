@@ -1,0 +1,65 @@
+{
+  "2010-07-04": {
+    "min": 3200.0,
+    "max": 3600.0,
+    "modal": 3400.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2010-07-07": {
+    "min": 3200.0,
+    "max": 3819.0,
+    "modal": 3600.0,
+    "arrival": 31.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2010-07-14": {
+    "min": 2950.0,
+    "max": 3749.0,
+    "modal": 3550.0,
+    "arrival": 36.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2010-07-21": {
+    "min": 3000.0,
+    "max": 3849.0,
+    "modal": 3600.0,
+    "arrival": 39.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2010-07-24": {
+    "min": 3000.0,
+    "max": 3300.0,
+    "modal": 3200.0,
+    "arrival": 19.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2010-07-25": {
+    "min": 2900.0,
+    "max": 3200.0,
+    "modal": 3000.0,
+    "arrival": 12.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  },
+  "2010-07-28": {
+    "min": 2900.0,
+    "max": 3800.0,
+    "modal": 3500.0,
+    "arrival": 38.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "R-51 (Ginned)"
+  }
+}

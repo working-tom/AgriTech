@@ -1,0 +1,38 @@
+{
+  "2013-07-01": {
+    "min": 12192.0,
+    "max": 12192.0,
+    "modal": 12192.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2013-07-11": {
+    "min": 11446.0,
+    "max": 14312.0,
+    "modal": 12499.0,
+    "arrival": 6.666666666666667,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rashi"
+  },
+  "2013-07-18": {
+    "min": 7300.0,
+    "max": 9319.0,
+    "modal": 7300.0,
+    "arrival": 23.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gorabalu"
+  },
+  "2013-07-27": {
+    "min": 8000.0,
+    "max": 8000.0,
+    "modal": 8000.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Gorabalu"
+  }
+}

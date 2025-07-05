@@ -1,0 +1,29 @@
+{
+  "2012-11-06": {
+    "min": 900.0,
+    "max": 1200.0,
+    "modal": 1000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusakesar"
+  },
+  "2012-11-17": {
+    "min": 750.0,
+    "max": 900.0,
+    "modal": 800.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusakesar"
+  },
+  "2012-11-24": {
+    "min": 980.0,
+    "max": 1020.0,
+    "modal": 1000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pusakesar"
+  }
+}

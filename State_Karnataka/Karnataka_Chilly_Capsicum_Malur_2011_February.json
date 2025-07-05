@@ -1,0 +1,29 @@
+{
+  "2011-02-15": {
+    "min": 800.0,
+    "max": 1100.0,
+    "modal": 950.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chilly Capsicum"
+  },
+  "2011-02-22": {
+    "min": 750.0,
+    "max": 900.0,
+    "modal": 800.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chilly Capsicum"
+  },
+  "2011-02-26": {
+    "min": 550.0,
+    "max": 750.0,
+    "modal": 650.0,
+    "arrival": 35.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chilly Capsicum"
+  }
+}
