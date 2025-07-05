@@ -1,0 +1,38 @@
+{
+  "2010-04-26": {
+    "min": 1.5,
+    "max": 6.0,
+    "modal": 2.75,
+    "arrival": 0.390625,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-04-28": {
+    "min": 0.2,
+    "max": 0.52,
+    "modal": 0.31,
+    "arrival": 4.296875,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Tube Rose (Single)"
+  },
+  "2010-04-29": {
+    "min": 2.2075,
+    "max": 5.94,
+    "modal": 3.65,
+    "arrival": 1400.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2010-04-30": {
+    "min": 4.305,
+    "max": 11.155000000000001,
+    "modal": 7.288333333333334,
+    "arrival": 2200.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

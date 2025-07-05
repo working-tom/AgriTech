@@ -1,0 +1,38 @@
+{
+  "2012-05-02": {
+    "min": 1563.0,
+    "max": 2250.0,
+    "modal": 1875.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2012-05-03": {
+    "min": 1250.0,
+    "max": 2500.0,
+    "modal": 1844.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2012-05-04": {
+    "min": 1250.0,
+    "max": 2500.0,
+    "modal": 1875.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2012-05-05": {
+    "min": 1563.0,
+    "max": 2656.0,
+    "modal": 2063.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  }
+}

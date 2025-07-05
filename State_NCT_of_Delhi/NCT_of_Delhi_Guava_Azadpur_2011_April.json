@@ -1,0 +1,20 @@
+{
+  "2011-04-01": {
+    "min": 1000.0,
+    "max": 3500.0,
+    "modal": 2167.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2011-04-02": {
+    "min": 1200.0,
+    "max": 4000.0,
+    "modal": 2333.0,
+    "arrival": 2.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  }
+}

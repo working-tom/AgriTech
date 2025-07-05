@@ -1,0 +1,128 @@
+{
+  "2010-02-01": {
+    "min": 20.0,
+    "max": 50.0,
+    "modal": 25.0,
+    "arrival": 2120.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Lily"
+  },
+  "2010-02-02": {
+    "min": 22.0,
+    "max": 50.0,
+    "modal": 26.0,
+    "arrival": 1840.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Lily"
+  },
+  "2010-02-04": {
+    "min": 0.83,
+    "max": 2.08,
+    "modal": 1.25,
+    "arrival": 110.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Rose (Local)"
+  },
+  "2010-02-08": {
+    "min": 4.5,
+    "max": 6.0,
+    "modal": 5.5,
+    "arrival": 925.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-09": {
+    "min": 4.0,
+    "max": 7.0,
+    "modal": 6.0,
+    "arrival": 1025.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-11": {
+    "min": 1.16,
+    "max": 3.66,
+    "modal": 1.87,
+    "arrival": 81.25,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Rose (Local)"
+  },
+  "2010-02-12": {
+    "min": 1.16,
+    "max": 3.58,
+    "modal": 1.75,
+    "arrival": 103.125,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Rose (Local)"
+  },
+  "2010-02-13": {
+    "min": 1.33,
+    "max": 5.0,
+    "modal": 2.5,
+    "arrival": 109.375,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Rose (Local)"
+  },
+  "2010-02-15": {
+    "min": 3.5,
+    "max": 5.0,
+    "modal": 4.5,
+    "arrival": 1180.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-16": {
+    "min": 3.0,
+    "max": 5.0,
+    "modal": 4.25,
+    "arrival": 1485.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-17": {
+    "min": 3.5,
+    "max": 6.0,
+    "modal": 4.5,
+    "arrival": 1300.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-18": {
+    "min": 3.5,
+    "max": 5.5,
+    "modal": 4.25,
+    "arrival": 1750.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-19": {
+    "min": 3.0,
+    "max": 5.0,
+    "modal": 3.75,
+    "arrival": 1425.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Marigold(Calcutta)"
+  },
+  "2010-02-20": {
+    "min": 1.25,
+    "max": 2.91,
+    "modal": 2.08,
+    "arrival": 218.75,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Rose (Local)"
+  }
+}

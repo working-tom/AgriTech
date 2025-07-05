@@ -1,0 +1,47 @@
+{
+  "2014-08-16": {
+    "min": 1000.0,
+    "max": 1150.0,
+    "modal": 1050.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Season Leaves"
+  },
+  "2014-08-26": {
+    "min": 1100.0,
+    "max": 1200.0,
+    "modal": 1125.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Season Leaves"
+  },
+  "2014-08-27": {
+    "min": 1125.0,
+    "max": 1200.0,
+    "modal": 1150.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Season Leaves"
+  },
+  "2014-08-29": {
+    "min": 1200.0,
+    "max": 1400.0,
+    "modal": 1300.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Season Leaves"
+  },
+  "2014-08-30": {
+    "min": 1250.0,
+    "max": 1500.0,
+    "modal": 1350.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Season Leaves"
+  }
+}

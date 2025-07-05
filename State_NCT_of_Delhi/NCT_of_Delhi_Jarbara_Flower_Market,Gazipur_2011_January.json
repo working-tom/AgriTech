@@ -1,0 +1,29 @@
+{
+  "2011-01-02": {
+    "min": 2.5,
+    "max": 4.5,
+    "modal": 3.0,
+    "arrival": 16720.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Jerbara"
+  },
+  "2011-01-03": {
+    "min": 2.0,
+    "max": 4.0,
+    "modal": 2.5,
+    "arrival": 32400.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Jerbara"
+  },
+  "2011-01-04": {
+    "min": 1.5,
+    "max": 3.0,
+    "modal": 2.2,
+    "arrival": 24600.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Jerbara"
+  }
+}

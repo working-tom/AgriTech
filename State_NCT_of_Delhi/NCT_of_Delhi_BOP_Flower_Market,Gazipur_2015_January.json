@@ -1,0 +1,83 @@
+{
+  "2015-01-02": {
+    "min": 40.0,
+    "max": 62.5,
+    "modal": 55.0,
+    "arrival": 56.25,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-03": {
+    "min": 45.0,
+    "max": 55.0,
+    "modal": 50.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-05": {
+    "min": 35.0,
+    "max": 45.0,
+    "modal": 40.0,
+    "arrival": 75.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-08": {
+    "min": 31.333333333333332,
+    "max": 47.0,
+    "modal": 41.0,
+    "arrival": 104.1015625,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-11": {
+    "min": 40.0,
+    "max": 60.0,
+    "modal": 55.0,
+    "arrival": 75.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-15": {
+    "min": 100.0,
+    "max": 120.0,
+    "modal": 115.0,
+    "arrival": 75.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-18": {
+    "min": 100.0,
+    "max": 128.0,
+    "modal": 125.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-19": {
+    "min": 110.0,
+    "max": 135.0,
+    "modal": 130.0,
+    "arrival": 212.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-01-29": {
+    "min": 120.0,
+    "max": 135.0,
+    "modal": 125.0,
+    "arrival": 112.5,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

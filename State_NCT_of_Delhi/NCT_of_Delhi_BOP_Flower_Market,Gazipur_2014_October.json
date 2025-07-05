@@ -1,0 +1,29 @@
+{
+  "2014-10-13": {
+    "min": 6.625,
+    "max": 9.125,
+    "modal": 8.5,
+    "arrival": 400.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2014-10-14": {
+    "min": 5.25,
+    "max": 8.5,
+    "modal": 7.675,
+    "arrival": 200.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2014-10-16": {
+    "min": 80.0,
+    "max": 110.0,
+    "modal": 105.0,
+    "arrival": 50.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

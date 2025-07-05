@@ -1,0 +1,56 @@
+{
+  "2014-11-06": {
+    "min": 500.0,
+    "max": 800.0,
+    "modal": 675.0,
+    "arrival": 53.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Spinach"
+  },
+  "2014-11-07": {
+    "min": 500.0,
+    "max": 800.0,
+    "modal": 675.0,
+    "arrival": 52.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Spinach"
+  },
+  "2014-11-10": {
+    "min": 500.0,
+    "max": 800.0,
+    "modal": 675.0,
+    "arrival": 36.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Spinach"
+  },
+  "2014-11-19": {
+    "min": 600.0,
+    "max": 900.0,
+    "modal": 775.0,
+    "arrival": 49.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Spinach"
+  },
+  "2014-11-24": {
+    "min": 600.0,
+    "max": 1000.0,
+    "modal": 800.0,
+    "arrival": 30.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Spinach"
+  },
+  "2014-11-29": {
+    "min": 800.0,
+    "max": 1175.0,
+    "modal": 988.0,
+    "arrival": 51.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Spinach"
+  }
+}
