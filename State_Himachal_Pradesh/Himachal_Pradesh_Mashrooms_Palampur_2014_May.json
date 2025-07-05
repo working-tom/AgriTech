@@ -1,0 +1,56 @@
+{
+  "2014-05-13": {
+    "min": 16000.0,
+    "max": 20000.0,
+    "modal": 18000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mashrooms"
+  },
+  "2014-05-20": {
+    "min": 14000.0,
+    "max": 20000.0,
+    "modal": 17000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mashrooms"
+  },
+  "2014-05-23": {
+    "min": 16000.0,
+    "max": 18000.0,
+    "modal": 17000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mashrooms"
+  },
+  "2014-05-27": {
+    "min": 18000.0,
+    "max": 20000.0,
+    "modal": 19000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mashrooms"
+  },
+  "2014-05-28": {
+    "min": 18000.0,
+    "max": 20000.0,
+    "modal": 19000.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mashrooms"
+  },
+  "2014-05-29": {
+    "min": 16000.0,
+    "max": 20000.0,
+    "modal": 18000.0,
+    "arrival": 0.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Mashrooms"
+  }
+}
