@@ -1,0 +1,29 @@
+{
+  "2010-10-01": {
+    "min": 765.0,
+    "max": 769.0,
+    "modal": 767.0,
+    "arrival": 68.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TKM 9"
+  },
+  "2010-10-04": {
+    "min": 821.0,
+    "max": 887.0,
+    "modal": 854.0,
+    "arrival": 32.666666666666664,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-10-05": {
+    "min": 781.0,
+    "max": 888.0,
+    "modal": 835.0,
+    "arrival": 37.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2013-06-05": {
+    "min": 2090.0,
+    "max": 2090.0,
+    "modal": 2090.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  },
+  "2013-06-13": {
+    "min": 1450.0,
+    "max": 1490.0,
+    "modal": 1470.0,
+    "arrival": 33.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-06-14": {
+    "min": 1310.0,
+    "max": 1490.0,
+    "modal": 1400.0,
+    "arrival": 22.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  },
+  "2013-06-17": {
+    "min": 1440.0,
+    "max": 1520.0,
+    "modal": 1480.0,
+    "arrival": 66.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  }
+}

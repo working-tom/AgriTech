@@ -1,0 +1,29 @@
+{
+  "2011-02-01": {
+    "min": 866.0,
+    "max": 896.0,
+    "modal": 880.0,
+    "arrival": 750.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "B P T"
+  },
+  "2011-02-02": {
+    "min": 852.0,
+    "max": 887.0,
+    "modal": 867.0,
+    "arrival": 750.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 39"
+  },
+  "2011-02-03": {
+    "min": 1097.0,
+    "max": 1350.0,
+    "modal": 1213.0,
+    "arrival": 2250.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  }
+}

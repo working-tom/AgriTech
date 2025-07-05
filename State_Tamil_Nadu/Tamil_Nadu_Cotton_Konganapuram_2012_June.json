@@ -1,0 +1,65 @@
+{
+  "2012-06-14": {
+    "min": 3600.0,
+    "max": 4400.0,
+    "modal": 4000.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "DCH-32 (Ginned)"
+  },
+  "2012-06-19": {
+    "min": 3300.0,
+    "max": 3700.0,
+    "modal": 3500.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-06-20": {
+    "min": 3300.0,
+    "max": 3700.0,
+    "modal": 3500.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-06-21": {
+    "min": 3300.0,
+    "max": 3700.0,
+    "modal": 3500.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-06-22": {
+    "min": 3300.0,
+    "max": 3700.0,
+    "modal": 3500.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-06-26": {
+    "min": 3600.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 0.0333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-06-27": {
+    "min": 3600.0,
+    "max": 4000.0,
+    "modal": 3800.0,
+    "arrival": 0.0333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

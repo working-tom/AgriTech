@@ -1,0 +1,38 @@
+{
+  "2012-11-03": {
+    "min": 3065.0,
+    "max": 3865.0,
+    "modal": 3465.0,
+    "arrival": 1.65,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Copra"
+  },
+  "2012-11-12": {
+    "min": 3065.0,
+    "max": 3765.0,
+    "modal": 3415.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "other"
+  },
+  "2012-11-19": {
+    "min": 3010.0,
+    "max": 3869.0,
+    "modal": 3695.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "other"
+  },
+  "2012-11-24": {
+    "min": 3010.0,
+    "max": 3819.0,
+    "modal": 3415.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "other"
+  }
+}

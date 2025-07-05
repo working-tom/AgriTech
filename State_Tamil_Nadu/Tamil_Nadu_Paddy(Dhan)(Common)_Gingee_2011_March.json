@@ -1,0 +1,38 @@
+{
+  "2011-03-21": {
+    "min": 836.0,
+    "max": 1560.0,
+    "modal": 1300.0,
+    "arrival": 3750.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  },
+  "2011-03-23": {
+    "min": 1147.0,
+    "max": 1453.0,
+    "modal": 1267.0,
+    "arrival": 2250.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  },
+  "2011-03-25": {
+    "min": 0.0,
+    "max": 1085.0,
+    "modal": 1067.0,
+    "arrival": 525.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "TKM 9"
+  },
+  "2011-03-30": {
+    "min": 1093.0,
+    "max": 1533.0,
+    "modal": 1200.0,
+    "arrival": 2000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  }
+}

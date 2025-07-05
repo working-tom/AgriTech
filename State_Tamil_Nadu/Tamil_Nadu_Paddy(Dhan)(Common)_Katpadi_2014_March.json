@@ -1,0 +1,47 @@
+{
+  "2014-03-03": {
+    "min": 750.0,
+    "max": 1300.0,
+    "modal": 1025.0,
+    "arrival": 0.18,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  },
+  "2014-03-05": {
+    "min": 1200.0,
+    "max": 1300.0,
+    "modal": 1250.0,
+    "arrival": 2.63,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Super Ponni"
+  },
+  "2014-03-11": {
+    "min": 1133.0,
+    "max": 1149.0,
+    "modal": 1141.0,
+    "arrival": 0.12,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  },
+  "2014-03-18": {
+    "min": 1200.0,
+    "max": 1226.0,
+    "modal": 1213.0,
+    "arrival": 0.76,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  },
+  "2014-03-25": {
+    "min": 1186.0,
+    "max": 1206.0,
+    "modal": 1196.0,
+    "arrival": 0.14,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "ADT 37"
+  }
+}

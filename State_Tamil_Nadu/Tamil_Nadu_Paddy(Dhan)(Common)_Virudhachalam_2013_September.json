@@ -1,0 +1,38 @@
+{
+  "2013-09-02": {
+    "min": 1000.0,
+    "max": 1132.0,
+    "modal": 1066.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Co. 43"
+  },
+  "2013-09-03": {
+    "min": 1200.0,
+    "max": 1345.0,
+    "modal": 1272.0,
+    "arrival": 56.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pommani"
+  },
+  "2013-09-04": {
+    "min": 1146.0,
+    "max": 1345.0,
+    "modal": 1246.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pommani"
+  },
+  "2013-09-05": {
+    "min": 1078.0,
+    "max": 1280.0,
+    "modal": 1180.0,
+    "arrival": 42.875,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pommani"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "2011-02-01": {
+    "min": 985.0,
+    "max": 1191.0,
+    "modal": 1147.0,
+    "arrival": 750.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  },
+  "2011-02-02": {
+    "min": 852.0,
+    "max": 916.0,
+    "modal": 880.0,
+    "arrival": 750.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sinna Ponni"
+  },
+  "2011-02-28": {
+    "min": 978.0,
+    "max": 1111.0,
+    "modal": 1016.0,
+    "arrival": 262.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ponni"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2012-09-06": {
+    "min": 4500.0,
+    "max": 8000.0,
+    "modal": 6250.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Finger"
+  },
+  "2012-09-25": {
+    "min": 3600.0,
+    "max": 4400.0,
+    "modal": 4000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}
