@@ -1,0 +1,29 @@
+{
+  "2013-08-01": {
+    "min": 2500.0,
+    "max": 2550.0,
+    "modal": 2525.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tamarind Fruit"
+  },
+  "2013-08-15": {
+    "min": 2500.0,
+    "max": 2515.0,
+    "modal": 2507.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tamarind Fruit"
+  },
+  "2013-08-29": {
+    "min": 2475.0,
+    "max": 2600.0,
+    "modal": 2538.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tamarind Fruit"
+  }
+}
