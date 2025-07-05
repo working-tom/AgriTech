@@ -1,0 +1,38 @@
+{
+  "2012-01-01": {
+    "min": 3900.0,
+    "max": 3950.0,
+    "modal": 3900.0,
+    "arrival": 2.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  },
+  "2012-01-02": {
+    "min": 3900.0,
+    "max": 4000.0,
+    "modal": 3950.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  },
+  "2012-01-19": {
+    "min": 4100.0,
+    "max": 4200.0,
+    "modal": 4150.0,
+    "arrival": 2.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  },
+  "2012-01-20": {
+    "min": 4100.0,
+    "max": 4200.0,
+    "modal": 4150.0,
+    "arrival": 2.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masur Dal"
+  }
+}

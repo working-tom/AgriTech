@@ -1,0 +1,38 @@
+{
+  "2015-12-01": {
+    "min": 7480.0,
+    "max": 7520.0,
+    "modal": 7500.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-12-02": {
+    "min": 10990.0,
+    "max": 11100.0,
+    "modal": 11000.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-12-07": {
+    "min": 7480.0,
+    "max": 7520.0,
+    "modal": 7500.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-12-31": {
+    "min": 9990.0,
+    "max": 10100.0,
+    "modal": 10000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Gram Dhall-I"
+  }
+}

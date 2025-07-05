@@ -1,0 +1,29 @@
+{
+  "2011-07-05": {
+    "min": 1000.0,
+    "max": 3000.0,
+    "modal": 2800.0,
+    "arrival": 105.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Langra"
+  },
+  "2011-07-06": {
+    "min": 1000.0,
+    "max": 3000.0,
+    "modal": 2700.0,
+    "arrival": 198.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Langra"
+  },
+  "2011-07-22": {
+    "min": 2000.0,
+    "max": 4000.0,
+    "modal": 4000.0,
+    "arrival": 284.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Langra"
+  }
+}

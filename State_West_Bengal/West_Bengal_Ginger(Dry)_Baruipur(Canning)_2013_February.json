@@ -1,0 +1,20 @@
+{
+  "2013-02-19": {
+    "min": 5200.0,
+    "max": 5500.0,
+    "modal": 5400.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Vegitable-fresh"
+  },
+  "2013-02-28": {
+    "min": 4850.0,
+    "max": 5200.0,
+    "modal": 5000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Vegitable-fresh"
+  }
+}
