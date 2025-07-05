@@ -1,0 +1,38 @@
+{
+  "2013-10-09": {
+    "min": 900.0,
+    "max": 1080.0,
+    "modal": 1000.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bhindi"
+  },
+  "2013-10-10": {
+    "min": 880.0,
+    "max": 1070.0,
+    "modal": 960.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bhindi"
+  },
+  "2013-10-18": {
+    "min": 945.0,
+    "max": 1110.0,
+    "modal": 1000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bhindi"
+  },
+  "2013-10-21": {
+    "min": 940.0,
+    "max": 1130.0,
+    "modal": 1010.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bhindi"
+  }
+}

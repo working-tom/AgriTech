@@ -1,0 +1,56 @@
+{
+  "2010-10-01": {
+    "min": 2500.0,
+    "max": 2550.0,
+    "modal": 2525.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2010-10-04": {
+    "min": 2520.0,
+    "max": 2560.0,
+    "modal": 2540.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-10-07": {
+    "min": 2525.0,
+    "max": 2575.0,
+    "modal": 2550.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2010-10-21": {
+    "min": 2520.0,
+    "max": 2560.0,
+    "modal": 2540.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2010-10-26": {
+    "min": 2540.0,
+    "max": 2580.0,
+    "modal": 2560.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2010-10-29": {
+    "min": 2530.0,
+    "max": 2570.0,
+    "modal": 2550.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  }
+}

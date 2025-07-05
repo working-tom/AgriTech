@@ -1,0 +1,20 @@
+{
+  "2015-02-14": {
+    "min": 5000.0,
+    "max": 5400.0,
+    "modal": 5200.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Royal Delicious"
+  },
+  "2015-02-19": {
+    "min": 5200.0,
+    "max": 5400.0,
+    "modal": 5300.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Royal Delicious"
+  }
+}

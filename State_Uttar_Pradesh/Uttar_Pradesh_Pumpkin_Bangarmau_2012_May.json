@@ -1,0 +1,56 @@
+{
+  "2012-05-01": {
+    "min": 650.0,
+    "max": 680.0,
+    "modal": 665.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  },
+  "2012-05-07": {
+    "min": 650.0,
+    "max": 690.0,
+    "modal": 670.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  },
+  "2012-05-25": {
+    "min": 470.0,
+    "max": 500.0,
+    "modal": 480.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  },
+  "2012-05-26": {
+    "min": 460.0,
+    "max": 500.0,
+    "modal": 480.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  },
+  "2012-05-27": {
+    "min": 480.0,
+    "max": 525.0,
+    "modal": 500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  },
+  "2012-05-28": {
+    "min": 480.0,
+    "max": 525.0,
+    "modal": 500.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  }
+}

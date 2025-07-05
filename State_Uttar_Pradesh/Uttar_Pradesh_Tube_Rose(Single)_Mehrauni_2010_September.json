@@ -1,0 +1,47 @@
+{
+  "2010-09-03": {
+    "min": 100.0,
+    "max": 200.0,
+    "modal": 150.0,
+    "arrival": 180.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Tube Rose (Single)"
+  },
+  "2010-09-07": {
+    "min": 50.0,
+    "max": 100.0,
+    "modal": 80.0,
+    "arrival": 220.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Tube Rose (Single)"
+  },
+  "2010-09-10": {
+    "min": 40.0,
+    "max": 90.0,
+    "modal": 50.0,
+    "arrival": 210.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2010-09-25": {
+    "min": 45.0,
+    "max": 70.0,
+    "modal": 55.0,
+    "arrival": 180.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2010-09-26": {
+    "min": 30.0,
+    "max": 60.0,
+    "modal": 40.0,
+    "arrival": 180.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

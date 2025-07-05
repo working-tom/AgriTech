@@ -1,0 +1,38 @@
+{
+  "2015-05-07": {
+    "min": 6000.0,
+    "max": 6300.0,
+    "modal": 6150.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Royal Delicious"
+  },
+  "2015-05-11": {
+    "min": 6100.0,
+    "max": 6300.0,
+    "modal": 6200.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Royal Delicious"
+  },
+  "2015-05-23": {
+    "min": 6100.0,
+    "max": 6500.0,
+    "modal": 6350.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Royal Delicious"
+  },
+  "2015-05-29": {
+    "min": 6300.0,
+    "max": 6500.0,
+    "modal": 6400.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Royal Delicious"
+  }
+}

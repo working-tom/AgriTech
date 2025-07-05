@@ -1,0 +1,29 @@
+{
+  "2015-02-10": {
+    "min": 1190.0,
+    "max": 1210.0,
+    "modal": 1200.0,
+    "arrival": 200.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Ripe"
+  },
+  "2015-02-27": {
+    "min": 1250.0,
+    "max": 1270.0,
+    "modal": 1260.0,
+    "arrival": 200.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Ripe"
+  },
+  "2015-02-28": {
+    "min": 1200.0,
+    "max": 1260.0,
+    "modal": 1250.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Ripe"
+  }
+}

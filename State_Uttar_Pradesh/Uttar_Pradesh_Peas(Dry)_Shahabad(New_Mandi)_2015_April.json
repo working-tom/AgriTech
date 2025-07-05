@@ -1,0 +1,29 @@
+{
+  "2015-04-01": {
+    "min": 2980.0,
+    "max": 3020.0,
+    "modal": 3000.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2015-04-06": {
+    "min": 2980.0,
+    "max": 3020.0,
+    "modal": 3000.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2015-04-10": {
+    "min": 2980.0,
+    "max": 3020.0,
+    "modal": 3000.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  }
+}

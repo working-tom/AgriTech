@@ -1,0 +1,47 @@
+{
+  "2013-05-02": {
+    "min": 3100.0,
+    "max": 3130.0,
+    "modal": 3110.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-05-03": {
+    "min": 2980.0,
+    "max": 3015.0,
+    "modal": 3000.0,
+    "arrival": 2.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-05-10": {
+    "min": 3030.0,
+    "max": 3050.0,
+    "modal": 3040.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-05-11": {
+    "min": 3040.0,
+    "max": 3675.0,
+    "modal": 3060.0,
+    "arrival": 1.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-05-20": {
+    "min": 3000.0,
+    "max": 3040.0,
+    "modal": 3020.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

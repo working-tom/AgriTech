@@ -1,0 +1,38 @@
+{
+  "2015-02-07": {
+    "min": 1360.0,
+    "max": 1370.0,
+    "modal": 1365.0,
+    "arrival": 29.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-02-10": {
+    "min": 1300.0,
+    "max": 1345.0,
+    "modal": 1325.0,
+    "arrival": 63.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Coarse"
+  },
+  "2015-02-14": {
+    "min": 1300.0,
+    "max": 1340.0,
+    "modal": 1320.0,
+    "arrival": 52.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Coarse"
+  },
+  "2015-02-24": {
+    "min": 1310.0,
+    "max": 1345.0,
+    "modal": 1325.0,
+    "arrival": 19.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Coarse"
+  }
+}

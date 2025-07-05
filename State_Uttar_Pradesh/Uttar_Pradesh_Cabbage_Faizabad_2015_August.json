@@ -1,0 +1,47 @@
+{
+  "2015-08-01": {
+    "min": 1850.0,
+    "max": 1950.0,
+    "modal": 1900.0,
+    "arrival": 3.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cabbage"
+  },
+  "2015-08-06": {
+    "min": 1950.0,
+    "max": 2100.0,
+    "modal": 2000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cabbage"
+  },
+  "2015-08-07": {
+    "min": 1950.0,
+    "max": 2100.0,
+    "modal": 2000.0,
+    "arrival": 1.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cabbage"
+  },
+  "2015-08-11": {
+    "min": 1800.0,
+    "max": 1900.0,
+    "modal": 1850.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cabbage"
+  },
+  "2015-08-18": {
+    "min": 2925.0,
+    "max": 3050.0,
+    "modal": 2980.0,
+    "arrival": 2.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cabbage"
+  }
+}

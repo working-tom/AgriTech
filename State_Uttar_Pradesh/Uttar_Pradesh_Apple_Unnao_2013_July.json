@@ -1,0 +1,101 @@
+{
+  "2013-07-17": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 4000.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-18": {
+    "min": 4050.0,
+    "max": 4200.0,
+    "modal": 4100.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-19": {
+    "min": 4275.0,
+    "max": 4350.0,
+    "modal": 4300.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-21": {
+    "min": 4825.0,
+    "max": 4900.0,
+    "modal": 4850.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-23": {
+    "min": 4450.0,
+    "max": 4600.0,
+    "modal": 4500.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-24": {
+    "min": 4825.0,
+    "max": 4900.0,
+    "modal": 4850.0,
+    "arrival": 3.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-07-25": {
+    "min": 7100.0,
+    "max": 7250.0,
+    "modal": 7200.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-07-27": {
+    "min": 7150.0,
+    "max": 7300.0,
+    "modal": 7200.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-28": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 7000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-30": {
+    "min": 4625.0,
+    "max": 4775.0,
+    "modal": 4700.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  },
+  "2013-07-31": {
+    "min": 6250.0,
+    "max": 6350.0,
+    "modal": 6300.0,
+    "arrival": 6.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Apple"
+  }
+}

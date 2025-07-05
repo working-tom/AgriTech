@@ -1,0 +1,74 @@
+{
+  "2014-09-02": {
+    "min": 5250.0,
+    "max": 5350.0,
+    "modal": 5300.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-06": {
+    "min": 5300.0,
+    "max": 5400.0,
+    "modal": 5350.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-09": {
+    "min": 5350.0,
+    "max": 5450.0,
+    "modal": 5400.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-13": {
+    "min": 5150.0,
+    "max": 5250.0,
+    "modal": 5200.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-16": {
+    "min": 5250.0,
+    "max": 5325.0,
+    "modal": 5300.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-23": {
+    "min": 5300.0,
+    "max": 5350.0,
+    "modal": 5325.0,
+    "arrival": 0.75,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-09-27": {
+    "min": 5350.0,
+    "max": 5450.0,
+    "modal": 5400.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram (Whole)"
+  },
+  "2014-09-30": {
+    "min": 5500.0,
+    "max": 5700.0,
+    "modal": 5600.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Black Gram (Whole)"
+  }
+}

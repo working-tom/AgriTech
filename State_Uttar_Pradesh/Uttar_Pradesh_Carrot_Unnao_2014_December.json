@@ -1,0 +1,83 @@
+{
+  "2014-12-01": {
+    "min": 1750.0,
+    "max": 1825.0,
+    "modal": 1800.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-12": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 1500.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-15": {
+    "min": 1525.0,
+    "max": 1600.0,
+    "modal": 1550.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-19": {
+    "min": 1525.0,
+    "max": 1600.0,
+    "modal": 1550.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-25": {
+    "min": 1175.0,
+    "max": 1225.0,
+    "modal": 1200.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-26": {
+    "min": 1190.0,
+    "max": 1225.0,
+    "modal": 1200.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-27": {
+    "min": 1175.0,
+    "max": 1225.0,
+    "modal": 1200.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-28": {
+    "min": 1150.0,
+    "max": 1200.0,
+    "modal": 1150.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-29": {
+    "min": 1080.0,
+    "max": 1125.0,
+    "modal": 1100.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "2014-09-01": {
+    "min": 2930.0,
+    "max": 3000.0,
+    "modal": 2950.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-02": {
+    "min": 2950.0,
+    "max": 2990.0,
+    "modal": 2980.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-04": {
+    "min": 2950.0,
+    "max": 3020.0,
+    "modal": 2990.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-05": {
+    "min": 2950.0,
+    "max": 3050.0,
+    "modal": 2990.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-06": {
+    "min": 2950.0,
+    "max": 3020.0,
+    "modal": 2990.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-24": {
+    "min": 3000.0,
+    "max": 3100.0,
+    "modal": 3080.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-29": {
+    "min": 3065.0,
+    "max": 3100.0,
+    "modal": 3085.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  },
+  "2014-09-30": {
+    "min": 3075.0,
+    "max": 3125.0,
+    "modal": 3100.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sarson(Black)"
+  }
+}

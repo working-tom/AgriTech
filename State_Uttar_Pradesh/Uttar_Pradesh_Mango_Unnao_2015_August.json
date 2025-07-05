@@ -1,0 +1,47 @@
+{
+  "2015-08-01": {
+    "min": 1900.0,
+    "max": 2100.0,
+    "modal": 2000.0,
+    "arrival": 26.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dusheri"
+  },
+  "2015-08-02": {
+    "min": 2000.0,
+    "max": 2100.0,
+    "modal": 2050.0,
+    "arrival": 2.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chausa"
+  },
+  "2015-08-03": {
+    "min": 2000.0,
+    "max": 2200.0,
+    "modal": 2100.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chausa"
+  },
+  "2015-08-06": {
+    "min": 2375.0,
+    "max": 2450.0,
+    "modal": 2400.0,
+    "arrival": 2.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chausa"
+  },
+  "2015-08-07": {
+    "min": 2350.0,
+    "max": 2450.0,
+    "modal": 2400.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chausa"
+  }
+}

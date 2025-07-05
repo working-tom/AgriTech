@@ -1,0 +1,29 @@
+{
+  "2014-11-11": {
+    "min": 400.0,
+    "max": 425.0,
+    "modal": 410.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pumpkin"
+  },
+  "2014-11-12": {
+    "min": 425.0,
+    "max": 475.0,
+    "modal": 450.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2014-11-14": {
+    "min": 430.0,
+    "max": 500.0,
+    "modal": 475.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

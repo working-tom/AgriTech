@@ -1,0 +1,74 @@
+{
+  "2013-03-01": {
+    "min": 2900.0,
+    "max": 3100.0,
+    "modal": 3000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-02": {
+    "min": 2930.0,
+    "max": 3100.0,
+    "modal": 3020.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-07": {
+    "min": 2890.0,
+    "max": 2950.0,
+    "modal": 2920.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-15": {
+    "min": 2780.0,
+    "max": 2880.0,
+    "modal": 2830.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-16": {
+    "min": 2750.0,
+    "max": 2850.0,
+    "modal": 2800.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-18": {
+    "min": 2750.0,
+    "max": 2860.0,
+    "modal": 2810.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-21": {
+    "min": 2760.0,
+    "max": 2870.0,
+    "modal": 2820.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  },
+  "2013-03-22": {
+    "min": 2750.0,
+    "max": 2870.0,
+    "modal": 2820.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Peas(Dry)"
+  }
+}

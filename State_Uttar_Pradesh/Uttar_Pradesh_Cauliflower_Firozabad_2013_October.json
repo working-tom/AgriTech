@@ -1,0 +1,38 @@
+{
+  "2013-10-12": {
+    "min": 1750.0,
+    "max": 1850.0,
+    "modal": 1800.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cauliflower"
+  },
+  "2013-10-14": {
+    "min": 1580.0,
+    "max": 1620.0,
+    "modal": 1600.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cauliflower"
+  },
+  "2013-10-19": {
+    "min": 1580.0,
+    "max": 1620.0,
+    "modal": 1600.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cauliflower"
+  },
+  "2013-10-30": {
+    "min": 1600.0,
+    "max": 1700.0,
+    "modal": 1650.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cauliflower"
+  }
+}

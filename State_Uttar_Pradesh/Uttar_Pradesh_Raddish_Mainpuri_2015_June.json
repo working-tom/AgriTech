@@ -1,0 +1,65 @@
+{
+  "2015-06-01": {
+    "min": 550.0,
+    "max": 6560.0,
+    "modal": 600.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-06-02": {
+    "min": 600.0,
+    "max": 750.0,
+    "modal": 650.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-06-03": {
+    "min": 550.0,
+    "max": 700.0,
+    "modal": 650.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-06-04": {
+    "min": 700.0,
+    "max": 800.0,
+    "modal": 750.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-06-05": {
+    "min": 700.0,
+    "max": 950.0,
+    "modal": 800.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-06-10": {
+    "min": 650.0,
+    "max": 800.0,
+    "modal": 750.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-06-11": {
+    "min": 600.0,
+    "max": 800.0,
+    "modal": 750.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "2011-07-01": {
+    "min": 500.0,
+    "max": 580.0,
+    "modal": 550.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bottle Gourd"
+  },
+  "2011-07-03": {
+    "min": 500.0,
+    "max": 600.0,
+    "modal": 570.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bottle Gourd"
+  },
+  "2011-07-04": {
+    "min": 510.0,
+    "max": 640.0,
+    "modal": 605.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bottle Gourd"
+  },
+  "2011-07-05": {
+    "min": 580.0,
+    "max": 625.0,
+    "modal": 600.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bottle Gourd"
+  },
+  "2011-07-06": {
+    "min": 575.0,
+    "max": 625.0,
+    "modal": 600.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bottle Gourd"
+  }
+}

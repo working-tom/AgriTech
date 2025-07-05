@@ -1,0 +1,56 @@
+{
+  "2015-09-01": {
+    "min": 6400.0,
+    "max": 6500.0,
+    "modal": 6450.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Ginger"
+  },
+  "2015-09-02": {
+    "min": 6425.0,
+    "max": 6475.0,
+    "modal": 6450.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Ginger"
+  },
+  "2015-09-04": {
+    "min": 5450.0,
+    "max": 5540.0,
+    "modal": 5500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Ginger"
+  },
+  "2015-09-07": {
+    "min": 5140.0,
+    "max": 5250.0,
+    "modal": 5200.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Ginger"
+  },
+  "2015-09-09": {
+    "min": 5025.0,
+    "max": 5080.0,
+    "modal": 5050.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Ginger"
+  },
+  "2015-09-10": {
+    "min": 5020.0,
+    "max": 5075.0,
+    "modal": 5050.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Ginger"
+  }
+}

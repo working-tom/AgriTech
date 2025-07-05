@@ -1,0 +1,20 @@
+{
+  "2014-04-02": {
+    "min": 800.0,
+    "max": 900.0,
+    "modal": 840.0,
+    "arrival": 12000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  },
+  "2014-04-30": {
+    "min": 900.0,
+    "max": 1050.0,
+    "modal": 1000.0,
+    "arrival": 20000.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  }
+}

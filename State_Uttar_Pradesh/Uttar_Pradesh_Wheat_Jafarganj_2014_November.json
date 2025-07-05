@@ -1,0 +1,29 @@
+{
+  "2014-11-12": {
+    "min": 1400.0,
+    "max": 1435.0,
+    "modal": 1420.0,
+    "arrival": 100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  },
+  "2014-11-19": {
+    "min": 1430.0,
+    "max": 1450.0,
+    "modal": 1440.0,
+    "arrival": 80.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  },
+  "2014-11-30": {
+    "min": 1440.0,
+    "max": 1460.0,
+    "modal": 1450.0,
+    "arrival": 144.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  }
+}

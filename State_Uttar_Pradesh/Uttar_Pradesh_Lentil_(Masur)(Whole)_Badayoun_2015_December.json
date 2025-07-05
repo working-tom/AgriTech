@@ -1,0 +1,29 @@
+{
+  "2015-12-04": {
+    "min": 6950.0,
+    "max": 7050.0,
+    "modal": 7000.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masoor Gola"
+  },
+  "2015-12-11": {
+    "min": 6750.0,
+    "max": 6850.0,
+    "modal": 6800.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masoor Gola"
+  },
+  "2015-12-18": {
+    "min": 6700.0,
+    "max": 6800.0,
+    "modal": 6750.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masoor Gola"
+  }
+}

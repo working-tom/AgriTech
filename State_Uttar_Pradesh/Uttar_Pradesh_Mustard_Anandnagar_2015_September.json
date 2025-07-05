@@ -1,0 +1,29 @@
+{
+  "2015-09-09": {
+    "min": 3800.0,
+    "max": 4000.0,
+    "modal": 3900.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lohi Black"
+  },
+  "2015-09-16": {
+    "min": 3750.0,
+    "max": 4050.0,
+    "modal": 3875.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lohi Black"
+  },
+  "2015-09-17": {
+    "min": 3750.0,
+    "max": 4100.0,
+    "modal": 3850.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Lohi Black"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-08-07": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 1485.0,
+    "arrival": 15.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  },
+  "2015-08-14": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 1475.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  },
+  "2015-08-21": {
+    "min": 1475.0,
+    "max": 1535.0,
+    "modal": 1490.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  },
+  "2015-08-28": {
+    "min": 1485.0,
+    "max": 1535.0,
+    "modal": 1500.0,
+    "arrival": 8.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dara"
+  }
+}

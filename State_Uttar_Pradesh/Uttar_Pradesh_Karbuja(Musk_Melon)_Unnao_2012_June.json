@@ -1,0 +1,38 @@
+{
+  "2012-06-01": {
+    "min": 680.0,
+    "max": 750.0,
+    "modal": 700.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Karbhuja"
+  },
+  "2012-06-02": {
+    "min": 680.0,
+    "max": 750.0,
+    "modal": 700.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Karbhuja"
+  },
+  "2012-06-05": {
+    "min": 700.0,
+    "max": 750.0,
+    "modal": 725.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Karbhuja"
+  },
+  "2012-06-14": {
+    "min": 0.0,
+    "max": 0.0,
+    "modal": 1175.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Karbhuja"
+  }
+}

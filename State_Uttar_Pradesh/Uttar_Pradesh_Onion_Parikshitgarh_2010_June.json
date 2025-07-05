@@ -1,0 +1,47 @@
+{
+  "2010-06-02": {
+    "min": 550.0,
+    "max": 600.0,
+    "modal": 600.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2010-06-08": {
+    "min": 500.0,
+    "max": 550.0,
+    "modal": 550.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2010-06-10": {
+    "min": 500.0,
+    "max": 550.0,
+    "modal": 525.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2010-06-13": {
+    "min": 550.0,
+    "max": 600.0,
+    "modal": 575.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2010-06-15": {
+    "min": 600.0,
+    "max": 650.0,
+    "modal": 650.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  }
+}

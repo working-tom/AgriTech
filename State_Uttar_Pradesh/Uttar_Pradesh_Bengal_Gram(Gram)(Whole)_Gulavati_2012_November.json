@@ -1,0 +1,29 @@
+{
+  "2012-11-01": {
+    "min": 4800.0,
+    "max": 5100.0,
+    "modal": 4965.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Small (Split)"
+  },
+  "2012-11-07": {
+    "min": 4800.0,
+    "max": 5700.0,
+    "modal": 4975.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Small (Split)"
+  },
+  "2012-11-26": {
+    "min": 4810.0,
+    "max": 5225.0,
+    "modal": 4955.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  }
+}

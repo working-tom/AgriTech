@@ -1,0 +1,56 @@
+{
+  "2012-10-11": {
+    "min": 730.0,
+    "max": 775.0,
+    "modal": 750.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Brinjal"
+  },
+  "2012-10-12": {
+    "min": 680.0,
+    "max": 725.0,
+    "modal": 700.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Brinjal"
+  },
+  "2012-10-26": {
+    "min": 675.0,
+    "max": 700.0,
+    "modal": 685.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Round/Long"
+  },
+  "2012-10-28": {
+    "min": 560.0,
+    "max": 585.0,
+    "modal": 585.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Round/Long"
+  },
+  "2012-10-30": {
+    "min": 540.0,
+    "max": 570.0,
+    "modal": 550.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Round/Long"
+  },
+  "2012-10-31": {
+    "min": 550.0,
+    "max": 575.0,
+    "modal": 560.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Round/Long"
+  }
+}

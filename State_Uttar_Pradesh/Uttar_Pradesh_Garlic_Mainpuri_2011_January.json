@@ -1,0 +1,74 @@
+{
+  "2011-01-04": {
+    "min": 8000.0,
+    "max": 10500.0,
+    "modal": 10000.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-08": {
+    "min": 8500.0,
+    "max": 9700.0,
+    "modal": 9500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-11": {
+    "min": 8000.0,
+    "max": 9200.0,
+    "modal": 9000.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-15": {
+    "min": 8000.0,
+    "max": 9100.0,
+    "modal": 9000.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-18": {
+    "min": 8000.0,
+    "max": 8600.0,
+    "modal": 8500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-22": {
+    "min": 7500.0,
+    "max": 8100.0,
+    "modal": 8000.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-25": {
+    "min": 7600.0,
+    "max": 8500.0,
+    "modal": 8200.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2011-01-29": {
+    "min": 7500.0,
+    "max": 8500.0,
+    "modal": 8400.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

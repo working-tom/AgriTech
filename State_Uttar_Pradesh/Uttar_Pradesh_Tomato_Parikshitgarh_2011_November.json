@@ -1,0 +1,29 @@
+{
+  "2011-11-01": {
+    "min": 1000.0,
+    "max": 0.0,
+    "modal": 1100.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tomato"
+  },
+  "2011-11-07": {
+    "min": 900.0,
+    "max": 0.0,
+    "modal": 1100.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tomato"
+  },
+  "2011-11-19": {
+    "min": 1000.0,
+    "max": 0.0,
+    "modal": 1100.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Tomato"
+  }
+}

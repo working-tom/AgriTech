@@ -1,0 +1,29 @@
+{
+  "2015-11-05": {
+    "min": 5750.0,
+    "max": 5800.0,
+    "modal": 5775.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2015-11-06": {
+    "min": 5750.0,
+    "max": 5800.0,
+    "modal": 5775.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  },
+  "2015-11-30": {
+    "min": 5750.0,
+    "max": 5800.0,
+    "modal": 5780.0,
+    "arrival": 7.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi (Whole)"
+  }
+}

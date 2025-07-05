@@ -1,0 +1,29 @@
+{
+  "2014-12-12": {
+    "min": 95.0,
+    "max": 103.0,
+    "modal": 100.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-18": {
+    "min": 76.0,
+    "max": 80.0,
+    "modal": 78.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  },
+  "2014-12-29": {
+    "min": 76.0,
+    "max": 82.0,
+    "modal": 80.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Carrot"
+  }
+}
