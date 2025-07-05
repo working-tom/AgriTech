@@ -1,0 +1,47 @@
+{
+  "2010-02-01": {
+    "min": 100.0,
+    "max": 450.0,
+    "modal": 300.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  },
+  "2010-02-02": {
+    "min": 140.0,
+    "max": 875.0,
+    "modal": 320.0,
+    "arrival": 2.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  },
+  "2010-02-03": {
+    "min": 100.0,
+    "max": 500.0,
+    "modal": 300.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  },
+  "2010-02-04": {
+    "min": 300.0,
+    "max": 500.0,
+    "modal": 400.0,
+    "arrival": 71.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  },
+  "2010-02-05": {
+    "min": 250.0,
+    "max": 475.0,
+    "modal": 350.0,
+    "arrival": 108.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Orange"
+  }
+}

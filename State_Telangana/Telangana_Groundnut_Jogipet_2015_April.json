@@ -1,0 +1,29 @@
+{
+  "2015-04-07": {
+    "min": 3800.0,
+    "max": 3800.0,
+    "modal": 3800.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2015-04-24": {
+    "min": 4260.0,
+    "max": 4260.0,
+    "modal": 4260.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Kadiri-3"
+  },
+  "2015-04-26": {
+    "min": 4300.0,
+    "max": 4365.0,
+    "modal": 4332.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

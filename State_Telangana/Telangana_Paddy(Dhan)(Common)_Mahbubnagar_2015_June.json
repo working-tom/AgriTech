@@ -1,0 +1,101 @@
+{
+  "2015-06-01": {
+    "min": 1050.0,
+    "max": 1321.0,
+    "modal": 1321.0,
+    "arrival": 0.95,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2015-06-03": {
+    "min": 1282.0,
+    "max": 1282.0,
+    "modal": 1282.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2015-06-04": {
+    "min": 1251.0,
+    "max": 1325.0,
+    "modal": 1325.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2015-06-05": {
+    "min": 1102.0,
+    "max": 1336.0,
+    "modal": 1268.0,
+    "arrival": 1.15,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2015-06-06": {
+    "min": 1241.0,
+    "max": 1348.0,
+    "modal": 1338.0,
+    "arrival": 5.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2015-06-09": {
+    "min": 1107.0,
+    "max": 1326.0,
+    "modal": 1290.0,
+    "arrival": 3.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2015-06-10": {
+    "min": 1330.0,
+    "max": 1330.0,
+    "modal": 1330.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2015-06-13": {
+    "min": 1107.0,
+    "max": 1345.0,
+    "modal": 1331.0,
+    "arrival": 5.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2015-06-15": {
+    "min": 1285.0,
+    "max": 1343.0,
+    "modal": 1315.0,
+    "arrival": 3.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2015-06-17": {
+    "min": 1312.0,
+    "max": 1360.0,
+    "modal": 1350.0,
+    "arrival": 16.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2015-06-26": {
+    "min": 1288.0,
+    "max": 1335.0,
+    "modal": 1301.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  }
+}

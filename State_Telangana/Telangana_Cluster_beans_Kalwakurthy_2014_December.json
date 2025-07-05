@@ -1,0 +1,38 @@
+{
+  "2014-12-03": {
+    "min": 270.0,
+    "max": 290.0,
+    "modal": 280.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2014-12-04": {
+    "min": 300.0,
+    "max": 390.0,
+    "modal": 345.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2014-12-12": {
+    "min": 186.0,
+    "max": 200.0,
+    "modal": 193.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2014-12-16": {
+    "min": 80.0,
+    "max": 80.0,
+    "modal": 80.0,
+    "arrival": 0.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  }
+}

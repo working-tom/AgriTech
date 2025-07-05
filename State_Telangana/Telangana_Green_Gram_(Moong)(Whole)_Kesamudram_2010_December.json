@@ -1,0 +1,101 @@
+{
+  "2010-12-01": {
+    "min": 3000.0,
+    "max": 4251.0,
+    "modal": 3900.0,
+    "arrival": 11.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-02": {
+    "min": 2811.0,
+    "max": 4001.0,
+    "modal": 2811.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-03": {
+    "min": 3670.0,
+    "max": 4001.0,
+    "modal": 3670.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-06": {
+    "min": 2910.0,
+    "max": 3770.0,
+    "modal": 3232.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-09": {
+    "min": 2797.0,
+    "max": 3698.0,
+    "modal": 3353.0,
+    "arrival": 62.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-11": {
+    "min": 3414.0,
+    "max": 3700.0,
+    "modal": 3510.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-13": {
+    "min": 3105.0,
+    "max": 3680.0,
+    "modal": 3105.0,
+    "arrival": 23.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-12-15": {
+    "min": 3301.0,
+    "max": 4102.0,
+    "modal": 4094.0,
+    "arrival": 19.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-12-23": {
+    "min": 3400.0,
+    "max": 3552.0,
+    "modal": 3499.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-12-30": {
+    "min": 2500.0,
+    "max": 3582.0,
+    "modal": 3551.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-12-31": {
+    "min": 2900.0,
+    "max": 2900.0,
+    "modal": 2900.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  }
+}

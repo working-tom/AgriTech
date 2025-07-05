@@ -1,0 +1,38 @@
+{
+  "2015-07-04": {
+    "min": 5.0,
+    "max": 10.0,
+    "modal": 6.0,
+    "arrival": 15.66,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sapota"
+  },
+  "2015-07-10": {
+    "min": 5.0,
+    "max": 10.0,
+    "modal": 6.0,
+    "arrival": 14.61,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sapota"
+  },
+  "2015-07-21": {
+    "min": 150.0,
+    "max": 325.0,
+    "modal": 200.0,
+    "arrival": 221.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sapota"
+  },
+  "2015-07-29": {
+    "min": 5.0,
+    "max": 10.0,
+    "modal": 6.0,
+    "arrival": 7.02,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sapota"
+  }
+}

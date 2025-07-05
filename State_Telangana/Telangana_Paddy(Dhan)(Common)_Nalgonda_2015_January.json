@@ -1,0 +1,65 @@
+{
+  "2015-01-02": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "modal": 1400.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "B P T"
+  },
+  "2015-01-03": {
+    "min": 1330.0,
+    "max": 1348.0,
+    "modal": 1346.0,
+    "arrival": 1.0333333333333334,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (New)"
+  },
+  "2015-01-05": {
+    "min": 1330.0,
+    "max": 1348.0,
+    "modal": 1346.0,
+    "arrival": 1.0333333333333334,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (New)"
+  },
+  "2015-01-06": {
+    "min": 1321.0,
+    "max": 1347.0,
+    "modal": 1329.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (New)"
+  },
+  "2015-01-07": {
+    "min": 1320.0,
+    "max": 1320.0,
+    "modal": 1320.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MTU-1010"
+  },
+  "2015-01-08": {
+    "min": 1351.0,
+    "max": 1351.0,
+    "modal": 1351.0,
+    "arrival": 1.2666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (New)"
+  },
+  "2015-01-09": {
+    "min": 1321.0,
+    "max": 1351.0,
+    "modal": 1341.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MTU-1010"
+  }
+}

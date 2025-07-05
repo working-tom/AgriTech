@@ -1,0 +1,29 @@
+{
+  "2010-03-03": {
+    "min": 1900.0,
+    "max": 1950.0,
+    "modal": 1920.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2010-03-12": {
+    "min": 1900.0,
+    "max": 1900.0,
+    "modal": 1900.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2010-03-29": {
+    "min": 1900.0,
+    "max": 1930.0,
+    "modal": 1925.0,
+    "arrival": 57.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  }
+}

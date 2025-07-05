@@ -1,0 +1,38 @@
+{
+  "2010-04-13": {
+    "min": 1900.0,
+    "max": 1900.0,
+    "modal": 1900.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  },
+  "2010-04-15": {
+    "min": 1890.0,
+    "max": 1920.0,
+    "modal": 1920.0,
+    "arrival": 52.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Average (Whole)"
+  },
+  "2010-04-17": {
+    "min": 1850.0,
+    "max": 1920.0,
+    "modal": 1920.0,
+    "arrival": 32.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bengal Gram (Split)"
+  },
+  "2010-04-26": {
+    "min": 1800.0,
+    "max": 1850.0,
+    "modal": 1830.0,
+    "arrival": 13.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Bengal Gram (Split)"
+  }
+}

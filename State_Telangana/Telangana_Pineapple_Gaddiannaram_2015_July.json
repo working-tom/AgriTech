@@ -1,0 +1,38 @@
+{
+  "2015-07-04": {
+    "min": 4.0,
+    "max": 30.0,
+    "modal": 8.0,
+    "arrival": 120.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2015-07-10": {
+    "min": 4.0,
+    "max": 30.0,
+    "modal": 8.0,
+    "arrival": 136.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2015-07-21": {
+    "min": 4.0,
+    "max": 25.0,
+    "modal": 8.0,
+    "arrival": 24.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  },
+  "2015-07-29": {
+    "min": 4.0,
+    "max": 25.0,
+    "modal": 8.0,
+    "arrival": 32.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pine Apple"
+  }
+}

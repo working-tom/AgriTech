@@ -1,0 +1,29 @@
+{
+  "2014-01-02": {
+    "min": 1340.0,
+    "max": 1381.0,
+    "modal": 1361.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2014-01-03": {
+    "min": 1340.0,
+    "max": 1401.0,
+    "modal": 1371.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  },
+  "2014-01-05": {
+    "min": 1402.0,
+    "max": 1402.0,
+    "modal": 1402.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sona"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2015-07-04": {
+    "min": 70.0,
+    "max": 200.0,
+    "modal": 120.0,
+    "arrival": 353.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2015-07-10": {
+    "min": 60.0,
+    "max": 200.0,
+    "modal": 130.0,
+    "arrival": 579.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2015-07-21": {
+    "min": 60.0,
+    "max": 200.0,
+    "modal": 100.0,
+    "arrival": 708.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  },
+  "2015-07-29": {
+    "min": 50.0,
+    "max": 200.0,
+    "modal": 120.0,
+    "arrival": 448.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava"
+  }
+}

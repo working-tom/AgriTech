@@ -1,0 +1,38 @@
+{
+  "2014-04-05": {
+    "min": 10000.0,
+    "max": 20000.0,
+    "modal": 10000.0,
+    "arrival": 50.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2014-04-25": {
+    "min": 10000.0,
+    "max": 60000.0,
+    "modal": 40000.0,
+    "arrival": 156.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "She Baffelo"
+  },
+  "2014-04-26": {
+    "min": 10000.0,
+    "max": 30000.0,
+    "modal": 10000.0,
+    "arrival": 60.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2014-04-27": {
+    "min": 10000.0,
+    "max": 30000.0,
+    "modal": 10000.0,
+    "arrival": 258.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  }
+}

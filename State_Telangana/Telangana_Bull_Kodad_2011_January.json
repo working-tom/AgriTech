@@ -1,0 +1,47 @@
+{
+  "2011-01-02": {
+    "min": 3000.0,
+    "max": 10000.0,
+    "modal": 7000.0,
+    "arrival": 71.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2011-01-09": {
+    "min": 3000.0,
+    "max": 10000.0,
+    "modal": 7200.0,
+    "arrival": 113.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2011-01-16": {
+    "min": 3700.0,
+    "max": 10000.0,
+    "modal": 5600.0,
+    "arrival": 175.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2011-01-23": {
+    "min": 3000.0,
+    "max": 10000.0,
+    "modal": 4400.0,
+    "arrival": 101.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2011-01-30": {
+    "min": 3500.0,
+    "max": 15000.0,
+    "modal": 4000.0,
+    "arrival": 77.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  }
+}

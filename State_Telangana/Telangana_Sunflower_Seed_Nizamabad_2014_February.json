@@ -1,0 +1,29 @@
+{
+  "2014-02-07": {
+    "min": 2900.0,
+    "max": 3140.0,
+    "modal": 3140.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower Seed"
+  },
+  "2014-02-20": {
+    "min": 3025.0,
+    "max": 3100.0,
+    "modal": 3100.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower Seed"
+  },
+  "2014-02-25": {
+    "min": 2900.0,
+    "max": 3025.0,
+    "modal": 3025.0,
+    "arrival": 2.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Sunflower Seed"
+  }
+}

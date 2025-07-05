@@ -1,0 +1,29 @@
+{
+  "2011-11-03": {
+    "min": 900.0,
+    "max": 950.0,
+    "modal": 920.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MTU-1010"
+  },
+  "2011-11-14": {
+    "min": 950.0,
+    "max": 1030.0,
+    "modal": 1030.0,
+    "arrival": 24.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "MTU-1010"
+  },
+  "2011-11-15": {
+    "min": 1021.0,
+    "max": 1106.0,
+    "modal": 1080.0,
+    "arrival": 29.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "B P T"
+  }
+}

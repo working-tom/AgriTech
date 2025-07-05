@@ -1,0 +1,38 @@
+{
+  "2012-02-01": {
+    "min": 1023.0,
+    "max": 1072.0,
+    "modal": 1023.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-02-03": {
+    "min": 1030.0,
+    "max": 1186.0,
+    "modal": 1030.0,
+    "arrival": 1.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-02-05": {
+    "min": 830.0,
+    "max": 861.0,
+    "modal": 830.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  },
+  "2012-02-07": {
+    "min": 1126.0,
+    "max": 1126.0,
+    "modal": 1126.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Hansa"
+  }
+}

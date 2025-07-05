@@ -1,0 +1,29 @@
+{
+  "2014-05-20": {
+    "min": 2700.0,
+    "max": 2700.0,
+    "modal": 2700.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safflower"
+  },
+  "2014-05-23": {
+    "min": 2600.0,
+    "max": 2675.0,
+    "modal": 2637.0,
+    "arrival": 4.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safflower"
+  },
+  "2014-05-26": {
+    "min": 2550.0,
+    "max": 2706.0,
+    "modal": 2628.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Safflower"
+  }
+}

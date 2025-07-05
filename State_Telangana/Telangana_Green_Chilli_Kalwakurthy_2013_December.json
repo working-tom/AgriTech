@@ -1,0 +1,38 @@
+{
+  "2013-12-02": {
+    "min": 200.0,
+    "max": 265.0,
+    "modal": 233.0,
+    "arrival": 0.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Chilly"
+  },
+  "2013-12-03": {
+    "min": 170.0,
+    "max": 250.0,
+    "modal": 210.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Chilly"
+  },
+  "2013-12-07": {
+    "min": 170.0,
+    "max": 240.0,
+    "modal": 205.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Chilly"
+  },
+  "2013-12-09": {
+    "min": 200.0,
+    "max": 312.0,
+    "modal": 256.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Green Chilly"
+  }
+}

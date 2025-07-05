@@ -1,0 +1,20 @@
+{
+  "2011-01-01": {
+    "min": 1000.0,
+    "max": 1030.0,
+    "modal": 1000.0,
+    "arrival": 125.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Samba Masuri"
+  },
+  "2011-01-02": {
+    "min": 1000.0,
+    "max": 1050.0,
+    "modal": 1030.0,
+    "arrival": 190.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Samba Masuri"
+  }
+}

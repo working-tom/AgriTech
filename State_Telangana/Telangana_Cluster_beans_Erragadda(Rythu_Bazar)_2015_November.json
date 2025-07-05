@@ -1,0 +1,56 @@
+{
+  "2015-11-01": {
+    "min": 20.0,
+    "max": 26.0,
+    "modal": 23.0,
+    "arrival": 3.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2015-11-02": {
+    "min": 18.0,
+    "max": 25.0,
+    "modal": 21.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2015-11-03": {
+    "min": 17.0,
+    "max": 24.0,
+    "modal": 20.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2015-11-04": {
+    "min": 15.0,
+    "max": 22.0,
+    "modal": 18.0,
+    "arrival": 3.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2015-11-05": {
+    "min": 12.0,
+    "max": 18.0,
+    "modal": 15.0,
+    "arrival": 3.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  },
+  "2015-11-19": {
+    "min": 3000.0,
+    "max": 3600.0,
+    "modal": 3300.0,
+    "arrival": 3.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cluster Beans"
+  }
+}

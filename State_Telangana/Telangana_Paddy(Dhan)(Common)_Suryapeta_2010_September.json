@@ -1,0 +1,47 @@
+{
+  "2010-09-01": {
+    "min": 1000.0,
+    "max": 1050.0,
+    "modal": 1000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "I.R. 64"
+  },
+  "2010-09-02": {
+    "min": 900.0,
+    "max": 972.0,
+    "modal": 959.0,
+    "arrival": 234.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nellore Sanna"
+  },
+  "2010-09-03": {
+    "min": 910.0,
+    "max": 976.0,
+    "modal": 949.0,
+    "arrival": 174.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nellore Sanna"
+  },
+  "2010-09-04": {
+    "min": 916.0,
+    "max": 970.0,
+    "modal": 953.0,
+    "arrival": 118.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nellore Sanna"
+  },
+  "2010-09-21": {
+    "min": 971.0,
+    "max": 974.0,
+    "modal": 971.0,
+    "arrival": 374.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Samba Masuri"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2010-05-04": {
+    "min": 100.0,
+    "max": 350.0,
+    "modal": 190.0,
+    "arrival": 648.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2010-05-07": {
+    "min": 4000.0,
+    "max": 9000.0,
+    "modal": 7000.0,
+    "arrival": 902.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  },
+  "2010-05-17": {
+    "min": 4000.0,
+    "max": 9000.0,
+    "modal": 7000.0,
+    "arrival": 250.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  },
+  "2010-05-18": {
+    "min": 4000.0,
+    "max": 9000.0,
+    "modal": 7000.0,
+    "arrival": 416.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Totapuri"
+  }
+}

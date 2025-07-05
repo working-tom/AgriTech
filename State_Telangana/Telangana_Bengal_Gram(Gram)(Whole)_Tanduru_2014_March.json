@@ -1,0 +1,29 @@
+{
+  "2014-03-07": {
+    "min": 2700.0,
+    "max": 2700.0,
+    "modal": 2700.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2014-03-13": {
+    "min": 2600.0,
+    "max": 2700.0,
+    "modal": 2650.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  },
+  "2014-03-14": {
+    "min": 2650.0,
+    "max": 2800.0,
+    "modal": 2650.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jawari/Local"
+  }
+}

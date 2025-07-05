@@ -1,0 +1,29 @@
+{
+  "2015-03-03": {
+    "min": 3750.0,
+    "max": 3950.0,
+    "modal": 3850.0,
+    "arrival": 13.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cotton (Unginned)"
+  },
+  "2015-03-17": {
+    "min": 3750.0,
+    "max": 3950.0,
+    "modal": 3850.0,
+    "arrival": 6.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cotton (Unginned)"
+  },
+  "2015-03-30": {
+    "min": 3800.0,
+    "max": 4000.0,
+    "modal": 3900.0,
+    "arrival": 7.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Cotton (Unginned)"
+  }
+}

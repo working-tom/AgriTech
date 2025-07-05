@@ -1,0 +1,38 @@
+{
+  "2011-07-02": {
+    "min": 4288.0,
+    "max": 4306.0,
+    "modal": 4306.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  },
+  "2011-07-04": {
+    "min": 3618.0,
+    "max": 4336.0,
+    "modal": 4069.0,
+    "arrival": 3.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  },
+  "2011-07-07": {
+    "min": 4320.0,
+    "max": 4349.0,
+    "modal": 4336.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  },
+  "2011-07-08": {
+    "min": 4116.0,
+    "max": 4359.0,
+    "modal": 4349.0,
+    "arrival": 0.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Caster"
+  }
+}

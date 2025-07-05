@@ -1,0 +1,29 @@
+{
+  "2015-09-26": {
+    "min": 100.0,
+    "max": 200.0,
+    "modal": 150.0,
+    "arrival": 209.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2015-09-27": {
+    "min": 100.0,
+    "max": 400.0,
+    "modal": 200.0,
+    "arrival": 78.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  },
+  "2015-09-28": {
+    "min": 100.0,
+    "max": 300.0,
+    "modal": 200.0,
+    "arrival": 145.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Seethaphal"
+  }
+}
