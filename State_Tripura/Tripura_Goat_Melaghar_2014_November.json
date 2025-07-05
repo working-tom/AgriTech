@@ -1,0 +1,29 @@
+{
+  "2014-11-04": {
+    "min": 600.0,
+    "max": 1600.0,
+    "modal": 1000.0,
+    "arrival": 150.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2014-11-11": {
+    "min": 600.0,
+    "max": 1800.0,
+    "modal": 1500.0,
+    "arrival": 150.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  },
+  "2014-11-25": {
+    "min": 900.0,
+    "max": 2000.0,
+    "modal": 1500.0,
+    "arrival": 150.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Goat"
+  }
+}

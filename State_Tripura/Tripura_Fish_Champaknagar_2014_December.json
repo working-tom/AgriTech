@@ -1,0 +1,65 @@
+{
+  "2014-12-01": {
+    "min": 10000.0,
+    "max": 14000.0,
+    "modal": 13000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2014-12-05": {
+    "min": 11000.0,
+    "max": 13000.0,
+    "modal": 12000.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2014-12-12": {
+    "min": 11000.0,
+    "max": 13000.0,
+    "modal": 12000.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2014-12-15": {
+    "min": 12000.0,
+    "max": 14000.0,
+    "modal": 13000.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2014-12-19": {
+    "min": 11000.0,
+    "max": 13000.0,
+    "modal": 12000.0,
+    "arrival": 0.35,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2014-12-22": {
+    "min": 11000.0,
+    "max": 13000.0,
+    "modal": 12000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2014-12-26": {
+    "min": 1.0,
+    "max": 1.0,
+    "modal": 1.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  }
+}

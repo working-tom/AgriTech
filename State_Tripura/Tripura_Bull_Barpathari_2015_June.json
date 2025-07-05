@@ -1,0 +1,29 @@
+{
+  "2015-06-05": {
+    "min": 20000.0,
+    "max": 30000.0,
+    "modal": 25000.0,
+    "arrival": 80.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2015-06-12": {
+    "min": 16000.0,
+    "max": 30000.0,
+    "modal": 25000.0,
+    "arrival": 90.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2015-06-19": {
+    "min": 20000.0,
+    "max": 30000.0,
+    "modal": 25000.0,
+    "arrival": 70.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  }
+}

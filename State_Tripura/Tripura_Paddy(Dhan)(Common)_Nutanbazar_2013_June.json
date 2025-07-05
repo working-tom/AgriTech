@@ -1,0 +1,47 @@
+{
+  "2013-06-02": {
+    "min": 920.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy Medium"
+  },
+  "2013-06-09": {
+    "min": 850.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  },
+  "2013-06-16": {
+    "min": 925.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2013-06-23": {
+    "min": 940.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2013-06-30": {
+    "min": 950.0,
+    "max": 1000.0,
+    "modal": 980.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  }
+}

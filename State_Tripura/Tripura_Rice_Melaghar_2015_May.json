@@ -1,0 +1,38 @@
+{
+  "2015-05-05": {
+    "min": 2200.0,
+    "max": 2300.0,
+    "modal": 2250.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Coarse"
+  },
+  "2015-05-15": {
+    "min": 2500.0,
+    "max": 2600.0,
+    "modal": 2550.0,
+    "arrival": 0.6666666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2015-05-19": {
+    "min": 2500.0,
+    "max": 2600.0,
+    "modal": 2550.0,
+    "arrival": 1.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2015-05-29": {
+    "min": 2800.0,
+    "max": 2900.0,
+    "modal": 2850.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Fine"
+  }
+}

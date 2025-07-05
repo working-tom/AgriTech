@@ -1,0 +1,20 @@
+{
+  "2015-01-15": {
+    "min": 20000.0,
+    "max": 30000.0,
+    "modal": 25000.0,
+    "arrival": 0.3333333333333333,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  },
+  "2015-01-29": {
+    "min": 38000.0,
+    "max": 40000.0,
+    "modal": 39500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Singhra(Small)"
+  }
+}

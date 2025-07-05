@@ -1,0 +1,56 @@
+{
+  "2014-05-01": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "modal": 1450.0,
+    "arrival": 0.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ridgeguard(Tori)"
+  },
+  "2014-05-05": {
+    "min": 1800.0,
+    "max": 2000.0,
+    "modal": 1950.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ridgeguard(Tori)"
+  },
+  "2014-05-15": {
+    "min": 2000.0,
+    "max": 2200.0,
+    "modal": 2150.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ridgeguard(Tori)"
+  },
+  "2014-05-19": {
+    "min": 2000.0,
+    "max": 2200.0,
+    "modal": 2150.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ridgeguard(Tori)"
+  },
+  "2014-05-22": {
+    "min": 1500.0,
+    "max": 1600.0,
+    "modal": 1550.0,
+    "arrival": 0.05,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ridgeguard(Tori)"
+  },
+  "2014-05-26": {
+    "min": 1500.0,
+    "max": 1600.0,
+    "modal": 1550.0,
+    "arrival": 0.07,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Ridgeguard(Tori)"
+  }
+}

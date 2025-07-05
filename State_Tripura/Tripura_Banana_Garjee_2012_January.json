@@ -1,0 +1,47 @@
+{
+  "2012-01-16": {
+    "min": 900.0,
+    "max": 1000.0,
+    "modal": 950.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Champa"
+  },
+  "2012-01-19": {
+    "min": 950.0,
+    "max": 980.0,
+    "modal": 970.0,
+    "arrival": 2.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Champa"
+  },
+  "2012-01-23": {
+    "min": 925.0,
+    "max": 970.0,
+    "modal": 950.0,
+    "arrival": 4.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Champa"
+  },
+  "2012-01-26": {
+    "min": 650.0,
+    "max": 750.0,
+    "modal": 700.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Champa"
+  },
+  "2012-01-30": {
+    "min": 600.0,
+    "max": 750.0,
+    "modal": 700.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Champa"
+  }
+}

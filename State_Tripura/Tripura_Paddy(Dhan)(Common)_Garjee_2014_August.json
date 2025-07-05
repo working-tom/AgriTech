@@ -1,0 +1,47 @@
+{
+  "2014-08-04": {
+    "min": 1375.0,
+    "max": 1400.0,
+    "modal": 1380.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (New)"
+  },
+  "2014-08-07": {
+    "min": 1450.0,
+    "max": 1475.0,
+    "modal": 1462.5,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (OLD)"
+  },
+  "2014-08-11": {
+    "min": 1375.0,
+    "max": 1425.0,
+    "modal": 1400.0,
+    "arrival": 0.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (OLD)"
+  },
+  "2014-08-25": {
+    "min": 1375.0,
+    "max": 1550.0,
+    "modal": 1450.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (OLD)"
+  },
+  "2014-08-28": {
+    "min": 1450.0,
+    "max": 1500.0,
+    "modal": 1475.0,
+    "arrival": 1.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (OLD)"
+  }
+}

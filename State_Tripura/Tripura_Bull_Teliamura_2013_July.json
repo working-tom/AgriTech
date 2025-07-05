@@ -1,0 +1,29 @@
+{
+  "2013-07-12": {
+    "min": 8000.0,
+    "max": 16000.0,
+    "modal": 12000.0,
+    "arrival": 80.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  },
+  "2013-07-19": {
+    "min": 7000.0,
+    "max": 16000.0,
+    "modal": 12000.0,
+    "arrival": 40.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Other"
+  },
+  "2013-07-26": {
+    "min": 10000.0,
+    "max": 17000.0,
+    "modal": 13500.0,
+    "arrival": 100.0,
+    "arrive_unit": "Nos",
+    "price_unit": "Rs/Number",
+    "variety": "Bull"
+  }
+}

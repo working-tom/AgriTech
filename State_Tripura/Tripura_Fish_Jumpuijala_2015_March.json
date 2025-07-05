@@ -1,0 +1,65 @@
+{
+  "2015-03-05": {
+    "min": 15000.0,
+    "max": 30000.0,
+    "modal": 22500.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-03-08": {
+    "min": 18000.0,
+    "max": 30000.0,
+    "modal": 24000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-03-15": {
+    "min": 16000.0,
+    "max": 30000.0,
+    "modal": 23000.0,
+    "arrival": 0.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-03-19": {
+    "min": 18000.0,
+    "max": 28000.0,
+    "modal": 23000.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-03-22": {
+    "min": 18000.0,
+    "max": 25000.0,
+    "modal": 21500.0,
+    "arrival": 0.02,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Katla(Big)"
+  },
+  "2015-03-26": {
+    "min": 18000.0,
+    "max": 25000.0,
+    "modal": 21500.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2015-03-29": {
+    "min": 16000.0,
+    "max": 25000.0,
+    "modal": 20500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  }
+}

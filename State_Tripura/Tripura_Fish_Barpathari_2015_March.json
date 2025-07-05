@@ -1,0 +1,56 @@
+{
+  "2015-03-06": {
+    "min": 20000.0,
+    "max": 25000.0,
+    "modal": 23000.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Katla (Small)"
+  },
+  "2015-03-09": {
+    "min": 14000.0,
+    "max": 17000.0,
+    "modal": 16000.0,
+    "arrival": 0.25,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2015-03-13": {
+    "min": 18000.0,
+    "max": 23000.0,
+    "modal": 20000.0,
+    "arrival": 0.0166666666666666,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  },
+  "2015-03-20": {
+    "min": 13500.0,
+    "max": 14500.0,
+    "modal": 14000.0,
+    "arrival": 0.025,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2015-03-23": {
+    "min": 13500.0,
+    "max": 14500.0,
+    "modal": 14000.0,
+    "arrival": 0.015,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Andhra)"
+  },
+  "2015-03-27": {
+    "min": 23000.0,
+    "max": 26000.0,
+    "modal": 25000.0,
+    "arrival": 0.015,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Rahu(Local)"
+  }
+}

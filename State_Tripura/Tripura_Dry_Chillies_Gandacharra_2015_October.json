@@ -1,0 +1,29 @@
+{
+  "2015-10-01": {
+    "min": 20000.0,
+    "max": 22000.0,
+    "modal": 21000.0,
+    "arrival": 0.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dry Chillies"
+  },
+  "2015-10-08": {
+    "min": 10000.0,
+    "max": 15000.0,
+    "modal": 12500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dry Chillies"
+  },
+  "2015-10-15": {
+    "min": 10000.0,
+    "max": 15000.0,
+    "modal": 12500.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Dry Chillies"
+  }
+}
