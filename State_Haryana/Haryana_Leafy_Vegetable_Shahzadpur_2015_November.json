@@ -1,0 +1,29 @@
+{
+  "2015-11-07": {
+    "min": 300.0,
+    "max": 300.0,
+    "modal": 300.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Leafy Vegetables"
+  },
+  "2015-11-16": {
+    "min": 400.0,
+    "max": 400.0,
+    "modal": 400.0,
+    "arrival": 0.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Leafy Vegetables"
+  },
+  "2015-11-18": {
+    "min": 373.0,
+    "max": 500.0,
+    "modal": 373.0,
+    "arrival": 0.42,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Leafy Vegetables"
+  }
+}
