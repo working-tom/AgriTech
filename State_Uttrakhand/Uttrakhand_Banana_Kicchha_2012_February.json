@@ -1,0 +1,56 @@
+{
+  "2012-02-09": {
+    "min": 500.0,
+    "max": 550.0,
+    "modal": 525.0,
+    "arrival": 12.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Banana - Ripe"
+  },
+  "2012-02-13": {
+    "min": 590.0,
+    "max": 608.0,
+    "modal": 599.0,
+    "arrival": 38.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-22": {
+    "min": 500.0,
+    "max": 540.0,
+    "modal": 520.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-24": {
+    "min": 530.0,
+    "max": 544.0,
+    "modal": 537.0,
+    "arrival": 62.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-25": {
+    "min": 480.0,
+    "max": 516.0,
+    "modal": 498.0,
+    "arrival": 57.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-29": {
+    "min": 570.0,
+    "max": 633.0,
+    "modal": 603.0,
+    "arrival": 98.9,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

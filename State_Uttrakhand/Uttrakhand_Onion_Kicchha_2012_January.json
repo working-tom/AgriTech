@@ -1,0 +1,29 @@
+{
+  "2012-01-21": {
+    "min": 520.0,
+    "max": 536.0,
+    "modal": 528.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Onion"
+  },
+  "2012-01-28": {
+    "min": 389.0,
+    "max": 411.0,
+    "modal": 400.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  },
+  "2012-01-31": {
+    "min": 583.0,
+    "max": 617.0,
+    "modal": 600.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nasik"
+  }
+}

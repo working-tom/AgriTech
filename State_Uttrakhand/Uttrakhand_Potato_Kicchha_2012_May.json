@@ -1,0 +1,47 @@
+{
+  "2012-05-06": {
+    "min": 287.0,
+    "max": 313.0,
+    "modal": 300.0,
+    "arrival": 9.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Haldwani"
+  },
+  "2012-05-07": {
+    "min": 287.0,
+    "max": 313.0,
+    "modal": 300.0,
+    "arrival": 18.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  },
+  "2012-05-12": {
+    "min": 439.0,
+    "max": 561.0,
+    "modal": 500.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  },
+  "2012-05-23": {
+    "min": 400.0,
+    "max": 461.0,
+    "modal": 431.0,
+    "arrival": 6.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  },
+  "2012-05-25": {
+    "min": 350.0,
+    "max": 450.0,
+    "modal": 400.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  }
+}

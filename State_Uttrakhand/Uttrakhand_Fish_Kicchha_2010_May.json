@@ -1,0 +1,47 @@
+{
+  "2010-05-03": {
+    "min": 2800.0,
+    "max": 3500.0,
+    "modal": 3000.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pangass"
+  },
+  "2010-05-05": {
+    "min": 2500.0,
+    "max": 3000.0,
+    "modal": 2692.0,
+    "arrival": 1.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pangass"
+  },
+  "2010-05-25": {
+    "min": 2500.0,
+    "max": 3500.0,
+    "modal": 2500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pangass"
+  },
+  "2010-05-27": {
+    "min": 2500.0,
+    "max": 3500.0,
+    "modal": 2500.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pangass"
+  },
+  "2010-05-30": {
+    "min": 2500.0,
+    "max": 3500.0,
+    "modal": 2500.0,
+    "arrival": 3.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Pangass"
+  }
+}

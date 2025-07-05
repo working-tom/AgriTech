@@ -1,0 +1,74 @@
+{
+  "2010-04-01": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1050.0,
+    "arrival": 8.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  },
+  "2010-04-02": {
+    "min": 1000.0,
+    "max": 1400.0,
+    "modal": 1200.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  },
+  "2010-04-03": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1042.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  },
+  "2010-04-06": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1022.0,
+    "arrival": 12.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  },
+  "2010-04-07": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1105.0,
+    "arrival": 22.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Medium"
+  },
+  "2010-04-09": {
+    "min": 1000.0,
+    "max": 1200.0,
+    "modal": 1000.0,
+    "arrival": 1.8,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  },
+  "2010-04-11": {
+    "min": 1200.0,
+    "max": 1400.0,
+    "modal": 1267.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  },
+  "2010-04-12": {
+    "min": 1200.0,
+    "max": 1275.0,
+    "modal": 1250.0,
+    "arrival": 4.7,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Nagpuri"
+  }
+}

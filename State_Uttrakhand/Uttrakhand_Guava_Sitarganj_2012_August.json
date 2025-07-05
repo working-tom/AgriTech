@@ -1,0 +1,29 @@
+{
+  "2012-08-07": {
+    "min": 240.0,
+    "max": 260.0,
+    "modal": 250.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Guava Alahabad"
+  },
+  "2012-08-12": {
+    "min": 240.0,
+    "max": 260.0,
+    "modal": 250.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-08-31": {
+    "min": 250.0,
+    "max": 300.0,
+    "modal": 270.0,
+    "arrival": 21.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}

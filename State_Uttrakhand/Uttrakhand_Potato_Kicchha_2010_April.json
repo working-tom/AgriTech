@@ -1,0 +1,56 @@
+{
+  "2010-04-01": {
+    "min": 250.0,
+    "max": 300.0,
+    "modal": 250.0,
+    "arrival": 21.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-04-03": {
+    "min": 300.0,
+    "max": 350.0,
+    "modal": 300.0,
+    "arrival": 2.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-04-05": {
+    "min": 200.0,
+    "max": 250.0,
+    "modal": 200.0,
+    "arrival": 1.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-04-07": {
+    "min": 230.0,
+    "max": 250.0,
+    "modal": 250.0,
+    "arrival": 22.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "(Red Nanital)"
+  },
+  "2010-04-12": {
+    "min": 295.0,
+    "max": 310.0,
+    "modal": 300.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Local"
+  },
+  "2010-04-14": {
+    "min": 300.0,
+    "max": 330.0,
+    "modal": 300.0,
+    "arrival": 22.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Desi"
+  }
+}

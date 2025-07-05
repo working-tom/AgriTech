@@ -1,0 +1,29 @@
+{
+  "2010-06-07": {
+    "min": 200.0,
+    "max": 230.0,
+    "modal": 218.0,
+    "arrival": 1.4,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Brinjal"
+  },
+  "2010-06-13": {
+    "min": 160.0,
+    "max": 220.0,
+    "modal": 200.0,
+    "arrival": 1.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Brinjal"
+  },
+  "2010-06-22": {
+    "min": 200.0,
+    "max": 250.0,
+    "modal": 200.0,
+    "arrival": 1.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Brinjal"
+  }
+}
