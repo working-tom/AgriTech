@@ -1,0 +1,38 @@
+{
+  "2010-07-06": {
+    "min": 2075.0,
+    "max": 2130.0,
+    "modal": 2100.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2010-07-07": {
+    "min": 2070.0,
+    "max": 2120.0,
+    "modal": 2110.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2010-07-12": {
+    "min": 2230.0,
+    "max": 2260.0,
+    "modal": 2250.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  },
+  "2010-07-13": {
+    "min": 2260.0,
+    "max": 2320.0,
+    "modal": 2300.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Masuri"
+  }
+}

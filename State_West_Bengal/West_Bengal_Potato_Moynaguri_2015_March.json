@@ -1,0 +1,29 @@
+{
+  "2015-03-03": {
+    "min": 370.0,
+    "max": 400.0,
+    "modal": 380.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2015-03-10": {
+    "min": 400.0,
+    "max": 475.0,
+    "modal": 450.0,
+    "arrival": 4.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2015-03-24": {
+    "min": 300.0,
+    "max": 350.0,
+    "modal": 325.0,
+    "arrival": 5.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  }
+}

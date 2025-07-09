@@ -1,0 +1,29 @@
+{
+  "2015-12-01": {
+    "min": 290.0,
+    "max": 310.0,
+    "modal": 300.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-12-02": {
+    "min": 290.0,
+    "max": 310.0,
+    "modal": 300.0,
+    "arrival": 0.3,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  },
+  "2015-12-31": {
+    "min": 290.0,
+    "max": 310.0,
+    "modal": 300.0,
+    "arrival": 20.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Raddish"
+  }
+}

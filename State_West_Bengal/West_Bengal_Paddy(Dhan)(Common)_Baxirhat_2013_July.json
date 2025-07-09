@@ -1,0 +1,56 @@
+{
+  "2013-07-05": {
+    "min": 1500.0,
+    "max": 1650.0,
+    "modal": 1575.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy fine"
+  },
+  "2013-07-09": {
+    "min": 1525.0,
+    "max": 1600.0,
+    "modal": 1575.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy fine"
+  },
+  "2013-07-12": {
+    "min": 1550.0,
+    "max": 1600.0,
+    "modal": 1575.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy fine"
+  },
+  "2013-07-16": {
+    "min": 1550.0,
+    "max": 1600.0,
+    "modal": 1575.0,
+    "arrival": 25.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy fine"
+  },
+  "2013-07-18": {
+    "min": 1575.0,
+    "max": 1650.0,
+    "modal": 1600.0,
+    "arrival": 21.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Swarna Masuri (New)"
+  },
+  "2013-07-19": {
+    "min": 1525.0,
+    "max": 1600.0,
+    "modal": 1575.0,
+    "arrival": 30.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Paddy"
+  }
+}

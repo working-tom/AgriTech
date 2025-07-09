@@ -1,0 +1,47 @@
+{
+  "2012-02-22": {
+    "min": 3860.0,
+    "max": 3890.0,
+    "modal": 3875.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Beedi"
+  },
+  "2012-02-25": {
+    "min": 2240.0,
+    "max": 2260.0,
+    "modal": 2250.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chewing"
+  },
+  "2012-02-27": {
+    "min": 2490.0,
+    "max": 2510.0,
+    "modal": 2500.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chewing"
+  },
+  "2012-02-28": {
+    "min": 2490.0,
+    "max": 2510.0,
+    "modal": 2500.0,
+    "arrival": 50.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chewing"
+  },
+  "2012-02-29": {
+    "min": 2490.0,
+    "max": 2510.0,
+    "modal": 2500.0,
+    "arrival": 100.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Chewing"
+  }
+}

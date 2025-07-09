@@ -1,0 +1,29 @@
+{
+  "2011-05-05": {
+    "min": 500.0,
+    "max": 540.0,
+    "modal": 500.0,
+    "arrival": 75.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2011-05-19": {
+    "min": 640.0,
+    "max": 660.0,
+    "modal": 650.0,
+    "arrival": 60.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Potato"
+  },
+  "2011-05-26": {
+    "min": 540.0,
+    "max": 580.0,
+    "modal": 560.0,
+    "arrival": 40.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Red"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "2012-02-16": {
+    "min": 250.0,
+    "max": 325.0,
+    "modal": 300.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-20": {
+    "min": 325.0,
+    "max": 400.0,
+    "modal": 375.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-21": {
+    "min": 325.0,
+    "max": 380.0,
+    "modal": 370.0,
+    "arrival": 2.6,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2012-02-22": {
+    "min": 340.0,
+    "max": 375.0,
+    "modal": 360.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2012-02-23": {
+    "min": 250.0,
+    "max": 400.0,
+    "modal": 375.0,
+    "arrival": 2.2,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2012-02-24": {
+    "min": 350.0,
+    "max": 400.0,
+    "modal": 380.0,
+    "arrival": 2.1,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2012-02-26": {
+    "min": 525.0,
+    "max": 560.0,
+    "modal": 540.0,
+    "arrival": 3.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  },
+  "2012-02-27": {
+    "min": 350.0,
+    "max": 400.0,
+    "modal": 380.0,
+    "arrival": 2.5,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Jyoti"
+  },
+  "2012-02-29": {
+    "min": 525.0,
+    "max": 575.0,
+    "modal": 540.0,
+    "arrival": 10.0,
+    "arrive_unit": "Tonnes",
+    "price_unit": "Rs/Quintal",
+    "variety": "Other"
+  }
+}
